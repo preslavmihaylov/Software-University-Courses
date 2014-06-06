@@ -3,7 +3,7 @@
     {
         static void Main()
         {
-            Console.WriteLine("Preslav");
-            Console.WriteLine("Mihaylov");
+            Console.WriteLine("Gancho");
+            Console.WriteLine("Todorov");
         }
     }
