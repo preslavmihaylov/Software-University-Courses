@@ -1,0 +1,5 @@
+First open the directory of the file you want to compile and run.
+
+After that type javac (name of file). Note that I am using Linux Ubuntu and therefore I do not need to specify the path of the javac.exe file as in windows.
+
+After the compilation, simply type java (name of the compiled file). The program executes.

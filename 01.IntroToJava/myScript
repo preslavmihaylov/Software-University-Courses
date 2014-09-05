@@ -1,0 +1,4 @@
+#!/bin/bash
+cd /home/mihaylov/workspace/01.IntroToJava/
+
+java -jar Pr10CreateJar.jar
