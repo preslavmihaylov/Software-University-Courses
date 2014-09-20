@@ -19,7 +19,7 @@ public class _08_ExtractEmails {
 		input[input.length - 1] = temp;
 		
 		String regex = "([a-zA-Z0-9]+[.,-_]?[a-zA-Z0-9]+)+[@]{1}"
-				+ "([a-zA-Z0-9]+[.-]?[a-zA-Z0-9]+)+[.]{1}[a-zA-Z0-9]+";
+				+ "([a-zA-Z0-9]+[.-]?[a-zA-Z0-9]+)+([.]{1}[a-zA-Z0-9]+)+";
 		
 		for (String word : input) {
 			if (word.matches(regex)) {
