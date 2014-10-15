@@ -1,3 +1,0 @@
-.NET Framework is a collection of libraries and assemblies, which
-helps programming languages based on Microsoft (as well as some languages on Linux)
-work efficiently. C# is one of the most popular programming languages using .NET Framework.
