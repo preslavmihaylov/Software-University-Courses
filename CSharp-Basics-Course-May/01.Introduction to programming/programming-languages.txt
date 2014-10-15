@@ -1,0 +1,26 @@
+Programming Languages:
+
+1.HTML:
+HTML or HyperText Markup Language is the main markup language for creating web pages and other 
+information that can be displayed in a web browser.
+
+2.Java:
+Java is a computer programming language that is concurrent, class-based, object-oriented, 
+and specifically designed to have as few implementation dependencies as possible.
+
+3.PHP:
+PHP is a server-side scripting language designed for web development but also used as
+a general-purpose programming language. PHP can be deployed on most web servers and 
+also as a standalone shell on almost every operating system and platform, free of charge.
+
+4.C++:
+C++ (pronounced see plus plus) is a general purpose programming language that is free-form
+and compiled. It is regarded as an intermediate-level language, as it comprises both high-level
+and low-level language features. It provides imperative, object-oriented and generic programming
+features.
+
+5.Python:
+Python is a widely used general-purpose, high-level programming language. Its design
+philosophy emphasizes code readability, and its syntax allows programmers to express concepts in
+fewer lines of code than would be possible in languages such as C. The language provides 
+constructs intended to enable clear programs on both a small and large scale
