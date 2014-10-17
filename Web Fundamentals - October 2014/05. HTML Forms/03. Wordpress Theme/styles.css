@@ -1,0 +1,11 @@
+/* NOTE: The language of the input[type="file"] cannot be changed */
+/* http://stackoverflow.com/questions/1696877/how-to-set-a-value-to-a-file-input-in-html */
+
+fieldset {
+	width: 400px;
+	border: 0;
+}
+
+input[type="image"] {
+	vertical-align: middle;
+}

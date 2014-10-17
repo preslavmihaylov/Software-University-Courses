@@ -1,0 +1,87 @@
+<!doctype html>
+
+<html>
+<head>
+	<title>Fakebook Registration Form</title>
+
+	<link rel="stylesheet" href="styles.css">
+
+	<script>
+		var elements = document.getElementsByTagName('input');
+		for(var i = 0, len = elements.length; i < len; i++) {
+    		elements[i].onclick = function () {
+       			elements[i].innerHTML = "";
+   			}
+		}
+	</script>
+</head>
+<body>
+
+<h1>fakebook <span>&#174;</span></h1>
+<h2>Registration</h2>
+<h3>It is safe and it will always be!</h3>
+
+<form action="" method="post" accept-charset="utf-8">
+	<fieldset>
+		<legend>None-Important Information</legend>
+
+		<input type="text" name="firstName" placeholder="First Name">
+		<input type="text" name="lastName" placeholder="Last Name">
+
+		<input type="text" name="email" placeholder="Your E-mail">
+		<input type="text" name="phone" placeholder="Phone Number">
+
+		<input type="text" name="password" placeholder="Your Password">
+		<input type="text" name="website" placeholder="Website">
+
+		<div>Birthday</div>
+
+		<input type="date" name="birthday" placeholder="">
+		<input type="time" name="time" placeholder="">
+
+		<input type="radio" name="choice" id="male" placeholder="">
+			<label for="male">Male</label>
+		<input type="radio" name="choice" id="female" placeholder="">
+			<label for="female">Female</label>
+		<input type="radio" name="choice" id="other" placeholder="">
+			<label for="other">Other</label>
+
+	</fieldset>
+
+	<fieldset>
+		<legend>Important Information *required</legend>
+
+		<select name="country">
+			<option placeholder="Country" disabled selected hidden>Country
+			</option>
+			<option placeholder="Bulgaria">Pernik</option>
+			<option placeholder="Sofia">Sofia Maika</option>
+			<option placeholder="Pleven">Pleven DaGe</option>
+		</select>
+		<input type="text" name="village" placeholder="Village">
+		<input type="text" name="district" placeholder="District">
+
+		<input type="text" name="Street" placeholder="Street">
+		<input type="text" name="number" placeholder="Nr">
+		<input type="text" name="floor" placeholder="Floor">
+		<input type="text" name="appartment" placeholder="Ap Nr">
+
+		<div>Door Color</div>
+
+		<input type="color" name="color" value="#FF7F7F">
+		<input type="text" name="water" placeholder="Water Meter Nr">
+		<select name="size">
+			<option disabled selected hidden>Aunt Panthes' size</option>
+			<option>Aunt Panthes' size</option>
+			<option>Other</option>
+		</select>
+
+		<div>More Personal Information</div>
+		<textarea name="personal" rows="4" cols="73" placeholder="Give me more information!!!"></textarea>
+	</fieldset>
+
+	<input type="reset" name="clear" value="Clear Form">
+	<input type="submit" name="submit" value="Register">
+</form>
+</body>
+</html>

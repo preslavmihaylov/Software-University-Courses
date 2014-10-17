@@ -1,0 +1,59 @@
+* {
+	margin: 0;
+	padding: 0;
+	font-size: 15px;
+}
+
+fieldset {
+	width: 617px;
+	height: 331px;
+	border: 0px;
+	background: #FFC0CB;
+}
+
+div , span {
+	font-family: monospace;
+    white-space: pre;
+    font-style: italic;
+}
+
+select {
+	width: 300px;
+	margin-left: 3px;
+}
+
+h1 {
+	text-align: center;
+	font-size: 36px;
+}
+
+input[type="checkbox"] {
+	margin-top: 10px;
+	margin-left: 313px;
+	margin-right: 6px;
+}
+
+input[name="depart"] {
+	width: 297px;
+	margin-left: 3px;
+	color: #73779B;
+}
+
+input[name="interval"] {
+	width: 142px;
+	margin-left: 3px;
+	color: #73779B;
+}
+
+input[type="number"] {
+	width: 92px;
+	margin-left: 3px;
+}
+
+input[type="button"] {
+	width: 300px;
+	height: 39px;
+	margin-top: 10px;
+	margin-left: 311px;
+	font-weight: bold;
+}

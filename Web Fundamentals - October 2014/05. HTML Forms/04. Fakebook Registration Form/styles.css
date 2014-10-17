@@ -1,0 +1,163 @@
+* {
+	font-family: "Arial";
+}
+
+h1 span {
+	font-size: 20px;
+}
+
+h1, h2, h3 {
+	color: white;
+}
+
+h1 {
+	font-size: 99px;
+	padding-left: 207px;
+	margin-bottom: 19px;
+}
+
+h2 {
+	padding-left: 326px;
+	font-size: 33px;
+}
+
+h3 {
+	padding-left: 310px;
+	margin-top: -15px;
+	margin-bottom: 32px;
+	font-size: 16px;
+}
+
+body {
+	background: #3B5997;
+}
+
+form fieldset:nth-child(1) {
+	width: 322px;
+}
+
+fieldset {
+	border-radius: 10px;
+	border-color: white;
+	display: inline;
+	height: 227px;
+}
+
+legend {
+	text-align: center;
+}
+
+input {
+	margin-top: 5px;
+	margin-left: 3px;
+	height: 28px;
+	border: 0px;
+	border-radius: 5px;
+}
+
+input[type="time"] {
+	margin-left: -5px;
+	border-left: 0;
+	margin-right: 85px;
+}
+
+form fieldset:nth-child(1) input[type="date"] {
+	border-top-right-radius: 0;
+	border-bottom-right-radius: 0;
+}
+
+form fieldset:nth-child(1) input[type="time"] {
+	border-top-left-radius: 0;
+	border-bottom-left-radius: 0;
+}
+
+div {
+	margin-top: 5px;
+	margin-left: 3px;
+}
+
+input[type="radio"], form fieldset:nth-child(1) label {
+	vertical-align: middle;
+}
+
+label, div, legend {
+	color: white;
+	font-weight: bold;
+}
+
+form fieldset:nth-child(2) {
+	width: 473px;
+	vertical-align: top;
+	margin-right: 970px;
+	margin-left: 33px;
+
+}
+
+select {
+	width: 147px;
+	margin-top: 5px;
+	margin-left: 3px;
+	height: 28px;
+	border: 0px;
+	border-radius: 5px;
+	color: #BAC2D4;
+}
+
+select option {
+	color: black; 
+}
+
+select option:first-child{
+  color: black;
+}
+
+input[name="number"], input[name="floor"], input[name="appartment"] {
+	width: 79px;
+}
+
+input[type="color"] {
+	width: 145px;
+	height: 28px;
+}
+
+input[type="color"], input[name="water"], select[name="size"] {
+	vertical-align: middle;
+}
+
+input[name="clear"] {
+	width: 348px;
+	font-size: 17px;
+}
+
+input[type="reset"], input[type="submit"] {
+	color: #4669A3;
+	height: 46px;
+	margin-top: 20px;
+	vertical-align: middle;
+}
+
+input[name="submit"] {
+	width: 502px;
+	margin-left: 5px;
+	font-size: 26px;
+	margin-left: 35px;
+}
+
+*::-webkit-input-placeholder {
+    color: #BAC2D4;
+}
+
+*:-moz-placeholder {
+    /* FF 4-18 */
+    color: #BAC2D4;
+}
+
+*::-moz-placeholder {
+    /* FF 19+ */
+    color: #BAC2D4;
+}
+
+*:-ms-input-placeholder {
+    /* IE 10+ */
+    color: #BAC2D4;
+}

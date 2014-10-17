@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html>
+<head lang="en">
+    <meta charset="UTF-8">
+    <title>Styling HTML Forms</title>
+
+    <link rel="stylesheet" href="styles.css"/>
+</head>
+
+<body>
+<form method="post">
+	<div>Step 1: Your Details</div>
+	<fieldset>
+		<span class="labels">Name</span><input type="text" value="First and last name">
+	</fieldset>
+	
+	<fieldset>
+		
+		<span class="labels">Email</span><input type="text" value="example@domain.com">
+		
+	</fieldset>
+
+	<div>Step 2: Delivery address</div>
+
+	<fieldset>
+		<span class="labels" id="address">Address</span>
+		<textarea name="address" rows="7"></textarea>
+	</fieldset>
+
+	<fieldset>
+		<span class="labels">Post code</span><input type="text">
+	</fieldset>
+
+	<fieldset>
+		<span class="labels">Country</span><input type="text">
+	</fieldset>
+
+	<div>Step 3: Card Details</div>
+
+	<fieldset>
+		<span class="labels" id="cardsDetails">Card type</span>
+		<input type="radio" name="card" id="1" class="radio">
+		<label for="1" id="visa">Visa</label>
+		<input type="radio" name="card" id="2" class="radio">
+		<label for="2" id="amex">AmEx</label>
+		<input type="radio" name="card" id="3" class="radio">
+		<label for="3" id="mastercard">Mastercard</label>
+	</fieldset>
+
+	<fieldset>
+		<span class="labels">Card number</span><input type="text">
+	</fieldset>
+
+	<fieldset>
+		<span class="labels">Security code</span><input type="text">
+	</fieldset>
+
+	<fieldset>
+		<span class="labels">Name on card</span><input type="text" value="exact name of the card">
+	</fieldset>
+
+	<input type="submit" value="BUY IT!" id="submitBtn">
+</form>
+
+</body>
+
+</html>

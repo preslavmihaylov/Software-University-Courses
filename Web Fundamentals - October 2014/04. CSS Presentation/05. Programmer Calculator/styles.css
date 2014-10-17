@@ -1,0 +1,55 @@
+table {
+    background: #D9E4F1;
+    padding: 6px
+}
+
+td {
+    border: 1px solid black;
+    width: 30px;
+    height: 30px;
+    border-radius: 3px;
+    padding: 0;
+    vertical-align: top;
+}
+
+tr {
+    height: 35px;
+}
+
+div {
+    font-family: monospace;
+    white-space: pre;
+}
+
+.background {
+    background: linear-gradient(to bottom, #c5c8d8 0%,#ffffff 59%);
+    text-align: right;
+    vertical-align: bottom;
+    font-size: 32px;
+}
+
+.blue {
+    color: #1F5CAE;
+}
+
+.gray {
+    color: #666666;
+}
+
+.buttons {
+    vertical-align: middle;
+    font-size: 13px;
+    text-align: center;
+}
+
+input {
+    margin: 5px;
+}
+
+form {
+    font-size: 12px;
+}
+
+.buttons.background:hover {
+    background: orange;
+}

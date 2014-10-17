@@ -1,0 +1,58 @@
+table * {
+    background: white;
+    border: 1px solid black;
+}
+
+table {
+    border: 1px solid black;
+    background: gray;
+}
+
+table table {
+    background: white;
+    border: 0;
+}
+
+table table td {
+    background: white;
+    border: 0;
+}
+
+td {
+    width: 70px;
+    height: 70px;
+    text-align: center;
+}
+
+table td table td {
+    width: 70px;
+    height: 32px;
+}
+
+table td table td button {
+    font-size: 52%;
+    text-align: center;
+}
+
+th {
+    width: 70px;
+    height: 70px;
+}
+
+button {
+    display:inline-block;
+    width: 96%;
+    height: 105%;
+    padding:5px 10px;
+    color: blue;
+    background: linear-gradient(to bottom, #e5e5e5 39%,#e5e5e5 39%,#e5e5e5 49%,#c9c9c9 51%,#f9fbff 51%,#959799 51%,#c9c9c9 51%,#c9c9c9 52%,#c9c9c9 64%,#c1bfc1 100%);
+}
+
+#beer {
+    text-align: right;
+}
+
+#heading {
+    font-weight: bold;
+    font-size: 120%;
+}

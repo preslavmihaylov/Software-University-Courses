@@ -1,0 +1,107 @@
+* {
+	margin: 0;
+	padding: 0;
+	font-size: 15px;
+	font-family: "Arial";
+}
+
+body div:nth-child(1) {
+	color: #234465;
+	margin: 10px;
+	font-size: 26px;
+	font-weight: bold;
+}
+
+body div:nth-child(2) {
+	color: gray;
+	margin: 10px;
+}
+
+body {
+	background: #EEE;
+}
+
+form {
+	margin: 19px;
+}
+
+fieldset {
+	border: 1px solid #EEE;
+	width: 100px;
+	display: inline-block;
+	vertical-align: top;
+}
+
+span {
+	font-size: 20px;
+	font-weight: bold;
+	padding-left: 6px;
+}
+
+#gray {
+	color: #6A6A6A;
+}
+
+#blue {
+	color: #234465;
+}
+
+input[type='text'] {
+	margin: 5px;
+	width: 350px;
+	height: 30px;
+	color: #C3C3C3;
+	font-size: 12px;
+}
+
+fieldset#loginForm input[type='submit'] {
+	border: 2px solid #234465;
+	color: #234465;
+	width: 131px;
+	height: 30px;
+	background: #EEE;
+	margin-left: 226px;
+}
+
+fieldset#registerForm {
+	background: #234465;
+	margin-top: -30px;
+	width: 397px;
+	height: 237px;
+}
+
+fieldset#registerForm div {
+	color: white;
+	font-size: 15px;
+}
+
+fieldset#registerForm input[type='text'] {
+	display: block;
+}
+
+fieldset#registerForm input {
+	margin-left: 12px;
+	margin-bottom: 12px;
+}
+
+fieldset#registerForm label {
+	color: white;
+	font-size: 10px;
+	vertical-align: middle;
+	display: inline;
+}
+
+fieldset#registerForm input[type='submit'] {
+	border: 2px solid #B07C24;
+	color: white;
+	width: 131px;
+	height: 30px;
+	background: #234465;
+	margin-left: 130px;
+}
+
+fieldset#registerForm div#forgotPassword {
+	padding-left: 287px;
+	text-decoration: underline;
+	font-size: 10px;
+}

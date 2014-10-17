@@ -1,0 +1,106 @@
+<!DOCTYPE html>
+<html>
+<head lang="en">
+    <meta charset="UTF-8">
+    <title>Website Header</title>
+
+    <style>
+        table {
+            background: #234465;
+        }
+
+        a {
+            font-size: 7px;
+            color: white;
+            font-family: "Arial", Georgia, Serif;
+            text-decoration: none;
+        }
+
+        td {
+            width: 250px;
+            height: 30px;
+            font-size: 7px;
+            color: white;
+            font-family: "Arial", Georgia, Serif;
+        }
+
+        ul li
+        {
+            display: inline;
+            list-style-type: none;
+            padding-right: 16px;
+            padding-left: 14px;
+        }
+
+        ul {
+            padding: 0;
+            padding-left: 0;
+        }
+
+        input {
+            width: 180px;
+            height: 15px;
+            border: 0;
+            border-top-left-radius: 5px;
+            border-bottom-left-radius: 5px;
+            color: darkgray;
+            font-size: 8px;
+        }
+
+        button {
+            border: 0;
+            width: 22px;
+            height: 17px;
+            padding: 0;
+            margin-top: -7%;
+            margin-right: 9%;
+            float: right;
+            background: white;
+            border-top-right-radius: 5px;
+            border-bottom-right-radius: 5px;
+        }
+		
+		button * {
+			vertical-align: center;
+		}
+    </style>
+</head>
+<body>
+    <table>
+        <colgroup>
+            <col width="115px" />
+            <col/>
+            <col/>
+            <col/>
+            <col/>
+            <col/>
+        </colgroup>
+        <tbody>
+            <tr>
+                <td rowspan="2"><a href="https://softuni.bg"><img src="logo.png" alt="logo"/></a></td>
+                <td colspan="3"></td>
+                <td colspan="3">
+                    <form action="">
+                        <a href="https://softuni.bg/users/profile/show">USER&#x25BC;</a>
+                        <input type="text" name="searchfield" value="Search...">
+                        <button><img src="lens.png" alt=""/></button>
+                    </form>
+
+                </td>
+            </tr>
+            <tr>
+                <td colspan="6">
+                    <ul>
+                        <li><a href="https://softuni.bg/news">NEWS</a></li>
+                        <li><a href="https://softuni.bg/about">ABOUT THE UNIVERSITY&#x25BC;</a></li>
+                        <li><a href="https://softuni.bg/trainings/courses/list">TRAINING COURSES&#x25BC;</a></li>
+                        <li><a href="https://softuni.bg/companies">FOR COMPANIES</a></li>
+                        <li><a href="https://softuni.bg/forum">FORUM</a></li>
+                        <li><a href="https://softuni.bg/contacts">CONTACTS</a></li>
+                    </ul>
+                </td>
+            </tr>
+        </tbody>
+    </table>
+</body>
+</html>

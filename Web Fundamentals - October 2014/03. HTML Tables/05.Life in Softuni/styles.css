@@ -1,0 +1,82 @@
+table {
+    border: 1px solid black;
+}
+
+table * {
+    border: 1px solid black;
+}
+
+table table td {
+    width: 90px;
+    height: 40px;
+}
+
+#nestedTable {
+    padding: 5px;
+}
+
+td {
+    width: 100px;
+    height: 100px;
+}
+
+th {
+    width: 100px;
+    height: 100px;
+    font-size: 200%;
+}
+
+.firstLine td:nth-child(1) {
+    vertical-align: top;
+}
+
+.firstLine td:nth-child(2) {
+    vertical-align: top;
+    text-align: right;
+}
+
+.secondLine td:nth-child(1) {
+    vertical-align: top;
+    text-align: center;
+}
+
+.secondLine td:nth-child(2) {
+    vertical-align: middle;
+    text-align: left;
+}
+
+.secondLine td:nth-child(3) {
+    vertical-align: bottom;
+    text-align: center;
+}
+
+.secondLine td:nth-child(4) {
+    vertical-align: middle;
+    text-align: left;
+}
+
+.thirdLine > td:nth-child(1) {
+    vertical-align: bottom;
+    text-align: right;
+}
+
+.thirdLine td:nth-child(2) {
+    vertical-align: bottom;
+    text-align: left;
+}
+
+table table td {
+    vertical-align: middle;
+    text-align: center;
+}
+
+.fourthLine td:nth-child(1) {
+    font-weight: bold;
+    vertical-align: middle;
+    text-align: right;
+    font-size: 150%;
+}
+
+.fourthLine td:nth-child(2) {
+
+}

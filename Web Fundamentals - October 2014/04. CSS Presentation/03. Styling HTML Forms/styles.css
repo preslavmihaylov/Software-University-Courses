@@ -1,0 +1,78 @@
+body {
+	background: url(formBackground.jpg);
+	background-repeat: no-repeat;
+
+}
+
+* {
+	margin: 0;
+	padding: 0;
+}
+
+.labels {
+	width: 100px;
+	display: inline-block;
+}
+
+#address {
+	width: 97px;
+}
+
+div {
+	padding-left: 25px;
+	margin: 10px;
+	color: white;
+	font-size: 22px;
+}
+
+input {
+	color: gray;
+	width: 200px;
+
+}
+
+.radio {
+	width: 10px;
+	margin-left: 10px;
+}
+
+#cardsDetails {
+	display: block;
+	margin-bottom: 10px;
+}
+
+fieldset {
+	width: 360px;
+	padding: 10px;
+	margin-left: 35px;
+	margin-bottom: 3px;
+	border-radius: 5px;
+	background: rgba(128, 128, 128, 0.8);
+	border: 1px solid white;
+}
+
+textarea {
+	vertical-align: top;
+	width: 200px;
+}
+
+#submitBtn {
+	background: #04152F;
+	color: white;
+	border-radius: 25px;
+	margin-left: 170px;
+	height: 35px;
+	width: 95px;
+}
+
+#visa:before {
+	content: url(visa.png);
+}
+
+#amex:before {
+	content: url(amex.png);
+}
+
+#mastercard:before {
+	content: url(mastercard.png);
+}

@@ -1,0 +1,51 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+#background {
+    background: #2491E5;
+    width: 900px;
+    height: 600px;
+}
+
+#sky {
+    background: radial-gradient(ellipse at center, #efefef 11%,#c0ccd6 25%,#ccb220 36%,#2491e5 73%);
+    background-size: 500px 251px;
+    background-repeat: no-repeat;
+}
+
+#hawaiiBackground {
+    background-image: url(HawaiiBackground.png);
+    background-repeat: no-repeat;
+    width: 900px;
+    height: 600px;
+}
+
+#characters {
+    background-image:
+    url("AlexHula.png"),
+    url("NakovHula.png"),
+    url(TediHula.png),
+    url(PetiaHula.png),
+    url(VladoGHula.png),
+    url(VladoKHula.png);
+    background-repeat: no-repeat, no-repeat, no-repeat, no-repeat, no-repeat, no-repeat;
+    height: 523px;
+    width: 100%;
+    background-position: 74% bottom, 56% bottom, 29% bottom, 24% bottom, 1% bottom, 97% bottom;
+}
+
+@font-face {
+    font-family: custom;
+    src: url('Animated.ttf');
+}
+
+#text {
+    text-align: right;
+    font-family: custom;
+    color: #FDBC21;
+    font-size: 30px;
+    padding-right: 26px;
+    padding-top: 14px;
+}
