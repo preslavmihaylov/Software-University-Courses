@@ -1,0 +1,32 @@
+* {
+	font-family: "Arial";
+}
+
+button {
+	background: white;
+	border: 0;
+}
+
+fieldset {
+	display: inline;
+	width: 431px;
+	vertical-align: middle;
+	border: 0;
+}
+
+legend {
+	font-size: 29px;
+	font-weight: bold;
+	color: #253D57;
+}
+
+span {
+	font-family: monospace;
+    white-space: pre;
+}
+
+form fieldset:nth-child(2) {
+	width: 100px;
+	background: #F7FCFF;
+	color: #4C6274;
+}
