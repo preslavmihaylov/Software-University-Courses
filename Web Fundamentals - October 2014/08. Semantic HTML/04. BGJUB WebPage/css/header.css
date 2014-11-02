@@ -1,0 +1,66 @@
+html{
+    font-size: 16px;
+}
+
+header, footer, h1, form, button, img, input{
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    font-family: "Segoe UI", "Helvetica", "Calibri", San-serif;
+    width: 100%;
+}
+
+header h1{
+    margin-bottom: 3rem;
+}
+
+header nav ul {
+    list-style-type: none;
+}
+
+header nav ul li{
+    display: inline-block;
+}
+
+header nav ul li a{
+    display: inline-block;
+    width: 8rem;
+    text-decoration: none;
+    color: grey;
+}
+
+header nav ul li a:hover{
+    text-decoration: underline;
+}
+
+li.search{
+    background-color: #F7F7F7;
+    display: inline-block;
+    float: right;
+    border: solid gray 0.07em ;
+}
+
+header hr {
+    height: 0.07rem;
+}
+
+header nav form input, button.submit{
+    background: #F7F7F7;
+    border: none;
+}
+
+input.text{
+    width: 10rem;
+    height: 1.5rem;
+    vertical-align: top;
+    padding-left: 1rem;
+}
+
+.submit{
+    width: 1.5rem;
+    height: 1.5rem;
+    vertical-align: top;
+}
+

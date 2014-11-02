@@ -1,0 +1,167 @@
+﻿@font-face {
+    font-family: ThisNight;
+    src: url(../ImagesFonts/ThisNight.ttf);
+}
+
+@font-face {
+    font-family: LDF;
+    src: url(../ImagesFonts/LDFComicSans.ttf);
+}
+
+#wrapper {
+    max-width: 960px;
+    width: 960px;
+    margin-left: 23%;
+    display: inline-block;
+    text-align: center;
+}
+
+header {
+    font-family: ThisNight, Helvetica, sans-serif;
+    width: 100%;
+}
+
+main, footer {
+    font-family: LDF, Arial, sans-serif;
+}
+
+footer {
+    width: 100%;
+}
+
+header h1 {
+    text-align: center;
+    font-size: 89px;
+    background: #234465;
+    height: 99px;
+    color: white;
+    padding-top: 20px;
+}
+
+header nav {
+    text-align: center;
+}
+
+ul {
+    box-sizing: border-box;
+}
+
+header nav ul li {
+    display: inline-block;
+    width: 122px;
+    color: #234465;
+    font-size: 20px;
+    margin: 10px;
+    line-height: 2;
+}
+
+header nav ul li:nth-child(3) {
+    background: #234465;
+    color: white;
+}
+
+body main section {
+    width: 317px;
+    height: 225px;
+    display: inline-block;
+    vertical-align: top;
+    margin: 5px;
+    border-radius: 10px;
+    box-shadow: 3px 3px 6px #234465;
+}
+
+body main section h2 {
+    background: #234465;
+    display: inline-block;
+    width: 90%;
+    margin-top: 10px;
+    font-size: 25px;
+    line-height: 45px;
+    color: white;
+    text-shadow: 3px 3px 3px #A97928 ;
+}
+
+body main section * {
+    margin-left: 5px;
+    margin-right: 5px;
+}
+
+img {
+    max-width: 93%;
+}
+
+body main section article p {
+    font-size: 12px;
+    text-align: left;
+}
+
+body main section article div {
+    font-size: 11px;
+    text-align: left;
+    margin-top: 5px;
+}
+
+footer {
+    margin-top: 20px !important;
+    color: white;
+}
+
+html body div footer nav {
+    background: #234465;
+}
+
+footer section {
+    background: #234465;
+    height: 173px;
+}
+
+footer nav ul li {
+    display: inline-block;
+    width: 70px;
+    font-size: 16px;
+    margin: 10px;
+    line-height: 2;
+}
+
+footer nav ul {
+    margin-bottom: 1px;
+}
+
+footer section article p {
+    display: inline-block;
+    margin: auto;
+    width: 17%;
+    text-align: center;
+}
+
+footer section article div {
+    padding-top: 20px;
+}
+
+header h1:hover, header nav ul li:hover {
+    color: #FF9C00;
+    cursor: pointer;
+}
+
+footer nav ul li:hover {
+    color: #234465;
+    cursor: pointer;
+    background: #FF9C00;
+}
+
+footer section article:hover {
+    color: #FF9C00;
+    cursor: pointer;
+}
+
+footer article {
+    display: inline;
+}
+
+img:hover {
+    cursor: pointer;
+}
+
+
+
+

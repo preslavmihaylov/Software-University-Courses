@@ -1,0 +1,31 @@
+html {
+    font-size: 16px;
+}
+
+section.main-page {
+    width: 80%;
+    border: solid gray 1px;
+}
+
+section>header{
+    width: 94%;
+    margin-right: 3%;
+    margin-left: 3%;
+}
+
+aside.left {
+    width: 14%;
+    margin-right: 3%;
+    margin-left: 3%;
+    vertical-align: top;
+}
+
+aside.right {
+    width: 17%;
+    margin-right: 3%;
+}
+
+main {
+    width: 55%;
+    margin-right: 3%;
+}

@@ -1,0 +1,29 @@
+﻿section {
+    width: 320px;
+    height: 400px;
+    display: inline-block;
+    vertical-align: top;
+}
+
+body {
+    background: pink;
+}
+
+img {
+    width: 290px;
+    height: 255px;
+}
+
+section * {
+    margin: 5px;
+}
+
+meter {
+    width: 150px;
+}
+
+#audio audio:nth-child(2) {
+    background: black;
+    height: 62px;
+    padding-bottom: 65px;
+}

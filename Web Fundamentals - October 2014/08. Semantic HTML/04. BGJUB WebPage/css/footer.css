@@ -1,0 +1,55 @@
+h3, h4{
+    margin: 0;
+    padding: 0;
+}
+
+footer {
+    font-family: "Segoe UI", "Helvetica", "Calibri", San-serif;
+    width: 100%;
+}
+
+footer section:first-child {
+    background: #F7F7F7;
+    color: #B6B5B5;
+    font-style: italic;
+    padding: 1rem;
+}
+
+footer section:last-child {
+    background: black;
+    color: #ffffff;
+    padding: 1rem;
+}
+
+footer section article {
+    width: 17%;
+    display: inline-block;
+    vertical-align: top;
+    margin-left: 2.5%;
+}
+
+footer section article:first-child {
+    font-size: 1.13rem;
+    font-weight: 600;
+}
+
+footer section article h3 {
+    font-size: 0.8rem;
+    color: lightgray;
+    text-decoration: none;
+    font-weight: normal;
+    margin-bottom: 0.6rem;
+}
+
+footer section article a {
+    color: #ffffff;
+    text-decoration: none;
+}
+
+footer section article div {
+    color: gray;
+}
+
+.bold{
+    font-weight: 600;
+}

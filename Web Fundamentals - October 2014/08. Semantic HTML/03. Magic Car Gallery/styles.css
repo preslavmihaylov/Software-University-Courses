@@ -1,0 +1,27 @@
+﻿body {
+    background: black;
+}
+
+h1 {
+    color: yellow;
+    padding-left: 26px;
+}
+
+section {
+    vertical-align: top;
+    display: inline-block;
+    border: 1px solid black;
+    width: 200px;
+}
+
+section:nth-child(3) {
+    width: 250px;
+}
+
+a {
+    padding: 5px;
+    display: inline-block;
+    text-decoration: none;
+    color: white;
+    font-size: 20px;
+}

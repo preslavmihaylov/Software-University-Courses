@@ -1,0 +1,129 @@
+<!DOCTYPE html>
+<html>
+<head lang="en">
+    <meta charset="UTF-8">
+    <title>WebPage Standard</title>
+    <link href="css/header.css" rel="stylesheet">
+    <link href="css/left-aside.css" rel="stylesheet">
+    <link href="css/right-aside.css" rel="stylesheet">
+    <link href="css/main.css" rel="stylesheet">
+    <link href="css/footer.css" rel="stylesheet">
+    <link href="css/WebPage-standard.css" rel="stylesheet">
+</head>
+<body>
+    <section class="main-page">
+        <header>
+            <h1>
+                BGJUG - Bulgarian Java User Group
+            </h1>
+            <nav>
+                <ul>
+                    <li><a href="#">ABOUT</a></li>
+                    <li><a href="#">EVENTS</a></li>
+                    <li><a href="#">CONTACTS</a></li>
+                    <li class="search">
+                        <form action="WebPage-standard.html">
+                            <input class="text" name="search" type="text" placeholder="Search"/>
+                            <button class="submit" type="submit">
+                                <img class="submit" src="images/search.png" alt="search">
+                            </button>
+                        </form>
+                    </li>
+                </ul>
+            </nav>
+            <hr>
+        </header>
+
+        <aside class="left">
+            <hr>
+            <ul>
+                <li><a href="#">An Architecture for E-Voting</a></li>
+                <li><a href="#">Integration Test for External Services</a></li>
+                <li><a href="#">Algorithmic Music Influenced by Tweets </a></li>
+                <li><a href="#">The Low Quality of Scientific Code</a></li>
+                <li><a href="#">Development "Methodologies"</a></li>
+            </ul>
+        </aside>
+        <main>
+            <article>
+                <header>
+                    <h1>
+                        An Architecture for E-Voting
+                    </h1>
+                    <h6>
+                        by <a href="#">BOZHO</a> on May 27, 2014 - <a href="#">LEAVE A COMMENT</a>
+                    </h6>
+                </header>
+                <p>
+                    E-Voting is a hot topic in my country, in has been discussed a lot everywhere. Since we are already using
+                    the internet and touch-screen technologies in our everyday lives, why not apply that to voting?
+                    And not for the sake of technology itself, but in order to prevent technical mistakes and election fraud,
+                    and make [...]
+                </p>
+                <a href="#">Continue Reading &rarr;</a>
+            </article>
+
+            <article>
+                <header>
+                    <h1>
+                        The Optional Type API
+                    </h1>
+                    <h6>
+                        by <a href="#">BOZHO</a> on  MARCH 19, 2014 - <a href="#">LEAVE A COMMENT</a>
+                    </h6>
+                </header>
+                <p>
+                    Java 8 introduces the Optional class. In a nutshell, instead of returning null, and then checking for null,
+                    you return on Optional instance, which can either have or not have a value set. That way  you dont't fail with NullPointerExeption.
+                    I won,t discuss whether the Optional type will eliminate NPEs completely (it won't). Instead I'll [...]
+                </p>
+                <a href="#">Continue Reading &rarr;</a>
+            </article>
+        </main>
+
+        <aside class="right">
+            LANGUAGE
+            <hr/>
+            <form action="left-aside.html" method="get">
+                <select name="language" >
+                    <option value="1" >Bulgarian</option>
+                    <option value="2">English</option>
+                </select>
+            </form>
+            <div>BLOGROLL</div>
+            <hr/>
+        </aside>
+
+        <footer>
+            <section>Set your Twitter account name in your settings to use TwitterBar Section.</section>
+            <section>
+                <article><a href="#">BGJUG - Java Bulgarian User Group</a></article>
+
+                <article>
+                    <h3>PAGES</h3>
+                    <a href="#">About</a><br>
+                    <a href="#">Events</a><br>
+                    <a href="#">Contacts</a><br>
+                </article>
+
+                <article>
+                    <h3>THE LATEST</h3>
+                    <a href="#"><h4>An Architecture for E-<wbr>Voting</h4></a>
+                    <div>E-Voting is a hot topic in my country, in has been discussed [...]</div>
+                </article>
+
+                <article>
+                    <h3>MORE</h3>
+                    <div>Thanks for dropping by! Feel free to join the discussion by leaving comments, and stay
+                        updated by subscribing to the <a href="#"><span class="bold">RSS feed</span></a>. </div>
+                </article>
+
+                <article>
+                    <div>&copy; 2011 BGJUG - Java Bulgarian User Group</div>
+                </article>
+            </section>
+        </footer>
+    </section>
+
+ </body>
+</html>

@@ -1,0 +1,25 @@
+html{
+    font-size: 16px;
+    font-family: "Segoe UI", "Helvetica", "Calibri", San-serif;
+}
+
+aside.left{
+    display: inline-block;
+    vertical-align: top;
+}
+
+aside.left ul{
+    padding: 0;
+    margin: 0;
+    list-style-type: none;
+    line-height: 1.5rem;
+}
+
+aside.left ul li a{
+    text-decoration: none;
+    color: #3EA6D6;
+}
+
+aside.left ul li:hover a{
+    text-decoration: underline;
+}

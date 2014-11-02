@@ -1,0 +1,77 @@
+﻿@font-face {
+    font-family: mainFont;
+    src: url(../ImagesFonts/OpenSans-ExtraBold.ttf);
+}
+
+#wrapper {
+    margin-left: 27%;
+}
+
+html body {
+    background: #F0F0E8;
+}
+
+header h1 {
+    font-size: 56px;
+    margin-bottom: 30px;
+    color: #009288;
+    font-family: mainFont;
+}
+
+header h2 {
+    font-size: 16px;
+    color:#7F8287;
+    font-family: Open Sans, Helvetica, sans-serif;
+}
+
+header h2:nth-child(2) {
+    font-family: Helvetica;
+    margin-bottom: 11px;
+    font-size: 34px;
+}
+
+header h1, header h2 {
+    text-align: center;
+}
+
+section {
+    display: inline-block;
+    width: 212px;
+    margin-left: 10px !important;
+    margin-top: 15px !important;
+}
+
+section article {
+    text-align: center;
+}
+
+section article h2 {
+    font-size: 16px;
+    color: #7F8287;
+    font-family: mainFont;
+}
+
+section img {
+    margin-left: 40%;
+    margin-bottom: 14px;
+}
+
+section article p {
+    font-size: 11px;
+    line-height: 20px;
+    margin-top: 14px;
+    color: #868287;
+    font-family: Open Sans, Helvetica, sans-serif;
+    padding: 17px;
+}
+
+section:hover {
+    border-left: 5px solid #009288;
+    background: #fff;
+    cursor: pointer;
+}
+
+
+
+
+/* 56 16 11 */

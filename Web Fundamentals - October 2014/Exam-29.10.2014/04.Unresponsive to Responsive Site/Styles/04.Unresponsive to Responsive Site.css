@@ -1,0 +1,124 @@
+﻿#container {
+    padding: 0;
+}
+
+header {
+    margin-top: 63px;
+    margin-left: 22px;
+    margin-bottom: 161px;
+}
+
+#content {
+    padding-left: 22px;
+    margin-right: 76px;
+}
+
+footer {
+    width: 100%;
+}
+
+footer #back-top {
+    float: none;
+    position: absolute;
+    left: 80%;
+}
+
+
+@media screen and (max-width:980px) {
+    header nav {
+        width: 69%;
+        float: left;
+    }
+
+    header {
+        width: 100%;
+    }
+
+    #container {
+        width: 100%;
+    }
+}
+
+@media screen and (max-width:925px) {
+    header h1 {
+        float: none;
+    }
+
+    header nav {
+        float: none;
+        display: block;
+        text-align: left;
+        width: 100%;
+    }
+
+    header nav ul {
+        margin-top: 5px;
+    }
+
+    header nav ul li {
+        margin-left: 0;
+    }
+
+    aside {
+        margin-left: 22px;
+    }
+
+    #sidebar {
+        width: 91%;
+    }
+
+    html body div #search {
+        margin-top: 122px;
+    }
+
+    #searchbar {
+        width: 90% !important;
+    }
+}
+
+@media screen and (max-width:630px) {
+    header nav ul li:nth-child(3) {
+        margin-left: 0;
+    }
+}
+
+@media screen and (max-width:580px) {
+    #content, #pagination, #sidebar {
+        width: 92%;
+    }
+
+    #searchbar {
+        padding-right:0 !important;
+    }
+
+    header nav ul {
+        columns: 2;
+        -webkit-columns: 17px 2;
+        -moz-columns: 2;
+    }
+}
+
+@media screen and (max-width:480px) {
+    #latest {
+        margin-top: 287px !important;
+    }
+
+    #back-top {
+        left: 70% !important;
+    }
+}
+
+@media screen and (max-width:345px) {
+    #latest {
+        margin-top: 278px !important;
+    }
+
+    #social {
+        width: 100px !important;
+    }
+
+    #categories {
+        margin-right: 0 !important;
+    }
+}
+
