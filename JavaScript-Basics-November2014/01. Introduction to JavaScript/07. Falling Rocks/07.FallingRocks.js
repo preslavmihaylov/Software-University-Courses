@@ -109,11 +109,11 @@ function collisionCheck() {
 
 function doKeyDown(e) {
 
-    if (e.keyCode == 37) { // left
+    if (e.keyCode == 37 && player.x > 0) { // left
         player.x -= 5;
     }
 
-    if (e.keyCode == 39) { // right
+    if (e.keyCode == 39 && player.x < canvas.width - player.width) { // right
         player.x += 5;
     }
 }
