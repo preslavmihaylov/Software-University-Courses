@@ -1,0 +1,10 @@
+{
+  "name": "_04.CheckIfNumberIsPrime",
+  "version": "0.0.0",
+  "description": "04.CheckIfNumberIsPrime",
+  "main": "server.js",
+  "author": {
+    "name": "mihaylov",
+    "email": ""
+  }
+}
