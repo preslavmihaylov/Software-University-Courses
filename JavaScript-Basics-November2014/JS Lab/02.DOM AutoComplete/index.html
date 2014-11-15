@@ -1,0 +1,27 @@
+﻿<!DOCTYPE html>
+<html>
+<head lang="en">
+    <meta charset="UTF-8">
+    <title>AutoComplete Form</title>
+    <link rel="stylesheet" href="style.css"/>
+</head>
+<body>
+    <div id="wrapper">
+        <section class="main">
+            <section class="input-section">
+                <h3>Text:</h3>
+                <input type="text" id="input" onkeyup="autoComplete(event.keyCode)" />
+            </section>
+            <section class="preview-section">
+                <p id="preview"></p>
+            </section>
+        </section>
+        <section class="output">
+            <h3>List:</h3>
+            <ul id="output"></ul>
+        </section>
+    </div>
+
+    <script src="02.DOM-AutoComplete.js"></script>
+</body>
+</html>
