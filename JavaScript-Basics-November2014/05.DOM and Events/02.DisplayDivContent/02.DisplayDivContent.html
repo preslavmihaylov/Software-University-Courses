@@ -1,0 +1,27 @@
+﻿<!doctype html>
+<html>
+<body>
+    <div>first div</div>
+    <div>second div</div>
+    <div class="empty"></div>
+    <div>third div<div>inner div</div></div>
+    <ul id="result"></ul>
+    <script>
+        var elements = document.querySelectorAll('body *');
+        var list = document.getElementById('result');
+        for (var i = 0; i < elements.length - 2; i++) {
+            var li = document.createElement("li");
+            if (elements[i].innerText != "") {
+                li.appendChild(document.createTextNode(elements[i].innerText));
+                list.appendChild(li);
+            }
+        }
+
+        // var ul = document.getElementById("list");
+        // var li = document.createElement("li");
+        // li.appendChild(document.createTextNode("Element 4"));
+
+    </script>
+</body>
+</html>
+
