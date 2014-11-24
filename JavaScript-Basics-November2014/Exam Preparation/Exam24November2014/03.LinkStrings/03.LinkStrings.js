@@ -2,63 +2,57 @@
 
 function readInput() {
     var input = [
-        'foo=%20foo&value=+val&foo+=5+%20+20323+++++232%20%20 34-443',
-        'foo=poo%20&asdsadsa===?value=valley&%20dog pesho=+++%20%20wow+%20%20&pesho=+++%20%20wow+%20%20',
-        'url=https://softuni.bg/trainings/coursesinstances/details/1070',
-        'https://softuni.bg/trainings?nakov=nakov&course=oop&course=php'
+        'http://lotr.wikia.com/wiki/Elves?find=elf&elves=amarie%20%20%20%20nimrodel&elves=gil-galad+galadriel&mortal=harry%20potter&elven=legolas&mortal=he-who-must-not-be-named+&mortal=boromir&immortal=spirit&mortal=bilbo+beggins&evil=sauron&answer%20of%20everything++++=42',
+        'https://www.google.bg/search?q=whitespace&oq=whitespace&aqs=chrome.0.0l6.1165j0j7&sourceid=chrome&es_sm=93&ie=UTF-8',
+        'numbers=20&symbols=#%*^(^('
     ];
-
+    
     solve(input);
 }
 
 function solve(input) {
     for (var index = 0; index < input.length; index++) {
-
+        
         var elements = input[index].split(/[\&]+/);
         elements = elements.filter(function (e) { return e || e === 0 });
-
+        
         var currentElements = {};
-
+        
         for (var pair = 0; pair < elements.length; pair++) {
             elements[pair] = elements[pair].split(/[?]+/);
             if (elements[pair].length > 1) {
                 elements[pair].splice(0, 1);
             }
-
+            
             elements[pair] = elements[pair][0];
+            
 
-            var pairValues = elements[pair].split(/[\+\=]+|%20/);
+            var pairValues = elements[pair].split(/[\=]+/);
             pairValues = pairValues.filter(function (e) { return e || e === 0 });
 
-            pairValues[0] = pairValues[0].trim();
-
-            if (currentElements[pairValues[0]] == undefined) {
-                currentElements[pairValues[0]] = [];
+            
+            var field = pairValues[0].split(/[\+]|%20/).filter(Boolean);
+            field = field.join(' ');
+            
+            var value = pairValues[1].split(/[\+]|%20/).filter(Boolean);
+            value = value.join(' ');
+            
+            if (currentElements[field] == undefined) {
+                currentElements[field] = [];
             }
-
-            var values = "";
-            for (var value = 1; value < pairValues.length; value++) {
-                if (currentElements[pairValues[0]].indexOf(pairValues[value].trim()) == -1) {
-                    if (pairValues[value] != pairValues[pairValues.length - 1]) {
-                        values += pairValues[value].trim() + " ";
-                    } else {
-                        values += pairValues[value].trim();
-                    }
-                }
+            
+            if (currentElements[field].indexOf(value) == -1) {
+                currentElements[field].push(value);
             }
-
-            currentElements[pairValues[0]].push(values);
         }
-
+        
         var output = "";
         for (var key in currentElements) {
-                output += "" + key + "=[";
-                output += currentElements[key].join(', ');
-                output += "]"
+            output += "" + key + "=[";
+            output += currentElements[key].join(', ');
+            output += "]"
         }
-
+        
         console.log(output);
     }
 }
-
-// foo=%20foo&value=+val&foo+=5+%20+203
