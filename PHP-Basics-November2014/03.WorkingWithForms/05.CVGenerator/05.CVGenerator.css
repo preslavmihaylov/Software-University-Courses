@@ -1,0 +1,32 @@
+fieldset {
+    width: 500px;
+}
+
+form * {
+    margin-bottom: 2px;
+}
+
+#parentLanguages select option:nth-child(1) {
+    display: none;
+}
+
+body > table {
+    margin: 20px;
+}
+
+table {
+    border: 1px solid black;
+}
+
+table table td {
+    width: 200px;
+}
+
+table * {
+    border: 1px solid black;
+}
+
+td {
+    width: 165px;
+}
+
