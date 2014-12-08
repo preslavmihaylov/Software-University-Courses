@@ -17,11 +17,15 @@
             $order = $_POST['order'];
 
             $data = [];
+            $averageScore = 0;
+
             for ($index = 0; $index < count($firstNames); $index++) {
                 $firstName = htmlspecialchars($firstNames[$index]);
                 $lastName = htmlspecialchars($lastNames[$index]);
                 $email = htmlspecialchars($emails[$index]);
-                $score = htmlspecialchars($scores[$index]);
+                $score = (int)$scores[$index];
+
+                $averageScore += $score;
                 $data[] = new stdClass();
 
                 $data[count($data) - 1]->firstName = $firstName;
@@ -29,6 +33,9 @@
                 $data[count($data) - 1]->email = $email;
                 $data[count($data) - 1]->score = $score;
             }
+
+            $averageScore /= count($data);
+            $averageScore = round($averageScore);
 
             $data = sortByChoice($sortChoice, $order, $data);
 
@@ -44,6 +51,7 @@
                 echo "<tr><td>$firstName</td><td>$lastName</td><td>$email</td><td>$score</td></tr>";
             }
 
+            echo '<tr><td colspan="3">Average Score</td>' . "<td>$averageScore</td></tr>";
             echo '</table>';
 
         }

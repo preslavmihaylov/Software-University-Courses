@@ -1,8 +1,6 @@
 <html>
     <head>
         <title>Student Sorting</title>
-
-        <link rel="stylesheet" type="text/css" href="StudentSorting.css">
         <script src="StudentSorting.js"></script>
     </head>
     <body>
