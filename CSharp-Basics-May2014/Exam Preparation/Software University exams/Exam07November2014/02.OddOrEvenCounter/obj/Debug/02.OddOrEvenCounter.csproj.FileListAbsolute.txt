@@ -1,0 +1,6 @@
+c:\users\softuni\documents\visual studio 2013\Projects\Exam07November2014\02.OddOrEvenCounter\bin\Debug\02.OddOrEvenCounter.exe.config
+c:\users\softuni\documents\visual studio 2013\Projects\Exam07November2014\02.OddOrEvenCounter\bin\Debug\02.OddOrEvenCounter.exe
+c:\users\softuni\documents\visual studio 2013\Projects\Exam07November2014\02.OddOrEvenCounter\bin\Debug\02.OddOrEvenCounter.pdb
+c:\users\softuni\documents\visual studio 2013\Projects\Exam07November2014\02.OddOrEvenCounter\obj\Debug\02.OddOrEvenCounter.csprojResolveAssemblyReference.cache
+c:\users\softuni\documents\visual studio 2013\Projects\Exam07November2014\02.OddOrEvenCounter\obj\Debug\02.OddOrEvenCounter.exe
+c:\users\softuni\documents\visual studio 2013\Projects\Exam07November2014\02.OddOrEvenCounter\obj\Debug\02.OddOrEvenCounter.pdb

@@ -1,0 +1,5 @@
+c:\users\softuni\documents\visual studio 2013\Projects\Exam07November2014\05.HalfByteSwapper\bin\Debug\05.HalfByteSwapper.exe.config
+c:\users\softuni\documents\visual studio 2013\Projects\Exam07November2014\05.HalfByteSwapper\bin\Debug\05.HalfByteSwapper.exe
+c:\users\softuni\documents\visual studio 2013\Projects\Exam07November2014\05.HalfByteSwapper\bin\Debug\05.HalfByteSwapper.pdb
+c:\users\softuni\documents\visual studio 2013\Projects\Exam07November2014\05.HalfByteSwapper\obj\Debug\05.HalfByteSwapper.exe
+c:\users\softuni\documents\visual studio 2013\Projects\Exam07November2014\05.HalfByteSwapper\obj\Debug\05.HalfByteSwapper.pdb
