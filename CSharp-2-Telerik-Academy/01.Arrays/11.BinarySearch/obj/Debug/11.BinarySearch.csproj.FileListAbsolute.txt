@@ -1,0 +1,5 @@
+D:\Programming\Software University Courses\CSharp-2-Telerik-Academy\01.Arrays\11.BinarySearch\bin\Debug\11.BinarySearch.exe
+D:\Programming\Software University Courses\CSharp-2-Telerik-Academy\01.Arrays\11.BinarySearch\bin\Debug\11.BinarySearch.pdb
+D:\Programming\Software University Courses\CSharp-2-Telerik-Academy\01.Arrays\11.BinarySearch\obj\Debug\11.BinarySearch.csprojResolveAssemblyReference.cache
+D:\Programming\Software University Courses\CSharp-2-Telerik-Academy\01.Arrays\11.BinarySearch\obj\Debug\11.BinarySearch.exe
+D:\Programming\Software University Courses\CSharp-2-Telerik-Academy\01.Arrays\11.BinarySearch\obj\Debug\11.BinarySearch.pdb

@@ -1,0 +1,5 @@
+D:\Programming\Software University Courses\CSharp-2-Telerik-Academy\01.Arrays\08.MaxSumSequence\bin\Debug\08.MaxSumSequence.exe
+D:\Programming\Software University Courses\CSharp-2-Telerik-Academy\01.Arrays\08.MaxSumSequence\bin\Debug\08.MaxSumSequence.pdb
+D:\Programming\Software University Courses\CSharp-2-Telerik-Academy\01.Arrays\08.MaxSumSequence\obj\Debug\08.MaxSumSequence.csprojResolveAssemblyReference.cache
+D:\Programming\Software University Courses\CSharp-2-Telerik-Academy\01.Arrays\08.MaxSumSequence\obj\Debug\08.MaxSumSequence.exe
+D:\Programming\Software University Courses\CSharp-2-Telerik-Academy\01.Arrays\08.MaxSumSequence\obj\Debug\08.MaxSumSequence.pdb

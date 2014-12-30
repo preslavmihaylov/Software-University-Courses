@@ -1,0 +1,5 @@
+D:\Programming\Software University Courses\CSharp-2-Telerik-Academy\01.Arrays\01.ArrayOf20Elements\bin\Debug\01.ArrayOf20Elements.exe
+D:\Programming\Software University Courses\CSharp-2-Telerik-Academy\01.Arrays\01.ArrayOf20Elements\bin\Debug\01.ArrayOf20Elements.pdb
+D:\Programming\Software University Courses\CSharp-2-Telerik-Academy\01.Arrays\01.ArrayOf20Elements\obj\Debug\01.ArrayOf20Elements.csprojResolveAssemblyReference.cache
+D:\Programming\Software University Courses\CSharp-2-Telerik-Academy\01.Arrays\01.ArrayOf20Elements\obj\Debug\01.ArrayOf20Elements.exe
+D:\Programming\Software University Courses\CSharp-2-Telerik-Academy\01.Arrays\01.ArrayOf20Elements\obj\Debug\01.ArrayOf20Elements.pdb

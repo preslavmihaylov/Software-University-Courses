@@ -1,0 +1,5 @@
+D:\Programming\Software University Courses\CSharp-2-Telerik-Academy\01.Arrays\06.MaxSumOfKElements\bin\Debug\06.MaxSumOfKElements.exe
+D:\Programming\Software University Courses\CSharp-2-Telerik-Academy\01.Arrays\06.MaxSumOfKElements\bin\Debug\06.MaxSumOfKElements.pdb
+D:\Programming\Software University Courses\CSharp-2-Telerik-Academy\01.Arrays\06.MaxSumOfKElements\obj\Debug\06.MaxSumOfKElements.exe
+D:\Programming\Software University Courses\CSharp-2-Telerik-Academy\01.Arrays\06.MaxSumOfKElements\obj\Debug\06.MaxSumOfKElements.pdb
+D:\Programming\Software University Courses\CSharp-2-Telerik-Academy\01.Arrays\06.MaxSumOfKElements\obj\Debug\06.MaxSumOfKElements.csprojResolveAssemblyReference.cache

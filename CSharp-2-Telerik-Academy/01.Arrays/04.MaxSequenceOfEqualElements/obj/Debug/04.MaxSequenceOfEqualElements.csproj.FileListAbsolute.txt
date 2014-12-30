@@ -1,0 +1,4 @@
+D:\Programming\Software University Courses\CSharp-2-Telerik-Academy\01.Arrays\04.MaxSequenceOfEqualElements\bin\Debug\04.MaxSequenceOfEqualElements.exe
+D:\Programming\Software University Courses\CSharp-2-Telerik-Academy\01.Arrays\04.MaxSequenceOfEqualElements\bin\Debug\04.MaxSequenceOfEqualElements.pdb
+D:\Programming\Software University Courses\CSharp-2-Telerik-Academy\01.Arrays\04.MaxSequenceOfEqualElements\obj\Debug\04.MaxSequenceOfEqualElements.exe
+D:\Programming\Software University Courses\CSharp-2-Telerik-Academy\01.Arrays\04.MaxSequenceOfEqualElements\obj\Debug\04.MaxSequenceOfEqualElements.pdb

@@ -1,0 +1,5 @@
+D:\Programming\Software University Courses\CSharp-2-Telerik-Academy\01.Arrays\14.QuickSort\bin\Debug\14.QuickSort.exe
+D:\Programming\Software University Courses\CSharp-2-Telerik-Academy\01.Arrays\14.QuickSort\bin\Debug\14.QuickSort.pdb
+D:\Programming\Software University Courses\CSharp-2-Telerik-Academy\01.Arrays\14.QuickSort\obj\Debug\14.QuickSort.csprojResolveAssemblyReference.cache
+D:\Programming\Software University Courses\CSharp-2-Telerik-Academy\01.Arrays\14.QuickSort\obj\Debug\14.QuickSort.exe
+D:\Programming\Software University Courses\CSharp-2-Telerik-Academy\01.Arrays\14.QuickSort\obj\Debug\14.QuickSort.pdb
