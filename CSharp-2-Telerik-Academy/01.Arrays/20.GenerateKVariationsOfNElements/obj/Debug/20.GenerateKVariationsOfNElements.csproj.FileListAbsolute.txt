@@ -1,0 +1,5 @@
+D:\Programming\Software University Courses\CSharp-2-Telerik-Academy\01.Arrays\20.GenerateKVariationsOfNElements\bin\Debug\20.GenerateKVariationsOfNElements.exe
+D:\Programming\Software University Courses\CSharp-2-Telerik-Academy\01.Arrays\20.GenerateKVariationsOfNElements\bin\Debug\20.GenerateKVariationsOfNElements.pdb
+D:\Programming\Software University Courses\CSharp-2-Telerik-Academy\01.Arrays\20.GenerateKVariationsOfNElements\obj\Debug\20.GenerateKVariationsOfNElements.csprojResolveAssemblyReference.cache
+D:\Programming\Software University Courses\CSharp-2-Telerik-Academy\01.Arrays\20.GenerateKVariationsOfNElements\obj\Debug\20.GenerateKVariationsOfNElements.exe
+D:\Programming\Software University Courses\CSharp-2-Telerik-Academy\01.Arrays\20.GenerateKVariationsOfNElements\obj\Debug\20.GenerateKVariationsOfNElements.pdb

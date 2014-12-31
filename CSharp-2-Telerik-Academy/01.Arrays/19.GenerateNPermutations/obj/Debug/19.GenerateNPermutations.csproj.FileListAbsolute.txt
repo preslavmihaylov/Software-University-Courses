@@ -1,0 +1,4 @@
+D:\Programming\Software University Courses\CSharp-2-Telerik-Academy\01.Arrays\19.GenerateNPermutations\bin\Debug\19.GenerateNPermutations.exe
+D:\Programming\Software University Courses\CSharp-2-Telerik-Academy\01.Arrays\19.GenerateNPermutations\bin\Debug\19.GenerateNPermutations.pdb
+D:\Programming\Software University Courses\CSharp-2-Telerik-Academy\01.Arrays\19.GenerateNPermutations\obj\Debug\19.GenerateNPermutations.exe
+D:\Programming\Software University Courses\CSharp-2-Telerik-Academy\01.Arrays\19.GenerateNPermutations\obj\Debug\19.GenerateNPermutations.pdb

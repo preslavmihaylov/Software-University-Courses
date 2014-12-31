@@ -1,0 +1,4 @@
+D:\Programming\Software University Courses\CSharp-2-Telerik-Academy\01.Arrays\21.GenerateKDistinctVariationsOfNElements\bin\Debug\21.GenerateKDistinctVariationsOfNElements.exe
+D:\Programming\Software University Courses\CSharp-2-Telerik-Academy\01.Arrays\21.GenerateKDistinctVariationsOfNElements\bin\Debug\21.GenerateKDistinctVariationsOfNElements.pdb
+D:\Programming\Software University Courses\CSharp-2-Telerik-Academy\01.Arrays\21.GenerateKDistinctVariationsOfNElements\obj\Debug\21.GenerateKDistinctVariationsOfNElements.exe
+D:\Programming\Software University Courses\CSharp-2-Telerik-Academy\01.Arrays\21.GenerateKDistinctVariationsOfNElements\obj\Debug\21.GenerateKDistinctVariationsOfNElements.pdb
