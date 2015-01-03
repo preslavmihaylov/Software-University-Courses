@@ -1,0 +1,5 @@
+D:\Programming\Software University Courses\CSharp-2-Telerik-Academy\02.MultidimensionalArrays\01.FillMatrices\bin\Debug\01.FillMatrices.exe
+D:\Programming\Software University Courses\CSharp-2-Telerik-Academy\02.MultidimensionalArrays\01.FillMatrices\bin\Debug\01.FillMatrices.pdb
+D:\Programming\Software University Courses\CSharp-2-Telerik-Academy\02.MultidimensionalArrays\01.FillMatrices\obj\Debug\01.FillMatrices.csprojResolveAssemblyReference.cache
+D:\Programming\Software University Courses\CSharp-2-Telerik-Academy\02.MultidimensionalArrays\01.FillMatrices\obj\Debug\01.FillMatrices.exe
+D:\Programming\Software University Courses\CSharp-2-Telerik-Academy\02.MultidimensionalArrays\01.FillMatrices\obj\Debug\01.FillMatrices.pdb
