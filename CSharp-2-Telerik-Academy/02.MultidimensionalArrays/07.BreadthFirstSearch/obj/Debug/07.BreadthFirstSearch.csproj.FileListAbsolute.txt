@@ -1,0 +1,5 @@
+D:\Programming\Software University Courses\CSharp-2-Telerik-Academy\02.MultidimensionalArrays\07.BreadthFirstSearch\bin\Debug\07.BreadthFirstSearch.exe
+D:\Programming\Software University Courses\CSharp-2-Telerik-Academy\02.MultidimensionalArrays\07.BreadthFirstSearch\bin\Debug\07.BreadthFirstSearch.pdb
+D:\Programming\Software University Courses\CSharp-2-Telerik-Academy\02.MultidimensionalArrays\07.BreadthFirstSearch\obj\Debug\07.BreadthFirstSearch.csprojResolveAssemblyReference.cache
+D:\Programming\Software University Courses\CSharp-2-Telerik-Academy\02.MultidimensionalArrays\07.BreadthFirstSearch\obj\Debug\07.BreadthFirstSearch.exe
+D:\Programming\Software University Courses\CSharp-2-Telerik-Academy\02.MultidimensionalArrays\07.BreadthFirstSearch\obj\Debug\07.BreadthFirstSearch.pdb
