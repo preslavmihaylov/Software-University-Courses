@@ -1,0 +1,5 @@
+D:\Programming\Software-University-Courses\Object-Oriented-Programming-January2015\01.DefiningClasses\01.People\obj\Debug\01.People.csprojResolveAssemblyReference.cache
+D:\Programming\Software-University-Courses\Object-Oriented-Programming-January2015\01.DefiningClasses\01.People\bin\Debug\01.People.exe
+D:\Programming\Software-University-Courses\Object-Oriented-Programming-January2015\01.DefiningClasses\01.People\bin\Debug\01.People.pdb
+D:\Programming\Software-University-Courses\Object-Oriented-Programming-January2015\01.DefiningClasses\01.People\obj\Debug\01.People.exe
+D:\Programming\Software-University-Courses\Object-Oriented-Programming-January2015\01.DefiningClasses\01.People\obj\Debug\01.People.pdb
