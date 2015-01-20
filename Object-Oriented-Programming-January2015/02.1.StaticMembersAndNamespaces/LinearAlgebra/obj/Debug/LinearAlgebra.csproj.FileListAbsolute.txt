@@ -1,0 +1,4 @@
+D:\Programming\Software-University-Courses\Object-Oriented-Programming-January2015\02.StaticMembersAndNamespaces\LinearAlgebra\bin\Debug\LinearAlgebra.exe
+D:\Programming\Software-University-Courses\Object-Oriented-Programming-January2015\02.StaticMembersAndNamespaces\LinearAlgebra\bin\Debug\LinearAlgebra.pdb
+D:\Programming\Software-University-Courses\Object-Oriented-Programming-January2015\02.StaticMembersAndNamespaces\LinearAlgebra\obj\Debug\LinearAlgebra.exe
+D:\Programming\Software-University-Courses\Object-Oriented-Programming-January2015\02.StaticMembersAndNamespaces\LinearAlgebra\obj\Debug\LinearAlgebra.pdb

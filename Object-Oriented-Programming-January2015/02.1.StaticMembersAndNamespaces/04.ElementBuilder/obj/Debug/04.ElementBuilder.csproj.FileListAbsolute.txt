@@ -1,0 +1,5 @@
+D:\Programming\Software-University-Courses\Object-Oriented-Programming-January2015\02.StaticMembersAndNamespaces\04.ElementBuilder\bin\Debug\04.ElementBuilder.exe
+D:\Programming\Software-University-Courses\Object-Oriented-Programming-January2015\02.StaticMembersAndNamespaces\04.ElementBuilder\bin\Debug\04.ElementBuilder.pdb
+D:\Programming\Software-University-Courses\Object-Oriented-Programming-January2015\02.StaticMembersAndNamespaces\04.ElementBuilder\obj\Debug\04.ElementBuilder.csprojResolveAssemblyReference.cache
+D:\Programming\Software-University-Courses\Object-Oriented-Programming-January2015\02.StaticMembersAndNamespaces\04.ElementBuilder\obj\Debug\04.ElementBuilder.exe
+D:\Programming\Software-University-Courses\Object-Oriented-Programming-January2015\02.StaticMembersAndNamespaces\04.ElementBuilder\obj\Debug\04.ElementBuilder.pdb

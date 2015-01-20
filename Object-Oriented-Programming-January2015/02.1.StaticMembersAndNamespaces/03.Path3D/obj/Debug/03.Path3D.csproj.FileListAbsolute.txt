@@ -1,0 +1,7 @@
+D:\Programming\Software-University-Courses\Object-Oriented-Programming-January2015\02.StaticMembersAndNamespaces\03.Path3D\obj\Debug\03.Path3D.csprojResolveAssemblyReference.cache
+D:\Programming\Software-University-Courses\Object-Oriented-Programming-January2015\02.StaticMembersAndNamespaces\03.Path3D\bin\Debug\03.Path3D.exe
+D:\Programming\Software-University-Courses\Object-Oriented-Programming-January2015\02.StaticMembersAndNamespaces\03.Path3D\bin\Debug\03.Path3D.pdb
+D:\Programming\Software-University-Courses\Object-Oriented-Programming-January2015\02.StaticMembersAndNamespaces\03.Path3D\bin\Debug\LinearAlgebra.exe
+D:\Programming\Software-University-Courses\Object-Oriented-Programming-January2015\02.StaticMembersAndNamespaces\03.Path3D\bin\Debug\LinearAlgebra.pdb
+D:\Programming\Software-University-Courses\Object-Oriented-Programming-January2015\02.StaticMembersAndNamespaces\03.Path3D\obj\Debug\03.Path3D.exe
+D:\Programming\Software-University-Courses\Object-Oriented-Programming-January2015\02.StaticMembersAndNamespaces\03.Path3D\obj\Debug\03.Path3D.pdb

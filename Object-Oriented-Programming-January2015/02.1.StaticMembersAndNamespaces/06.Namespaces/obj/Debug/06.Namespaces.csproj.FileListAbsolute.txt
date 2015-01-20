@@ -1,0 +1,1 @@
+D:\Programming\Software-University-Courses\Object-Oriented-Programming-January2015\02.StaticMembersAndNamespaces\06.Namespaces\bin\Debug\06.Namespaces.exe.config
