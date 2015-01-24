@@ -1,0 +1,5 @@
+D:\Programming\Software-University-Courses\Object-Oriented-Programming-January2015\03.2.DelegatesAndEvents\02.AsyncTimer\bin\Debug\02.AsyncTimer.exe
+D:\Programming\Software-University-Courses\Object-Oriented-Programming-January2015\03.2.DelegatesAndEvents\02.AsyncTimer\bin\Debug\02.AsyncTimer.pdb
+D:\Programming\Software-University-Courses\Object-Oriented-Programming-January2015\03.2.DelegatesAndEvents\02.AsyncTimer\obj\Debug\02.AsyncTimer.csprojResolveAssemblyReference.cache
+D:\Programming\Software-University-Courses\Object-Oriented-Programming-January2015\03.2.DelegatesAndEvents\02.AsyncTimer\obj\Debug\02.AsyncTimer.exe
+D:\Programming\Software-University-Courses\Object-Oriented-Programming-January2015\03.2.DelegatesAndEvents\02.AsyncTimer\obj\Debug\02.AsyncTimer.pdb

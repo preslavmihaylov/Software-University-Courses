@@ -1,0 +1,1 @@
+﻿public delegate void PropertyChangedEventHandler(object sender, ModifiedEventArgs eventArgs);

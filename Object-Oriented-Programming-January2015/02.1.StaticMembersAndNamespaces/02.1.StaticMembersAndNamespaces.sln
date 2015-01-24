@@ -9,13 +9,13 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02.DistanceCalculator", "02
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03.Path3D", "03.Path3D\03.Path3D.csproj", "{4B8E0218-AB32-4002-90D5-DE772E051899}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Geometry", "LinearAlgebra\Geometry.csproj", "{EC102901-B372-4D7D-9FF3-B69D60CCF8A3}"
-EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04.ElementBuilder", "04.ElementBuilder\04.ElementBuilder.csproj", "{372F8F95-2A70-44FA-893E-705EE0475536}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05.BitArray", "05.BitArray\05.BitArray.csproj", "{3ABD8F20-48E4-4330-906F-B0081B8196E1}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06.Namespaces", "06.Namespaces\06.Namespaces.csproj", "{ABC64F2E-96A3-418F-B113-90BC5ADD9891}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Geometry", "Geometry\Geometry.csproj", "{B6542CE8-D97D-46F8-8605-C35DF1D12914}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -35,10 +35,6 @@ Global
 		{4B8E0218-AB32-4002-90D5-DE772E051899}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4B8E0218-AB32-4002-90D5-DE772E051899}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4B8E0218-AB32-4002-90D5-DE772E051899}.Release|Any CPU.Build.0 = Release|Any CPU
-		{EC102901-B372-4D7D-9FF3-B69D60CCF8A3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{EC102901-B372-4D7D-9FF3-B69D60CCF8A3}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{EC102901-B372-4D7D-9FF3-B69D60CCF8A3}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{EC102901-B372-4D7D-9FF3-B69D60CCF8A3}.Release|Any CPU.Build.0 = Release|Any CPU
 		{372F8F95-2A70-44FA-893E-705EE0475536}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{372F8F95-2A70-44FA-893E-705EE0475536}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{372F8F95-2A70-44FA-893E-705EE0475536}.Release|Any CPU.ActiveCfg = Release|Any CPU
@@ -51,6 +47,10 @@ Global
 		{ABC64F2E-96A3-418F-B113-90BC5ADD9891}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{ABC64F2E-96A3-418F-B113-90BC5ADD9891}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{ABC64F2E-96A3-418F-B113-90BC5ADD9891}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B6542CE8-D97D-46F8-8605-C35DF1D12914}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B6542CE8-D97D-46F8-8605-C35DF1D12914}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B6542CE8-D97D-46F8-8605-C35DF1D12914}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B6542CE8-D97D-46F8-8605-C35DF1D12914}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
