@@ -1,0 +1,4 @@
+D:\Programming\Software University Courses\CSharp-2-Telerik-Academy\05.ClassesAndObjects\04.CalculateTriangleSurface\bin\Debug\04.CalculateTriangleSurface.exe
+D:\Programming\Software University Courses\CSharp-2-Telerik-Academy\05.ClassesAndObjects\04.CalculateTriangleSurface\bin\Debug\04.CalculateTriangleSurface.pdb
+D:\Programming\Software University Courses\CSharp-2-Telerik-Academy\05.ClassesAndObjects\04.CalculateTriangleSurface\obj\Debug\04.CalculateTriangleSurface.exe
+D:\Programming\Software University Courses\CSharp-2-Telerik-Academy\05.ClassesAndObjects\04.CalculateTriangleSurface\obj\Debug\04.CalculateTriangleSurface.pdb
