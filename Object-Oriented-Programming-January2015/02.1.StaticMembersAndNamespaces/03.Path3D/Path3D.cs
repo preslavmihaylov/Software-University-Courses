@@ -5,7 +5,6 @@ using System.Collections.Generic;
 class Path3D
 {
     private List<Point3D> path = new List<Point3D>();
-    private Storage storage = new Storage();
 
     public List<Point3D> Path
     {
@@ -15,14 +14,15 @@ class Path3D
         }
     }
 
-    public Path3D()
+    public Path3D(string inputPath)
     {
-        this.getInputPath();
+        this.getInputPath(inputPath);
     }
 
-    private void getInputPath()
+    private void getInputPath(string inputPath)
     {
-        string[] input = storage.Input;
+        string[] input = Storage.readInput(inputPath);
+
         for (int index = 0; index < input.Length; index++)
         {
             string[] coordinates = input[index].Split(new char[] {' ', ',', '{', '}'}, StringSplitOptions.RemoveEmptyEntries);
@@ -34,13 +34,13 @@ class Path3D
             double y = double.Parse(coordinates[1]);
             double z = double.Parse(coordinates[2]);
 
-            path.Add(new Point3D(x, y, z));
+            this.path.Add(new Point3D(x, y, z));
         }
     }
 
-    public void saveChanges()
+    public void saveChanges(string output)
     {
-        this.storage.writeOutput(this.Path);
+        Storage.writeOutput(this.path, output);
     }
 
     public void addPoint(Point3D destination)

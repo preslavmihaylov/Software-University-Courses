@@ -3,28 +3,19 @@ using System.IO;
 using System.Collections.Generic;
 using Geometry;
 
-class Storage
+static class Storage
 {
-    private StreamReader reader = new StreamReader("../../Path.txt");
-    private StreamWriter writer;
-    private string[] input;
-
-    public string[] Input 
+    public static string[] readInput(string path)
     {
-        get {
-            return this.input;
-        }    
-    }
-
-    public Storage()
-    {
-        input = reader.ReadToEnd().Split(new string[] { Environment.NewLine }, StringSplitOptions.None);
-    }
-
-    public void writeOutput(List<Point3D> output) 
-    {
+        StreamReader reader = new StreamReader(path);
+        string[] input = reader.ReadToEnd().Split(new string[] { Environment.NewLine }, StringSplitOptions.None);
         reader.Close();
-        writer = new StreamWriter("../../Path.txt");
+        return input;
+    }
+
+    public static void writeOutput(List<Point3D> output, string path) 
+    {
+        StreamWriter writer = new StreamWriter(path);
 
         foreach (Point3D point in output)
         {

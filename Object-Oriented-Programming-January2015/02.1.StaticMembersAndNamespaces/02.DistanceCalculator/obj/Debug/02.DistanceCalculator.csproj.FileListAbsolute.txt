@@ -12,10 +12,3 @@ D:\Programming\Software-University-Courses\Object-Oriented-Programming-January20
 D:\Programming\Software-University-Courses\Object-Oriented-Programming-January2015\02.1.StaticMembersAndNamespaces\02.DistanceCalculator\bin\Debug\02.DistanceCalculator.pdb
 D:\Programming\Software-University-Courses\Object-Oriented-Programming-January2015\02.1.StaticMembersAndNamespaces\02.DistanceCalculator\bin\Debug\Geometry.exe
 D:\Programming\Software-University-Courses\Object-Oriented-Programming-January2015\02.1.StaticMembersAndNamespaces\02.DistanceCalculator\bin\Debug\Geometry.pdb
-D:\Programming\Repositories\Software-University-Courses\Object-Oriented-Programming-January2015\02.1.StaticMembersAndNamespaces\02.DistanceCalculator\obj\Debug\02.DistanceCalculator.exe
-D:\Programming\Repositories\Software-University-Courses\Object-Oriented-Programming-January2015\02.1.StaticMembersAndNamespaces\02.DistanceCalculator\obj\Debug\02.DistanceCalculator.pdb
-D:\Programming\Repositories\Software-University-Courses\Object-Oriented-Programming-January2015\02.1.StaticMembersAndNamespaces\02.DistanceCalculator\bin\Debug\02.DistanceCalculator.exe
-D:\Programming\Repositories\Software-University-Courses\Object-Oriented-Programming-January2015\02.1.StaticMembersAndNamespaces\02.DistanceCalculator\bin\Debug\02.DistanceCalculator.pdb
-D:\Programming\Repositories\Software-University-Courses\Object-Oriented-Programming-January2015\02.1.StaticMembersAndNamespaces\02.DistanceCalculator\bin\Debug\Geometry.exe
-D:\Programming\Repositories\Software-University-Courses\Object-Oriented-Programming-January2015\02.1.StaticMembersAndNamespaces\02.DistanceCalculator\bin\Debug\Geometry.pdb
-D:\Programming\Repositories\Software-University-Courses\Object-Oriented-Programming-January2015\02.1.StaticMembersAndNamespaces\02.DistanceCalculator\obj\Debug\02.DistanceCalculator.csprojResolveAssemblyReference.cache
