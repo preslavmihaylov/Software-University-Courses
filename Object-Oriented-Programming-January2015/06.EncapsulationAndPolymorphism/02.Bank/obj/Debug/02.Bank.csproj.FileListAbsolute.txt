@@ -1,0 +1,5 @@
+D:\Programming\Software-University-Courses\Object-Oriented-Programming-January2015\06.EncapsulationAndPolymorphism\02.Bank\obj\Debug\02.Bank.csprojResolveAssemblyReference.cache
+D:\Programming\Software-University-Courses\Object-Oriented-Programming-January2015\06.EncapsulationAndPolymorphism\02.Bank\bin\Debug\02.Bank.exe
+D:\Programming\Software-University-Courses\Object-Oriented-Programming-January2015\06.EncapsulationAndPolymorphism\02.Bank\bin\Debug\02.Bank.pdb
+D:\Programming\Software-University-Courses\Object-Oriented-Programming-January2015\06.EncapsulationAndPolymorphism\02.Bank\obj\Debug\02.Bank.exe
+D:\Programming\Software-University-Courses\Object-Oriented-Programming-January2015\06.EncapsulationAndPolymorphism\02.Bank\obj\Debug\02.Bank.pdb

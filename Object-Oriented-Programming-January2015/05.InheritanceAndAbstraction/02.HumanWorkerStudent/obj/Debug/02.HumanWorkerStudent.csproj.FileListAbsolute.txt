@@ -1,0 +1,5 @@
+D:\Programming\Software-University-Courses\Object-Oriented-Programming-January2015\05.InheritanceAndAbstraction\02.HumanWorkerStudent\bin\Debug\02.HumanWorkerStudent.exe
+D:\Programming\Software-University-Courses\Object-Oriented-Programming-January2015\05.InheritanceAndAbstraction\02.HumanWorkerStudent\bin\Debug\02.HumanWorkerStudent.pdb
+D:\Programming\Software-University-Courses\Object-Oriented-Programming-January2015\05.InheritanceAndAbstraction\02.HumanWorkerStudent\obj\Debug\02.HumanWorkerStudent.csprojResolveAssemblyReference.cache
+D:\Programming\Software-University-Courses\Object-Oriented-Programming-January2015\05.InheritanceAndAbstraction\02.HumanWorkerStudent\obj\Debug\02.HumanWorkerStudent.exe
+D:\Programming\Software-University-Courses\Object-Oriented-Programming-January2015\05.InheritanceAndAbstraction\02.HumanWorkerStudent\obj\Debug\02.HumanWorkerStudent.pdb

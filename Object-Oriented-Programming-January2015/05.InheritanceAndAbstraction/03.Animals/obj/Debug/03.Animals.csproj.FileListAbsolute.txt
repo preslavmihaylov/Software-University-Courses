@@ -1,0 +1,5 @@
+D:\Programming\Software-University-Courses\Object-Oriented-Programming-January2015\05.InheritanceAndAbstraction\03.Animals\obj\Debug\03.Animals.csprojResolveAssemblyReference.cache
+D:\Programming\Software-University-Courses\Object-Oriented-Programming-January2015\05.InheritanceAndAbstraction\03.Animals\bin\Debug\03.Animals.exe
+D:\Programming\Software-University-Courses\Object-Oriented-Programming-January2015\05.InheritanceAndAbstraction\03.Animals\bin\Debug\03.Animals.pdb
+D:\Programming\Software-University-Courses\Object-Oriented-Programming-January2015\05.InheritanceAndAbstraction\03.Animals\obj\Debug\03.Animals.exe
+D:\Programming\Software-University-Courses\Object-Oriented-Programming-January2015\05.InheritanceAndAbstraction\03.Animals\obj\Debug\03.Animals.pdb
