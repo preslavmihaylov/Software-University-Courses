@@ -1,4 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<session version="1.0">
-<refactoring comment="Copy element &apos;gg.wav&apos; to &apos;res&apos;&#x0D;&#x0A;- Original project: &apos;Tetris2&apos;&#x0D;&#x0A;- Destination element: &apos;res&apos;&#x0D;&#x0A;- Original element: &apos;gg.wav&apos;" description="Copy file" element1="gg.wav" files="1" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1410445218739" target="/Java2DGameTutorial/res" units="0" version="1.0"/>
-</session>
