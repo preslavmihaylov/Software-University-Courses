@@ -1,4 +1,4 @@
 Software-University-Courses
 ===========================
 
-All the homeworks from the courses @ Software University
+All the homeworks and projects from the courses @ Software University
