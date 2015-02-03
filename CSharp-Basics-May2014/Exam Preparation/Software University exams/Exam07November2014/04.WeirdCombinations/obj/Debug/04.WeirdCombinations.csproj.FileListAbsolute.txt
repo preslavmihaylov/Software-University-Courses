@@ -1,5 +1,0 @@
-c:\users\softuni\documents\visual studio 2013\Projects\Exam07November2014\04.WeirdCombinations\bin\Debug\04.WeirdCombinations.exe.config
-c:\users\softuni\documents\visual studio 2013\Projects\Exam07November2014\04.WeirdCombinations\bin\Debug\04.WeirdCombinations.exe
-c:\users\softuni\documents\visual studio 2013\Projects\Exam07November2014\04.WeirdCombinations\bin\Debug\04.WeirdCombinations.pdb
-c:\users\softuni\documents\visual studio 2013\Projects\Exam07November2014\04.WeirdCombinations\obj\Debug\04.WeirdCombinations.exe
-c:\users\softuni\documents\visual studio 2013\Projects\Exam07November2014\04.WeirdCombinations\obj\Debug\04.WeirdCombinations.pdb

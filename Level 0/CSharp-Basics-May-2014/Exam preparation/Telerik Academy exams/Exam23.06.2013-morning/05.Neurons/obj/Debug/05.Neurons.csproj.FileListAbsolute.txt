@@ -1,0 +1,5 @@
+D:\Programming\CSharp-Basics-Course-May\Exam preparation\Telerik Academy exams\Exam23.06.2013-morning\05.Neurons\bin\Debug\05.Neurons.exe
+D:\Programming\CSharp-Basics-Course-May\Exam preparation\Telerik Academy exams\Exam23.06.2013-morning\05.Neurons\bin\Debug\05.Neurons.pdb
+D:\Programming\CSharp-Basics-Course-May\Exam preparation\Telerik Academy exams\Exam23.06.2013-morning\05.Neurons\obj\Debug\05.Neurons.csprojResolveAssemblyReference.cache
+D:\Programming\CSharp-Basics-Course-May\Exam preparation\Telerik Academy exams\Exam23.06.2013-morning\05.Neurons\obj\Debug\05.Neurons.exe
+D:\Programming\CSharp-Basics-Course-May\Exam preparation\Telerik Academy exams\Exam23.06.2013-morning\05.Neurons\obj\Debug\05.Neurons.pdb

@@ -1,0 +1,4 @@
+D:\My Documents\Preslav Mihaylov !\Programming\CSharp-Basics-Course-May\Exam preparation\07.AdvancedTopics\05.SortingNumbers\bin\Debug\05.SortingNumbers.exe
+D:\My Documents\Preslav Mihaylov !\Programming\CSharp-Basics-Course-May\Exam preparation\07.AdvancedTopics\05.SortingNumbers\bin\Debug\05.SortingNumbers.pdb
+D:\My Documents\Preslav Mihaylov !\Programming\CSharp-Basics-Course-May\Exam preparation\07.AdvancedTopics\05.SortingNumbers\obj\Debug\05.SortingNumbers.exe
+D:\My Documents\Preslav Mihaylov !\Programming\CSharp-Basics-Course-May\Exam preparation\07.AdvancedTopics\05.SortingNumbers\obj\Debug\05.SortingNumbers.pdb

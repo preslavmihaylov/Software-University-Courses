@@ -1,0 +1,4 @@
+D:\My Documents\Preslav Mihaylov !\Programming\CSharp-Basics-Course-May\04.ConsoleInputOutput\08.NumbersFrom1toN\bin\Debug\08.NumbersFrom1toN.exe
+D:\My Documents\Preslav Mihaylov !\Programming\CSharp-Basics-Course-May\04.ConsoleInputOutput\08.NumbersFrom1toN\bin\Debug\08.NumbersFrom1toN.pdb
+D:\My Documents\Preslav Mihaylov !\Programming\CSharp-Basics-Course-May\04.ConsoleInputOutput\08.NumbersFrom1toN\obj\Debug\08.NumbersFrom1toN.exe
+D:\My Documents\Preslav Mihaylov !\Programming\CSharp-Basics-Course-May\04.ConsoleInputOutput\08.NumbersFrom1toN\obj\Debug\08.NumbersFrom1toN.pdb

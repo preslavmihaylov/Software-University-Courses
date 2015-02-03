@@ -1,0 +1,4 @@
+D:\My Documents\Preslav Mihaylov !\Programming\CSharp-Basics-Course-May\06.Loops\08.CatalanNumbers\bin\Debug\08.CatalanNumbers.exe
+D:\My Documents\Preslav Mihaylov !\Programming\CSharp-Basics-Course-May\06.Loops\08.CatalanNumbers\bin\Debug\08.CatalanNumbers.pdb
+D:\My Documents\Preslav Mihaylov !\Programming\CSharp-Basics-Course-May\06.Loops\08.CatalanNumbers\obj\Debug\08.CatalanNumbers.exe
+D:\My Documents\Preslav Mihaylov !\Programming\CSharp-Basics-Course-May\06.Loops\08.CatalanNumbers\obj\Debug\08.CatalanNumbers.pdb

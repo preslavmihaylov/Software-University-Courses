@@ -1,0 +1,4 @@
+D:\My Documents\Preslav Mihaylov !\Programming\CSharp-Basics-Course-May\Exam preparation\Exam12april-evening\04.FiveSpecialLetters\bin\Debug\04.FiveSpecialLetters.exe
+D:\My Documents\Preslav Mihaylov !\Programming\CSharp-Basics-Course-May\Exam preparation\Exam12april-evening\04.FiveSpecialLetters\bin\Debug\04.FiveSpecialLetters.pdb
+D:\My Documents\Preslav Mihaylov !\Programming\CSharp-Basics-Course-May\Exam preparation\Exam12april-evening\04.FiveSpecialLetters\obj\Debug\04.FiveSpecialLetters.exe
+D:\My Documents\Preslav Mihaylov !\Programming\CSharp-Basics-Course-May\Exam preparation\Exam12april-evening\04.FiveSpecialLetters\obj\Debug\04.FiveSpecialLetters.pdb

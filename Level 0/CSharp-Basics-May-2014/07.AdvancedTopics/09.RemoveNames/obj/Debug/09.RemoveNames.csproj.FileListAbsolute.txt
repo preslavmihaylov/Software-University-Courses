@@ -1,0 +1,5 @@
+D:\My Documents\Preslav Mihaylov !\Programming\CSharp-Basics-Course-May\07.AdvancedTopics\09.RemoveNames\bin\Debug\09.RemoveNames.exe
+D:\My Documents\Preslav Mihaylov !\Programming\CSharp-Basics-Course-May\07.AdvancedTopics\09.RemoveNames\bin\Debug\09.RemoveNames.pdb
+D:\My Documents\Preslav Mihaylov !\Programming\CSharp-Basics-Course-May\07.AdvancedTopics\09.RemoveNames\obj\Debug\09.RemoveNames.csprojResolveAssemblyReference.cache
+D:\My Documents\Preslav Mihaylov !\Programming\CSharp-Basics-Course-May\07.AdvancedTopics\09.RemoveNames\obj\Debug\09.RemoveNames.exe
+D:\My Documents\Preslav Mihaylov !\Programming\CSharp-Basics-Course-May\07.AdvancedTopics\09.RemoveNames\obj\Debug\09.RemoveNames.pdb

@@ -1,0 +1,5 @@
+D:\My Documents\Preslav Mihaylov !\Programming\CSharp-Basics-Course-May\07.AdvancedTopics\13.AverageLoadTimeCalculator\bin\Debug\13.AverageLoadTimeCalculator.exe
+D:\My Documents\Preslav Mihaylov !\Programming\CSharp-Basics-Course-May\07.AdvancedTopics\13.AverageLoadTimeCalculator\bin\Debug\13.AverageLoadTimeCalculator.pdb
+D:\My Documents\Preslav Mihaylov !\Programming\CSharp-Basics-Course-May\07.AdvancedTopics\13.AverageLoadTimeCalculator\obj\Debug\13.AverageLoadTimeCalculator.csprojResolveAssemblyReference.cache
+D:\My Documents\Preslav Mihaylov !\Programming\CSharp-Basics-Course-May\07.AdvancedTopics\13.AverageLoadTimeCalculator\obj\Debug\13.AverageLoadTimeCalculator.exe
+D:\My Documents\Preslav Mihaylov !\Programming\CSharp-Basics-Course-May\07.AdvancedTopics\13.AverageLoadTimeCalculator\obj\Debug\13.AverageLoadTimeCalculator.pdb

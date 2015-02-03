@@ -1,0 +1,5 @@
+D:\My Documents\Preslav Mihaylov !\Programming\CSharp-Basics-Course-May\Exam preparation\Exam11april-morning\04.MagicStrings\bin\Debug\04.MagicStrings.exe
+D:\My Documents\Preslav Mihaylov !\Programming\CSharp-Basics-Course-May\Exam preparation\Exam11april-morning\04.MagicStrings\bin\Debug\04.MagicStrings.pdb
+D:\My Documents\Preslav Mihaylov !\Programming\CSharp-Basics-Course-May\Exam preparation\Exam11april-morning\04.MagicStrings\obj\Debug\04.MagicStrings.csprojResolveAssemblyReference.cache
+D:\My Documents\Preslav Mihaylov !\Programming\CSharp-Basics-Course-May\Exam preparation\Exam11april-morning\04.MagicStrings\obj\Debug\04.MagicStrings.exe
+D:\My Documents\Preslav Mihaylov !\Programming\CSharp-Basics-Course-May\Exam preparation\Exam11april-morning\04.MagicStrings\obj\Debug\04.MagicStrings.pdb

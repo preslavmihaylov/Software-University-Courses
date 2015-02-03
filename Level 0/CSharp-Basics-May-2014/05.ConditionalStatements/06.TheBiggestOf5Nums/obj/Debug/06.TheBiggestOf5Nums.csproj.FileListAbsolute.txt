@@ -1,0 +1,4 @@
+D:\My Documents\Preslav Mihaylov !\Programming\CSharp-Basics-Course-May\05.ConditionalStatements\06.TheBiggestOf5Nums\bin\Debug\06.TheBiggestOf5Nums.exe
+D:\My Documents\Preslav Mihaylov !\Programming\CSharp-Basics-Course-May\05.ConditionalStatements\06.TheBiggestOf5Nums\bin\Debug\06.TheBiggestOf5Nums.pdb
+D:\My Documents\Preslav Mihaylov !\Programming\CSharp-Basics-Course-May\05.ConditionalStatements\06.TheBiggestOf5Nums\obj\Debug\06.TheBiggestOf5Nums.exe
+D:\My Documents\Preslav Mihaylov !\Programming\CSharp-Basics-Course-May\05.ConditionalStatements\06.TheBiggestOf5Nums\obj\Debug\06.TheBiggestOf5Nums.pdb

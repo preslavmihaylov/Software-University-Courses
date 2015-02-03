@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Extract method &apos;private static boolean checkFirstNum(int index)&apos; from &apos;_01_StuckNumbers.main()&apos; to &apos;_01_StuckNumbers&apos;&#x0D;&#x0A;- Original project: &apos;JavaExam01June2014&apos;&#x0D;&#x0A;- Method name: &apos;checkFirstNum&apos;&#x0D;&#x0A;- Destination type: &apos;_01_StuckNumbers&apos;&#x0D;&#x0A;- Declared visibility: &apos;private&apos;" comments="false" description="Extract method &apos;checkFirstNum&apos;" destination="0" exceptions="false" flags="786434" id="org.eclipse.jdt.ui.extract.method" input="/src&lt;{_01_StuckNumbers.java" name="checkFirstNum" replace="false" selection="419 127" stamp="1410773675283" version="1.0" visibility="2"/>
+</session>

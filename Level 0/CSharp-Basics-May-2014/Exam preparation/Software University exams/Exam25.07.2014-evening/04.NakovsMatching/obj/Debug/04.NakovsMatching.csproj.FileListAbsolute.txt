@@ -1,0 +1,4 @@
+D:\Programming\CSharp-Basics-Course-May\Exam\Exam25.07.2014-evening\04.NakovsMatching\bin\Debug\04.NakovsMatching.exe
+D:\Programming\CSharp-Basics-Course-May\Exam\Exam25.07.2014-evening\04.NakovsMatching\bin\Debug\04.NakovsMatching.pdb
+D:\Programming\CSharp-Basics-Course-May\Exam\Exam25.07.2014-evening\04.NakovsMatching\obj\Debug\04.NakovsMatching.exe
+D:\Programming\CSharp-Basics-Course-May\Exam\Exam25.07.2014-evening\04.NakovsMatching\obj\Debug\04.NakovsMatching.pdb

@@ -1,0 +1,5 @@
+D:\Programming\CSharp-Basics-Course-May\Exam preparation\Telerik Academy exams\Exam06.12.2013-evening\05.GameOfPage\bin\Debug\05.GameOfPage.exe
+D:\Programming\CSharp-Basics-Course-May\Exam preparation\Telerik Academy exams\Exam06.12.2013-evening\05.GameOfPage\bin\Debug\05.GameOfPage.pdb
+D:\Programming\CSharp-Basics-Course-May\Exam preparation\Telerik Academy exams\Exam06.12.2013-evening\05.GameOfPage\obj\Debug\05.GameOfPage.csprojResolveAssemblyReference.cache
+D:\Programming\CSharp-Basics-Course-May\Exam preparation\Telerik Academy exams\Exam06.12.2013-evening\05.GameOfPage\obj\Debug\05.GameOfPage.exe
+D:\Programming\CSharp-Basics-Course-May\Exam preparation\Telerik Academy exams\Exam06.12.2013-evening\05.GameOfPage\obj\Debug\05.GameOfPage.pdb

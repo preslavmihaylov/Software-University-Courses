@@ -1,0 +1,5 @@
+D:\My Documents\Preslav Mihaylov !\Programming\CSharp-Basics-Course-May\06.Loops\07.CalculateNumberOfCombinations\bin\Debug\07.CalculateNumberOfCombinations.exe
+D:\My Documents\Preslav Mihaylov !\Programming\CSharp-Basics-Course-May\06.Loops\07.CalculateNumberOfCombinations\bin\Debug\07.CalculateNumberOfCombinations.pdb
+D:\My Documents\Preslav Mihaylov !\Programming\CSharp-Basics-Course-May\06.Loops\07.CalculateNumberOfCombinations\obj\Debug\07.CalculateNumberOfCombinations.exe
+D:\My Documents\Preslav Mihaylov !\Programming\CSharp-Basics-Course-May\06.Loops\07.CalculateNumberOfCombinations\obj\Debug\07.CalculateNumberOfCombinations.pdb
+D:\My Documents\Preslav Mihaylov !\Programming\CSharp-Basics-Course-May\06.Loops\07.CalculateNumberOfCombinations\obj\Debug\07.CalculateNumberOfCombinations.csprojResolveAssemblyReference.cache

@@ -1,0 +1,5 @@
+#!/bin/bash
+# open the terminal in Linux and enter open the path to this script
+# next type sh myScript and enjoy.
+
+java -jar Pr10CreateJarArchive.jar

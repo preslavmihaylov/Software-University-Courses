@@ -1,0 +1,4 @@
+D:\My Documents\Preslav Mihaylov !\Programming\CSharp-Basics-Course-May\03.Operators, Expressions and Statements\05.ThirdDigitIs7\bin\Debug\05.ThirdDigitIs7.exe
+D:\My Documents\Preslav Mihaylov !\Programming\CSharp-Basics-Course-May\03.Operators, Expressions and Statements\05.ThirdDigitIs7\bin\Debug\05.ThirdDigitIs7.pdb
+D:\My Documents\Preslav Mihaylov !\Programming\CSharp-Basics-Course-May\03.Operators, Expressions and Statements\05.ThirdDigitIs7\obj\Debug\05.ThirdDigitIs7.exe
+D:\My Documents\Preslav Mihaylov !\Programming\CSharp-Basics-Course-May\03.Operators, Expressions and Statements\05.ThirdDigitIs7\obj\Debug\05.ThirdDigitIs7.pdb

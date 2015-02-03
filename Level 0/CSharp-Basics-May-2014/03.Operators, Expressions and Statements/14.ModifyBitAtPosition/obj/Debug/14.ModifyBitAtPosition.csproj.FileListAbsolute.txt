@@ -1,0 +1,4 @@
+D:\My Documents\Preslav Mihaylov !\Programming\CSharp-Basics-Course-May\03.Operators, Expressions and Statements\14.ModifyBitAtPosition\bin\Debug\14.ModifyBitAtPosition.exe
+D:\My Documents\Preslav Mihaylov !\Programming\CSharp-Basics-Course-May\03.Operators, Expressions and Statements\14.ModifyBitAtPosition\bin\Debug\14.ModifyBitAtPosition.pdb
+D:\My Documents\Preslav Mihaylov !\Programming\CSharp-Basics-Course-May\03.Operators, Expressions and Statements\14.ModifyBitAtPosition\obj\Debug\14.ModifyBitAtPosition.exe
+D:\My Documents\Preslav Mihaylov !\Programming\CSharp-Basics-Course-May\03.Operators, Expressions and Statements\14.ModifyBitAtPosition\obj\Debug\14.ModifyBitAtPosition.pdb

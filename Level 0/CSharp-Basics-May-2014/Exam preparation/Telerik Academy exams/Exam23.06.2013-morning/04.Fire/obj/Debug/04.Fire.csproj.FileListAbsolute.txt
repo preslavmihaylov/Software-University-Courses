@@ -1,0 +1,4 @@
+D:\Programming\CSharp-Basics-Course-May\Exam preparation\Telerik Academy exams\Exam23.06.2013-morning\04.Fire\bin\Debug\04.Fire.exe
+D:\Programming\CSharp-Basics-Course-May\Exam preparation\Telerik Academy exams\Exam23.06.2013-morning\04.Fire\bin\Debug\04.Fire.pdb
+D:\Programming\CSharp-Basics-Course-May\Exam preparation\Telerik Academy exams\Exam23.06.2013-morning\04.Fire\obj\Debug\04.Fire.exe
+D:\Programming\CSharp-Basics-Course-May\Exam preparation\Telerik Academy exams\Exam23.06.2013-morning\04.Fire\obj\Debug\04.Fire.pdb

@@ -1,0 +1,5 @@
+D:\My Documents\Preslav Mihaylov !\Programming\CSharp-Basics-Course-May\04.ConsoleInputOutput\06.QuadraticEquation\bin\Debug\06.QuadraticEquation.exe
+D:\My Documents\Preslav Mihaylov !\Programming\CSharp-Basics-Course-May\04.ConsoleInputOutput\06.QuadraticEquation\bin\Debug\06.QuadraticEquation.pdb
+D:\My Documents\Preslav Mihaylov !\Programming\CSharp-Basics-Course-May\04.ConsoleInputOutput\06.QuadraticEquation\obj\Debug\06.QuadraticEquation.csprojResolveAssemblyReference.cache
+D:\My Documents\Preslav Mihaylov !\Programming\CSharp-Basics-Course-May\04.ConsoleInputOutput\06.QuadraticEquation\obj\Debug\06.QuadraticEquation.exe
+D:\My Documents\Preslav Mihaylov !\Programming\CSharp-Basics-Course-May\04.ConsoleInputOutput\06.QuadraticEquation\obj\Debug\06.QuadraticEquation.pdb

@@ -1,0 +1,4 @@
+D:\My Documents\Preslav Mihaylov !\Programming\CSharp-Basics-Course-May\04.ConsoleInputOutput\04.NumberComparer\bin\Debug\04.NumberComparer.exe
+D:\My Documents\Preslav Mihaylov !\Programming\CSharp-Basics-Course-May\04.ConsoleInputOutput\04.NumberComparer\bin\Debug\04.NumberComparer.pdb
+D:\My Documents\Preslav Mihaylov !\Programming\CSharp-Basics-Course-May\04.ConsoleInputOutput\04.NumberComparer\obj\Debug\04.NumberComparer.exe
+D:\My Documents\Preslav Mihaylov !\Programming\CSharp-Basics-Course-May\04.ConsoleInputOutput\04.NumberComparer\obj\Debug\04.NumberComparer.pdb

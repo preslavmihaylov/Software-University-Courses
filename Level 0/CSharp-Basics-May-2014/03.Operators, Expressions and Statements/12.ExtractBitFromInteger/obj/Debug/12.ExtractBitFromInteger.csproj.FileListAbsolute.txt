@@ -1,0 +1,5 @@
+D:\My Documents\Preslav Mihaylov !\Programming\CSharp-Basics-Course-May\03.Operators, Expressions and Statements\12.ExtractBitFromInteger\bin\Debug\12.ExtractBitFromInteger.exe
+D:\My Documents\Preslav Mihaylov !\Programming\CSharp-Basics-Course-May\03.Operators, Expressions and Statements\12.ExtractBitFromInteger\bin\Debug\12.ExtractBitFromInteger.pdb
+D:\My Documents\Preslav Mihaylov !\Programming\CSharp-Basics-Course-May\03.Operators, Expressions and Statements\12.ExtractBitFromInteger\obj\Debug\12.ExtractBitFromInteger.exe
+D:\My Documents\Preslav Mihaylov !\Programming\CSharp-Basics-Course-May\03.Operators, Expressions and Statements\12.ExtractBitFromInteger\obj\Debug\12.ExtractBitFromInteger.pdb
+D:\My Documents\Preslav Mihaylov !\Programming\CSharp-Basics-Course-May\03.Operators, Expressions and Statements\12.ExtractBitFromInteger\obj\Debug\12.ExtractBitFromInteger.csprojResolveAssemblyReference.cache

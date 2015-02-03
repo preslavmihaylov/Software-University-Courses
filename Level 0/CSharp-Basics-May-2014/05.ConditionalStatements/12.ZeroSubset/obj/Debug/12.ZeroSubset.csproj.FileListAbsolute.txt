@@ -1,0 +1,5 @@
+D:\My Documents\Preslav Mihaylov !\Programming\CSharp-Basics-Course-May\05.ConditionalStatements\12.ZeroSubset\obj\Debug\12.ZeroSubset.csprojResolveAssemblyReference.cache
+D:\My Documents\Preslav Mihaylov !\Programming\CSharp-Basics-Course-May\05.ConditionalStatements\12.ZeroSubset\bin\Debug\12.ZeroSubset.exe
+D:\My Documents\Preslav Mihaylov !\Programming\CSharp-Basics-Course-May\05.ConditionalStatements\12.ZeroSubset\bin\Debug\12.ZeroSubset.pdb
+D:\My Documents\Preslav Mihaylov !\Programming\CSharp-Basics-Course-May\05.ConditionalStatements\12.ZeroSubset\obj\Debug\12.ZeroSubset.exe
+D:\My Documents\Preslav Mihaylov !\Programming\CSharp-Basics-Course-May\05.ConditionalStatements\12.ZeroSubset\obj\Debug\12.ZeroSubset.pdb

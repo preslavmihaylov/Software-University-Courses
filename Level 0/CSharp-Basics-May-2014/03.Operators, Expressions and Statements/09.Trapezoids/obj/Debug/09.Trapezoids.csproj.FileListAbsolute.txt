@@ -1,0 +1,4 @@
+D:\My Documents\Preslav Mihaylov !\Programming\CSharp-Basics-Course-May\03.Operators, Expressions and Statements\09.Trapezoids\bin\Debug\09.Trapezoids.exe
+D:\My Documents\Preslav Mihaylov !\Programming\CSharp-Basics-Course-May\03.Operators, Expressions and Statements\09.Trapezoids\bin\Debug\09.Trapezoids.pdb
+D:\My Documents\Preslav Mihaylov !\Programming\CSharp-Basics-Course-May\03.Operators, Expressions and Statements\09.Trapezoids\obj\Debug\09.Trapezoids.exe
+D:\My Documents\Preslav Mihaylov !\Programming\CSharp-Basics-Course-May\03.Operators, Expressions and Statements\09.Trapezoids\obj\Debug\09.Trapezoids.pdb

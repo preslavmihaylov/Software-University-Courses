@@ -1,0 +1,5 @@
+D:\My Documents\Preslav Mihaylov !\Programming\CSharp-Basics-Course-May\Exam preparation\Exam12april-evening\05.BitRoller\bin\Debug\05.BitRoller.exe
+D:\My Documents\Preslav Mihaylov !\Programming\CSharp-Basics-Course-May\Exam preparation\Exam12april-evening\05.BitRoller\bin\Debug\05.BitRoller.pdb
+D:\My Documents\Preslav Mihaylov !\Programming\CSharp-Basics-Course-May\Exam preparation\Exam12april-evening\05.BitRoller\obj\Debug\05.BitRoller.csprojResolveAssemblyReference.cache
+D:\My Documents\Preslav Mihaylov !\Programming\CSharp-Basics-Course-May\Exam preparation\Exam12april-evening\05.BitRoller\obj\Debug\05.BitRoller.exe
+D:\My Documents\Preslav Mihaylov !\Programming\CSharp-Basics-Course-May\Exam preparation\Exam12april-evening\05.BitRoller\obj\Debug\05.BitRoller.pdb

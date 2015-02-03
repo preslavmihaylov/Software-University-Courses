@@ -1,6 +1,0 @@
-c:\users\softuni\documents\visual studio 2013\Projects\Exam07November2014\01.Budget\bin\Debug\01.Budget.exe.config
-c:\users\softuni\documents\visual studio 2013\Projects\Exam07November2014\01.Budget\bin\Debug\01.Budget.exe
-c:\users\softuni\documents\visual studio 2013\Projects\Exam07November2014\01.Budget\bin\Debug\01.Budget.pdb
-c:\users\softuni\documents\visual studio 2013\Projects\Exam07November2014\01.Budget\obj\Debug\01.Budget.csprojResolveAssemblyReference.cache
-c:\users\softuni\documents\visual studio 2013\Projects\Exam07November2014\01.Budget\obj\Debug\01.Budget.exe
-c:\users\softuni\documents\visual studio 2013\Projects\Exam07November2014\01.Budget\obj\Debug\01.Budget.pdb

@@ -1,0 +1,5 @@
+D:\My Documents\Preslav Mihaylov !\Programming\CSharp-Basics-Course-May\Exam preparation\Exam14april-evening\04.MagicCarNumbers\bin\Debug\04.MagicCarNumbers.exe
+D:\My Documents\Preslav Mihaylov !\Programming\CSharp-Basics-Course-May\Exam preparation\Exam14april-evening\04.MagicCarNumbers\bin\Debug\04.MagicCarNumbers.pdb
+D:\My Documents\Preslav Mihaylov !\Programming\CSharp-Basics-Course-May\Exam preparation\Exam14april-evening\04.MagicCarNumbers\obj\Debug\04.MagicCarNumbers.csprojResolveAssemblyReference.cache
+D:\My Documents\Preslav Mihaylov !\Programming\CSharp-Basics-Course-May\Exam preparation\Exam14april-evening\04.MagicCarNumbers\obj\Debug\04.MagicCarNumbers.exe
+D:\My Documents\Preslav Mihaylov !\Programming\CSharp-Basics-Course-May\Exam preparation\Exam14april-evening\04.MagicCarNumbers\obj\Debug\04.MagicCarNumbers.pdb

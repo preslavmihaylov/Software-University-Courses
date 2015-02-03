@@ -1,0 +1,5 @@
+D:\My Documents\Preslav Mihaylov !\Programming\CSharp-Basics-Course-May\03.Operators, Expressions and Statements\10.PointInCircleOutRectangular\bin\Debug\10.PointInCircleOutRectangular.exe
+D:\My Documents\Preslav Mihaylov !\Programming\CSharp-Basics-Course-May\03.Operators, Expressions and Statements\10.PointInCircleOutRectangular\bin\Debug\10.PointInCircleOutRectangular.pdb
+D:\My Documents\Preslav Mihaylov !\Programming\CSharp-Basics-Course-May\03.Operators, Expressions and Statements\10.PointInCircleOutRectangular\obj\Debug\10.PointInCircleOutRectangular.exe
+D:\My Documents\Preslav Mihaylov !\Programming\CSharp-Basics-Course-May\03.Operators, Expressions and Statements\10.PointInCircleOutRectangular\obj\Debug\10.PointInCircleOutRectangular.pdb
+D:\My Documents\Preslav Mihaylov !\Programming\CSharp-Basics-Course-May\03.Operators, Expressions and Statements\10.PointInCircleOutRectangular\obj\Debug\10.PointInCircleOutRectangular.csprojResolveAssemblyReference.cache

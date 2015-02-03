@@ -1,0 +1,56 @@
+import java.util.LinkedHashMap;
+import java.util.Map;
+import java.util.Scanner;
+import java.util.TreeMap;
+
+
+public class JavaExamProblem4 {
+
+	public static void main(String[] args) {
+		TreeMap<String, LinkedHashMap<String, Integer>> data = new TreeMap<>();
+		
+		Scanner scan = new Scanner(System.in);
+		
+		String temp = "192.23.30.40 message='Hello&derps.' user=destroyer";
+		String command = scan.nextLine();
+		
+		while (!command.equals("end")) {
+			String input[] = command.split(" ");
+			for (int i = 0; i < input.length; i++) {
+				System.out.println(input[i]);
+			}
+			String ip = input[0];
+			String user = input[2];
+			
+			if (!data.containsKey(user)) {
+				data.put(user, new LinkedHashMap<String, Integer>());
+				data.get(user).put(ip, 1);
+			}
+			else {
+				Integer count = 1;
+				if (data.get(user).containsKey(ip)) {
+					count = data.get(user).get(ip);
+				}
+				
+				data.get(user).put(ip, count + 1);
+			}
+			
+			command = scan.nextLine();
+		}
+		
+		for(Map.Entry<String,LinkedHashMap<String, Integer>> entry : data.entrySet()) {
+			  String user = entry.getKey();
+			  LinkedHashMap<String, Integer> hashMap = entry.getValue();
+
+			  System.out.println(user + " => ");
+			  
+			  for(Map.Entry<String,Integer> secondEntry : hashMap.entrySet()) {
+				  String ip = secondEntry.getKey();
+				  Integer count = secondEntry.getValue();
+
+				  System.out.println(ip + " => " + count);
+				}
+			}
+	}
+
+}

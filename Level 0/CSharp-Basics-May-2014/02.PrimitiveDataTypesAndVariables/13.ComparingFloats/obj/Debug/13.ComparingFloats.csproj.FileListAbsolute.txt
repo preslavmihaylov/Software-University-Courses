@@ -1,0 +1,4 @@
+D:\My Documents\Preslav Mihaylov !\Programming\CSharp-Basics-Course-May\02.PrimitiveDataTypesAndVariables\13.ComparingFloats\bin\Debug\13.ComparingFloats.exe
+D:\My Documents\Preslav Mihaylov !\Programming\CSharp-Basics-Course-May\02.PrimitiveDataTypesAndVariables\13.ComparingFloats\bin\Debug\13.ComparingFloats.pdb
+D:\My Documents\Preslav Mihaylov !\Programming\CSharp-Basics-Course-May\02.PrimitiveDataTypesAndVariables\13.ComparingFloats\obj\Debug\13.ComparingFloats.exe
+D:\My Documents\Preslav Mihaylov !\Programming\CSharp-Basics-Course-May\02.PrimitiveDataTypesAndVariables\13.ComparingFloats\obj\Debug\13.ComparingFloats.pdb

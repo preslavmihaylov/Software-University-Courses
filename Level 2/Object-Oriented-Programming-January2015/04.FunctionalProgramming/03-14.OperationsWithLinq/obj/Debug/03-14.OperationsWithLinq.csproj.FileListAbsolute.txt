@@ -1,0 +1,3 @@
+D:\Programming\Software-University-Courses\Object-Oriented-Programming-January2015\04.FunctionalProgramming\03-14.OperationsWithLinq\bin\Debug\03-13.OperationsWithLinq.exe.config
+D:\Programming\Software-University-Courses\Object-Oriented-Programming-January2015\04.FunctionalProgramming\03-14.OperationsWithLinq\obj\Debug\03-13.OperationsWithLinq.exe
+D:\Programming\Software-University-Courses\Object-Oriented-Programming-January2015\04.FunctionalProgramming\03-14.OperationsWithLinq\obj\Debug\03-13.OperationsWithLinq.pdb

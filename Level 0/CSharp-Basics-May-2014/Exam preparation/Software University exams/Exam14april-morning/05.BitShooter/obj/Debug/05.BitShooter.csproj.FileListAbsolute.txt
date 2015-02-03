@@ -1,0 +1,5 @@
+D:\My Documents\Preslav Mihaylov !\Programming\CSharp-Basics-Course-May\Exam preparation\Exam14april-morning\05.BitShooter\bin\Debug\05.BitShooter.exe
+D:\My Documents\Preslav Mihaylov !\Programming\CSharp-Basics-Course-May\Exam preparation\Exam14april-morning\05.BitShooter\bin\Debug\05.BitShooter.pdb
+D:\My Documents\Preslav Mihaylov !\Programming\CSharp-Basics-Course-May\Exam preparation\Exam14april-morning\05.BitShooter\obj\Debug\05.BitShooter.csprojResolveAssemblyReference.cache
+D:\My Documents\Preslav Mihaylov !\Programming\CSharp-Basics-Course-May\Exam preparation\Exam14april-morning\05.BitShooter\obj\Debug\05.BitShooter.exe
+D:\My Documents\Preslav Mihaylov !\Programming\CSharp-Basics-Course-May\Exam preparation\Exam14april-morning\05.BitShooter\obj\Debug\05.BitShooter.pdb

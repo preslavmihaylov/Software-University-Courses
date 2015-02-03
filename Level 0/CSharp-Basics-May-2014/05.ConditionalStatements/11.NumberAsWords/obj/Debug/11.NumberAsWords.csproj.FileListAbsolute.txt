@@ -1,0 +1,5 @@
+D:\My Documents\Preslav Mihaylov !\Programming\CSharp-Basics-Course-May\05.ConditionalStatements\11.NumberAsWords\bin\Debug\11.NumberAsWords.exe
+D:\My Documents\Preslav Mihaylov !\Programming\CSharp-Basics-Course-May\05.ConditionalStatements\11.NumberAsWords\bin\Debug\11.NumberAsWords.pdb
+D:\My Documents\Preslav Mihaylov !\Programming\CSharp-Basics-Course-May\05.ConditionalStatements\11.NumberAsWords\obj\Debug\11.NumberAsWords.exe
+D:\My Documents\Preslav Mihaylov !\Programming\CSharp-Basics-Course-May\05.ConditionalStatements\11.NumberAsWords\obj\Debug\11.NumberAsWords.pdb
+D:\My Documents\Preslav Mihaylov !\Programming\CSharp-Basics-Course-May\05.ConditionalStatements\11.NumberAsWords\obj\Debug\11.NumberAsWords.csprojResolveAssemblyReference.cache

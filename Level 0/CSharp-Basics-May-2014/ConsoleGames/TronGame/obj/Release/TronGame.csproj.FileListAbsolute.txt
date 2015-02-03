@@ -1,0 +1,4 @@
+D:\My Documents\Preslav Mihaylov !\Programming\CSharp-Basics-Course-May\ConsoleGames\TronGame\bin\Release\TronGame.exe
+D:\My Documents\Preslav Mihaylov !\Programming\CSharp-Basics-Course-May\ConsoleGames\TronGame\bin\Release\TronGame.pdb
+D:\My Documents\Preslav Mihaylov !\Programming\CSharp-Basics-Course-May\ConsoleGames\TronGame\obj\Release\TronGame.exe
+D:\My Documents\Preslav Mihaylov !\Programming\CSharp-Basics-Course-May\ConsoleGames\TronGame\obj\Release\TronGame.pdb

@@ -1,0 +1,5 @@
+D:\My Documents\Preslav Mihaylov !\Programming\CSharp-Basics-Course-May\Exam preparation\Exam14april-evening\02.StudentCables\bin\Debug\02.StudentCables.exe
+D:\My Documents\Preslav Mihaylov !\Programming\CSharp-Basics-Course-May\Exam preparation\Exam14april-evening\02.StudentCables\bin\Debug\02.StudentCables.pdb
+D:\My Documents\Preslav Mihaylov !\Programming\CSharp-Basics-Course-May\Exam preparation\Exam14april-evening\02.StudentCables\obj\Debug\02.StudentCables.csprojResolveAssemblyReference.cache
+D:\My Documents\Preslav Mihaylov !\Programming\CSharp-Basics-Course-May\Exam preparation\Exam14april-evening\02.StudentCables\obj\Debug\02.StudentCables.exe
+D:\My Documents\Preslav Mihaylov !\Programming\CSharp-Basics-Course-May\Exam preparation\Exam14april-evening\02.StudentCables\obj\Debug\02.StudentCables.pdb

@@ -1,0 +1,5 @@
+D:\My Documents\Preslav Mihaylov !\Programming\CSharp-Basics-Course-May\02.PrimitiveDataTypesAndVariables\10.EmployeeData\bin\Debug\10.EmployeeData.exe
+D:\My Documents\Preslav Mihaylov !\Programming\CSharp-Basics-Course-May\02.PrimitiveDataTypesAndVariables\10.EmployeeData\bin\Debug\10.EmployeeData.pdb
+D:\My Documents\Preslav Mihaylov !\Programming\CSharp-Basics-Course-May\02.PrimitiveDataTypesAndVariables\10.EmployeeData\obj\Debug\10.EmployeeData.csprojResolveAssemblyReference.cache
+D:\My Documents\Preslav Mihaylov !\Programming\CSharp-Basics-Course-May\02.PrimitiveDataTypesAndVariables\10.EmployeeData\obj\Debug\10.EmployeeData.exe
+D:\My Documents\Preslav Mihaylov !\Programming\CSharp-Basics-Course-May\02.PrimitiveDataTypesAndVariables\10.EmployeeData\obj\Debug\10.EmployeeData.pdb

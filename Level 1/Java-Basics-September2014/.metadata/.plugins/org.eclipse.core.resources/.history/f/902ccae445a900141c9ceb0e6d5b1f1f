@@ -1,0 +1,31 @@
+import java.util.LinkedHashMap;
+import java.util.Scanner;
+import java.util.TreeMap;
+
+
+public class JavaExamProblem4 {
+
+	public static void main(String[] args) {
+		TreeMap<String, LinkedHashMap<String, Integer>> data = new TreeMap<>();
+		
+		Scanner scan = new Scanner(System.in);
+		
+		String temp = "192.23.30.40 message='Hello derps.' user=destroyer";
+		String command = scan.nextLine();
+		
+		while (command != "end") {
+			String input[] = command.split(" ");
+			String ip = input[0];
+			String user = input[2];
+			System.out.println(ip);
+			System.out.println(ip);
+			
+			command = scan.nextLine();
+			
+			
+		}
+		
+
+	}
+
+}

@@ -1,0 +1,6 @@
+D:\My Documents\Preslav Mihaylov !\Programming\CSharp-Basics-Course-May\Exam preparation\Exam10april-evening\01.Volleyball\bin\Debug\01.Volleyball.exe.config
+D:\Programming\CSharp-Basics-Course-May\Exam preparation\Software University exams\Exam10april-evening\01.Volleyball\bin\Debug\01.Volleyball.exe
+D:\Programming\CSharp-Basics-Course-May\Exam preparation\Software University exams\Exam10april-evening\01.Volleyball\bin\Debug\01.Volleyball.pdb
+D:\Programming\CSharp-Basics-Course-May\Exam preparation\Software University exams\Exam10april-evening\01.Volleyball\obj\Debug\01.Volleyball.csprojResolveAssemblyReference.cache
+D:\Programming\CSharp-Basics-Course-May\Exam preparation\Software University exams\Exam10april-evening\01.Volleyball\obj\Debug\01.Volleyball.exe
+D:\Programming\CSharp-Basics-Course-May\Exam preparation\Software University exams\Exam10april-evening\01.Volleyball\obj\Debug\01.Volleyball.pdb

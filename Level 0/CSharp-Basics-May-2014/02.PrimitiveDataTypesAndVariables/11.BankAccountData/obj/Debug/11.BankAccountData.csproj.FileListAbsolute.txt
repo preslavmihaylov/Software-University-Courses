@@ -1,0 +1,4 @@
+D:\My Documents\Preslav Mihaylov !\Programming\CSharp-Basics-Course-May\02.PrimitiveDataTypesAndVariables\11.BankAccountData\bin\Debug\11.BankAccountData.exe
+D:\My Documents\Preslav Mihaylov !\Programming\CSharp-Basics-Course-May\02.PrimitiveDataTypesAndVariables\11.BankAccountData\bin\Debug\11.BankAccountData.pdb
+D:\My Documents\Preslav Mihaylov !\Programming\CSharp-Basics-Course-May\02.PrimitiveDataTypesAndVariables\11.BankAccountData\obj\Debug\11.BankAccountData.exe
+D:\My Documents\Preslav Mihaylov !\Programming\CSharp-Basics-Course-May\02.PrimitiveDataTypesAndVariables\11.BankAccountData\obj\Debug\11.BankAccountData.pdb

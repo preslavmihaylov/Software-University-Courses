@@ -1,0 +1,5 @@
+D:\Programming\CSharp-Basics-Course-May\Exam preparation\Telerik Academy exams\Exam06.12.2013-morning\02.TheHorror\bin\Debug\02.TheHorror.exe
+D:\Programming\CSharp-Basics-Course-May\Exam preparation\Telerik Academy exams\Exam06.12.2013-morning\02.TheHorror\bin\Debug\02.TheHorror.pdb
+D:\Programming\CSharp-Basics-Course-May\Exam preparation\Telerik Academy exams\Exam06.12.2013-morning\02.TheHorror\obj\Debug\02.TheHorror.csprojResolveAssemblyReference.cache
+D:\Programming\CSharp-Basics-Course-May\Exam preparation\Telerik Academy exams\Exam06.12.2013-morning\02.TheHorror\obj\Debug\02.TheHorror.exe
+D:\Programming\CSharp-Basics-Course-May\Exam preparation\Telerik Academy exams\Exam06.12.2013-morning\02.TheHorror\obj\Debug\02.TheHorror.pdb

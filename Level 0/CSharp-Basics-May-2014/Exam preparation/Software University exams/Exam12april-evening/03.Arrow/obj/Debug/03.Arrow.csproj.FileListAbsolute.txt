@@ -1,0 +1,4 @@
+D:\My Documents\Preslav Mihaylov !\Programming\CSharp-Basics-Course-May\Exam preparation\Exam12april-evening\03.Arrow\bin\Debug\03.Arrow.exe
+D:\My Documents\Preslav Mihaylov !\Programming\CSharp-Basics-Course-May\Exam preparation\Exam12april-evening\03.Arrow\bin\Debug\03.Arrow.pdb
+D:\My Documents\Preslav Mihaylov !\Programming\CSharp-Basics-Course-May\Exam preparation\Exam12april-evening\03.Arrow\obj\Debug\03.Arrow.exe
+D:\My Documents\Preslav Mihaylov !\Programming\CSharp-Basics-Course-May\Exam preparation\Exam12april-evening\03.Arrow\obj\Debug\03.Arrow.pdb

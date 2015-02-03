@@ -1,0 +1,4 @@
+D:\My Documents\Preslav Mihaylov !\Programming\CSharp-Basics-Course-May\Exam preparation\Exam10april-morning\04.NineDigitMagicNums\bin\Debug\04.NineDigitMagicNums.exe
+D:\My Documents\Preslav Mihaylov !\Programming\CSharp-Basics-Course-May\Exam preparation\Exam10april-morning\04.NineDigitMagicNums\bin\Debug\04.NineDigitMagicNums.pdb
+D:\My Documents\Preslav Mihaylov !\Programming\CSharp-Basics-Course-May\Exam preparation\Exam10april-morning\04.NineDigitMagicNums\obj\Debug\04.NineDigitMagicNums.exe
+D:\My Documents\Preslav Mihaylov !\Programming\CSharp-Basics-Course-May\Exam preparation\Exam10april-morning\04.NineDigitMagicNums\obj\Debug\04.NineDigitMagicNums.pdb

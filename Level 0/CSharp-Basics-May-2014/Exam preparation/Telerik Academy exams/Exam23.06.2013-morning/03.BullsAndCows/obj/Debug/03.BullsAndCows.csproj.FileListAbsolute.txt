@@ -1,0 +1,5 @@
+D:\Programming\CSharp-Basics-Course-May\Exam preparation\Telerik Academy exams\Exam23.06.2013-morning\03.BullsAndCows\bin\Debug\03.BullsAndCows.exe
+D:\Programming\CSharp-Basics-Course-May\Exam preparation\Telerik Academy exams\Exam23.06.2013-morning\03.BullsAndCows\bin\Debug\03.BullsAndCows.pdb
+D:\Programming\CSharp-Basics-Course-May\Exam preparation\Telerik Academy exams\Exam23.06.2013-morning\03.BullsAndCows\obj\Debug\03.BullsAndCows.csprojResolveAssemblyReference.cache
+D:\Programming\CSharp-Basics-Course-May\Exam preparation\Telerik Academy exams\Exam23.06.2013-morning\03.BullsAndCows\obj\Debug\03.BullsAndCows.exe
+D:\Programming\CSharp-Basics-Course-May\Exam preparation\Telerik Academy exams\Exam23.06.2013-morning\03.BullsAndCows\obj\Debug\03.BullsAndCows.pdb

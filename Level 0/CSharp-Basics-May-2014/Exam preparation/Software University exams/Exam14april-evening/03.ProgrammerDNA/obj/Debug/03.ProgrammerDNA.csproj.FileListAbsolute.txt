@@ -1,0 +1,4 @@
+D:\My Documents\Preslav Mihaylov !\Programming\CSharp-Basics-Course-May\Exam preparation\Exam14april-evening\03.ProgrammerDNA\bin\Debug\03.ProgrammerDNA.exe
+D:\My Documents\Preslav Mihaylov !\Programming\CSharp-Basics-Course-May\Exam preparation\Exam14april-evening\03.ProgrammerDNA\bin\Debug\03.ProgrammerDNA.pdb
+D:\My Documents\Preslav Mihaylov !\Programming\CSharp-Basics-Course-May\Exam preparation\Exam14april-evening\03.ProgrammerDNA\obj\Debug\03.ProgrammerDNA.exe
+D:\My Documents\Preslav Mihaylov !\Programming\CSharp-Basics-Course-May\Exam preparation\Exam14april-evening\03.ProgrammerDNA\obj\Debug\03.ProgrammerDNA.pdb

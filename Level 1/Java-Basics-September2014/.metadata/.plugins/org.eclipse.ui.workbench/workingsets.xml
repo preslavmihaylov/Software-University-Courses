@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<workingSetManager>
+<workingSet editPageId="org.eclipse.jdt.ui.JavaWorkingSetPage" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1410960538239_1" label="JavaBasicsExams" name="JavaBasicsExams">
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/JavaExam01June2014" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/JavaExam26May2014" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/JavaExam27May2014" type="4"/>
+</workingSet>
+<workingSet aggregate="true" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1407499916291_0" label="Window Working Set" name="Aggregate for window 1407499916290"/>
+</workingSetManager>

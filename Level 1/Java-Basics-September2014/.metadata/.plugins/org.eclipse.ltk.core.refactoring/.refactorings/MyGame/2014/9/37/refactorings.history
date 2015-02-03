@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename compilation unit &apos;main.Main.java&apos; to &apos;GamePanel.java&apos;&#x0D;&#x0A;- Original project: &apos;MyGame&apos;&#x0D;&#x0A;- Original element: &apos;main.Main.java&apos;&#x0D;&#x0A;- Renamed element: &apos;main.GamePanel.java&apos;" description="Rename compilation unit &apos;Main.java&apos;" flags="2" id="org.eclipse.jdt.ui.rename.compilationunit" input="/src&lt;main{Main.java" name="GamePanel.java" references="false" stamp="1410525343532" version="1.0"/>
+</session>

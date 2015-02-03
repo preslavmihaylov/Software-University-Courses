@@ -1,0 +1,4 @@
+D:\My Documents\Preslav Mihaylov !\Programming\CSharp-Basics-Course-May\04.ConsoleInputOutput\03.CirclePerimeterAndArea\bin\Debug\CirclePerimeterAndArea.exe
+D:\My Documents\Preslav Mihaylov !\Programming\CSharp-Basics-Course-May\04.ConsoleInputOutput\03.CirclePerimeterAndArea\bin\Debug\CirclePerimeterAndArea.pdb
+D:\My Documents\Preslav Mihaylov !\Programming\CSharp-Basics-Course-May\04.ConsoleInputOutput\03.CirclePerimeterAndArea\obj\Debug\CirclePerimeterAndArea.exe
+D:\My Documents\Preslav Mihaylov !\Programming\CSharp-Basics-Course-May\04.ConsoleInputOutput\03.CirclePerimeterAndArea\obj\Debug\CirclePerimeterAndArea.pdb

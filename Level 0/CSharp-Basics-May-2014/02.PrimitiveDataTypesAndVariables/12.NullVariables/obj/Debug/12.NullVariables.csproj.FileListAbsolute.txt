@@ -1,0 +1,4 @@
+D:\My Documents\Preslav Mihaylov !\Programming\CSharp-Basics-Course-May\02.PrimitiveDataTypesAndVariables\12.NullVariables\bin\Debug\12.NullVariables.exe
+D:\My Documents\Preslav Mihaylov !\Programming\CSharp-Basics-Course-May\02.PrimitiveDataTypesAndVariables\12.NullVariables\bin\Debug\12.NullVariables.pdb
+D:\My Documents\Preslav Mihaylov !\Programming\CSharp-Basics-Course-May\02.PrimitiveDataTypesAndVariables\12.NullVariables\obj\Debug\12.NullVariables.exe
+D:\My Documents\Preslav Mihaylov !\Programming\CSharp-Basics-Course-May\02.PrimitiveDataTypesAndVariables\12.NullVariables\obj\Debug\12.NullVariables.pdb

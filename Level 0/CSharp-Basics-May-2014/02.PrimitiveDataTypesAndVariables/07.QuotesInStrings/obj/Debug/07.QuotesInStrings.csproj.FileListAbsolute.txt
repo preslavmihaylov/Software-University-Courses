@@ -1,0 +1,4 @@
+D:\My Documents\Preslav Mihaylov !\Programming\CSharp-Basics-Course-May\02.PrimitiveDataTypesAndVariables\07.QuotesInStrings\bin\Debug\07.QuotesInStrings.exe
+D:\My Documents\Preslav Mihaylov !\Programming\CSharp-Basics-Course-May\02.PrimitiveDataTypesAndVariables\07.QuotesInStrings\bin\Debug\07.QuotesInStrings.pdb
+D:\My Documents\Preslav Mihaylov !\Programming\CSharp-Basics-Course-May\02.PrimitiveDataTypesAndVariables\07.QuotesInStrings\obj\Debug\07.QuotesInStrings.exe
+D:\My Documents\Preslav Mihaylov !\Programming\CSharp-Basics-Course-May\02.PrimitiveDataTypesAndVariables\07.QuotesInStrings\obj\Debug\07.QuotesInStrings.pdb

@@ -1,0 +1,5 @@
+D:\Programming\CSharp-Basics-Course-May\Exam preparation\Telerik Academy exams\Exam06.12.2013-evening\04.KaspichaniaBoats\bin\Debug\04.KaspichaniaBoats.exe
+D:\Programming\CSharp-Basics-Course-May\Exam preparation\Telerik Academy exams\Exam06.12.2013-evening\04.KaspichaniaBoats\bin\Debug\04.KaspichaniaBoats.pdb
+D:\Programming\CSharp-Basics-Course-May\Exam preparation\Telerik Academy exams\Exam06.12.2013-evening\04.KaspichaniaBoats\obj\Debug\04.KaspichaniaBoats.exe
+D:\Programming\CSharp-Basics-Course-May\Exam preparation\Telerik Academy exams\Exam06.12.2013-evening\04.KaspichaniaBoats\obj\Debug\04.KaspichaniaBoats.pdb
+D:\Programming\CSharp-Basics-Course-May\Exam preparation\Telerik Academy exams\Exam06.12.2013-evening\04.KaspichaniaBoats\obj\Debug\04.KaspichaniaBoats.csprojResolveAssemblyReference.cache

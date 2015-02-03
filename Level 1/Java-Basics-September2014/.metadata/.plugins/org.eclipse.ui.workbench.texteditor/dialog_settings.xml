@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="org.eclipse.ui.texteditor.FindReplaceDialog">
+		<item value="false" key="isRegEx"/>
+		<item value="card" key="selection"/>
+		<item value="false" key="casesensitive"/>
+		<item value="false" key="incremental"/>
+		<item value="true" key="wrap"/>
+		<item value="false" key="wholeword"/>
+		<list key="findhistory">
+			<item value="face"/>
+			<item value="{"/>
+			<item value="}"/>
+			<item value="checkBulletCollision"/>
+			<item value="draw"/>
+			<item value="avoidIntersection"/>
+			<item value="ammo"/>
+			<item value="checkbulletCollision"/>
+		</list>
+		<list key="replacehistory">
+			<item value="card"/>
+			<item value="checkEnemyKilled"/>
+			<item value="avoidEnemyIntersection"/>
+			<item value="bullets"/>
+			<item value="checkBulletCollision"/>
+			<item value="enemySpeed"/>
+			<item value="bullet"/>
+			<item value="drawStatistics"/>
+		</list>
+	</section>
+	<section name="org.eclipse.ui.texteditor.FindReplaceDialog_dialogBounds">
+		<item value="257" key="DIALOG_WIDTH"/>
+		<item value="1|Segoe UI|9.0|0|WINDOWS|1|-12|0|0|0|400|0|0|0|1|0|0|0|0|Segoe UI" key="DIALOG_FONT_NAME"/>
+		<item value="380" key="DIALOG_HEIGHT"/>
+		<item value="136" key="DIALOG_Y_ORIGIN"/>
+		<item value="940" key="DIALOG_X_ORIGIN"/>
+	</section>
+</section>

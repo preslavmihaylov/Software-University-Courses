@@ -1,0 +1,5 @@
+D:\Programming\CSharp-Basics-Course-May\Exam preparation\Telerik Academy exams\Exam06.12.2013-evening\03.Enigmanation\bin\Debug\03.Enigmanation.exe
+D:\Programming\CSharp-Basics-Course-May\Exam preparation\Telerik Academy exams\Exam06.12.2013-evening\03.Enigmanation\bin\Debug\03.Enigmanation.pdb
+D:\Programming\CSharp-Basics-Course-May\Exam preparation\Telerik Academy exams\Exam06.12.2013-evening\03.Enigmanation\obj\Debug\03.Enigmanation.exe
+D:\Programming\CSharp-Basics-Course-May\Exam preparation\Telerik Academy exams\Exam06.12.2013-evening\03.Enigmanation\obj\Debug\03.Enigmanation.pdb
+D:\Programming\CSharp-Basics-Course-May\Exam preparation\Telerik Academy exams\Exam06.12.2013-evening\03.Enigmanation\obj\Debug\03.Enigmanation.csprojResolveAssemblyReference.cache

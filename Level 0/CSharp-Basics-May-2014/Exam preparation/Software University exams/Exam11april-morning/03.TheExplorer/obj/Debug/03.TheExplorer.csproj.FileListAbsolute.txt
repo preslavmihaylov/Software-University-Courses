@@ -1,0 +1,4 @@
+D:\My Documents\Preslav Mihaylov !\Programming\CSharp-Basics-Course-May\Exam preparation\Exam11april-morning\03.TheExplorer\bin\Debug\03.TheExplorer.exe
+D:\My Documents\Preslav Mihaylov !\Programming\CSharp-Basics-Course-May\Exam preparation\Exam11april-morning\03.TheExplorer\bin\Debug\03.TheExplorer.pdb
+D:\My Documents\Preslav Mihaylov !\Programming\CSharp-Basics-Course-May\Exam preparation\Exam11april-morning\03.TheExplorer\obj\Debug\03.TheExplorer.exe
+D:\My Documents\Preslav Mihaylov !\Programming\CSharp-Basics-Course-May\Exam preparation\Exam11april-morning\03.TheExplorer\obj\Debug\03.TheExplorer.pdb

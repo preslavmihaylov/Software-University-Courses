@@ -1,0 +1,4 @@
+D:\My Documents\Preslav Mihaylov !\Programming\CSharp-Basics-Course-May\06.Loops\15.HexadecimalToDecimalNumber\bin\Debug\15.HexadecimalToDecimalNumber.exe
+D:\My Documents\Preslav Mihaylov !\Programming\CSharp-Basics-Course-May\06.Loops\15.HexadecimalToDecimalNumber\bin\Debug\15.HexadecimalToDecimalNumber.pdb
+D:\My Documents\Preslav Mihaylov !\Programming\CSharp-Basics-Course-May\06.Loops\15.HexadecimalToDecimalNumber\obj\Debug\15.HexadecimalToDecimalNumber.exe
+D:\My Documents\Preslav Mihaylov !\Programming\CSharp-Basics-Course-May\06.Loops\15.HexadecimalToDecimalNumber\obj\Debug\15.HexadecimalToDecimalNumber.pdb

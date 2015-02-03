@@ -1,0 +1,4 @@
+D:\Programming\CSharp-Basics-Course-May\Exam preparation\Telerik Academy exams\Exam24.06.2014-evening\04.BatGoikoTower\bin\Debug\04.BatGoikoTower.exe
+D:\Programming\CSharp-Basics-Course-May\Exam preparation\Telerik Academy exams\Exam24.06.2014-evening\04.BatGoikoTower\bin\Debug\04.BatGoikoTower.pdb
+D:\Programming\CSharp-Basics-Course-May\Exam preparation\Telerik Academy exams\Exam24.06.2014-evening\04.BatGoikoTower\obj\Debug\04.BatGoikoTower.exe
+D:\Programming\CSharp-Basics-Course-May\Exam preparation\Telerik Academy exams\Exam24.06.2014-evening\04.BatGoikoTower\obj\Debug\04.BatGoikoTower.pdb

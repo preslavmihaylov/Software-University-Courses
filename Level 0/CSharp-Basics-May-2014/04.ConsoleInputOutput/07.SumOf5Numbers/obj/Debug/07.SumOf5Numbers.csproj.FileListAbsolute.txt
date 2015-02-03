@@ -1,0 +1,5 @@
+D:\My Documents\Preslav Mihaylov !\Programming\CSharp-Basics-Course-May\04.ConsoleInputOutput\07.SumOf5Numbers\bin\Debug\07.SumOf5Numbers.exe
+D:\My Documents\Preslav Mihaylov !\Programming\CSharp-Basics-Course-May\04.ConsoleInputOutput\07.SumOf5Numbers\bin\Debug\07.SumOf5Numbers.pdb
+D:\My Documents\Preslav Mihaylov !\Programming\CSharp-Basics-Course-May\04.ConsoleInputOutput\07.SumOf5Numbers\obj\Debug\07.SumOf5Numbers.csprojResolveAssemblyReference.cache
+D:\My Documents\Preslav Mihaylov !\Programming\CSharp-Basics-Course-May\04.ConsoleInputOutput\07.SumOf5Numbers\obj\Debug\07.SumOf5Numbers.exe
+D:\My Documents\Preslav Mihaylov !\Programming\CSharp-Basics-Course-May\04.ConsoleInputOutput\07.SumOf5Numbers\obj\Debug\07.SumOf5Numbers.pdb

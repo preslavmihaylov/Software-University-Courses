@@ -1,0 +1,4 @@
+D:\Programming\CSharp-Basics-Course-May\Exam preparation\Telerik Academy exams\Exam06.12.2013-morning\04.DiamondTrolls\bin\Debug\04.DiamondTrolls.exe
+D:\Programming\CSharp-Basics-Course-May\Exam preparation\Telerik Academy exams\Exam06.12.2013-morning\04.DiamondTrolls\bin\Debug\04.DiamondTrolls.pdb
+D:\Programming\CSharp-Basics-Course-May\Exam preparation\Telerik Academy exams\Exam06.12.2013-morning\04.DiamondTrolls\obj\Debug\04.DiamondTrolls.exe
+D:\Programming\CSharp-Basics-Course-May\Exam preparation\Telerik Academy exams\Exam06.12.2013-morning\04.DiamondTrolls\obj\Debug\04.DiamondTrolls.pdb

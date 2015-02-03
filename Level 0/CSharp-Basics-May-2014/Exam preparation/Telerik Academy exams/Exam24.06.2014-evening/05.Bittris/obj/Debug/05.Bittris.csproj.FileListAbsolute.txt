@@ -1,0 +1,5 @@
+D:\Programming\CSharp-Basics-Course-May\Exam preparation\Telerik Academy exams\Exam24.06.2014-evening\05.Bittris\bin\Debug\05.Bittris.exe
+D:\Programming\CSharp-Basics-Course-May\Exam preparation\Telerik Academy exams\Exam24.06.2014-evening\05.Bittris\bin\Debug\05.Bittris.pdb
+D:\Programming\CSharp-Basics-Course-May\Exam preparation\Telerik Academy exams\Exam24.06.2014-evening\05.Bittris\obj\Debug\05.Bittris.csprojResolveAssemblyReference.cache
+D:\Programming\CSharp-Basics-Course-May\Exam preparation\Telerik Academy exams\Exam24.06.2014-evening\05.Bittris\obj\Debug\05.Bittris.exe
+D:\Programming\CSharp-Basics-Course-May\Exam preparation\Telerik Academy exams\Exam24.06.2014-evening\05.Bittris\obj\Debug\05.Bittris.pdb

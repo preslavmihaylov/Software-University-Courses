@@ -1,0 +1,4 @@
+D:\My Documents\Preslav Mihaylov !\Programming\CSharp-Basics-Course-May\05.ConditionalStatements\02.BonusScore\bin\Debug\02.BonusScore.exe
+D:\My Documents\Preslav Mihaylov !\Programming\CSharp-Basics-Course-May\05.ConditionalStatements\02.BonusScore\bin\Debug\02.BonusScore.pdb
+D:\My Documents\Preslav Mihaylov !\Programming\CSharp-Basics-Course-May\05.ConditionalStatements\02.BonusScore\obj\Debug\02.BonusScore.exe
+D:\My Documents\Preslav Mihaylov !\Programming\CSharp-Basics-Course-May\05.ConditionalStatements\02.BonusScore\obj\Debug\02.BonusScore.pdb

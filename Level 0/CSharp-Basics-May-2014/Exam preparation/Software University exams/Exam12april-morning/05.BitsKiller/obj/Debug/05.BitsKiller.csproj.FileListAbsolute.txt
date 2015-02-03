@@ -1,0 +1,5 @@
+D:\My Documents\Preslav Mihaylov !\Programming\CSharp-Basics-Course-May\Exam preparation\Exam12april-morning\05.BitsKiller\bin\Debug\05.BitsKiller.exe
+D:\My Documents\Preslav Mihaylov !\Programming\CSharp-Basics-Course-May\Exam preparation\Exam12april-morning\05.BitsKiller\bin\Debug\05.BitsKiller.pdb
+D:\My Documents\Preslav Mihaylov !\Programming\CSharp-Basics-Course-May\Exam preparation\Exam12april-morning\05.BitsKiller\obj\Debug\05.BitsKiller.csprojResolveAssemblyReference.cache
+D:\My Documents\Preslav Mihaylov !\Programming\CSharp-Basics-Course-May\Exam preparation\Exam12april-morning\05.BitsKiller\obj\Debug\05.BitsKiller.exe
+D:\My Documents\Preslav Mihaylov !\Programming\CSharp-Basics-Course-May\Exam preparation\Exam12april-morning\05.BitsKiller\obj\Debug\05.BitsKiller.pdb

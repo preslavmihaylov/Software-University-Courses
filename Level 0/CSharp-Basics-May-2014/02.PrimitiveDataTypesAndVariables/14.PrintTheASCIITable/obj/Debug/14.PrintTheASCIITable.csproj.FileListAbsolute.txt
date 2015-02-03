@@ -1,0 +1,10 @@
+D:\My Documents\Preslav Mihaylov !\Programming\CSharp-Basics-Course-May\02.PrimitiveDataTypesAndVariables\14.PrintTheASCIITable\bin\Debug\14.PrintTheASCIITable.exe
+D:\My Documents\Preslav Mihaylov !\Programming\CSharp-Basics-Course-May\02.PrimitiveDataTypesAndVariables\14.PrintTheASCIITable\bin\Debug\14.PrintTheASCIITable.pdb
+D:\My Documents\Preslav Mihaylov !\Programming\CSharp-Basics-Course-May\02.PrimitiveDataTypesAndVariables\14.PrintTheASCIITable\obj\Debug\14.PrintTheASCIITable.exe
+D:\My Documents\Preslav Mihaylov !\Programming\CSharp-Basics-Course-May\02.PrimitiveDataTypesAndVariables\14.PrintTheASCIITable\obj\Debug\14.PrintTheASCIITable.pdb
+D:\My Documents\Preslav Mihaylov !\Programming\CSharp-Basics-Course-May\02.PrimitiveDataTypesAndVariables\14.PrintTheASCIITable\obj\Debug\14.PrintTheASCIITable.csprojResolveAssemblyReference.cache
+D:\Programming\CSharp-Basics-Course-May\02.PrimitiveDataTypesAndVariables\14.PrintTheASCIITable\obj\Debug\14.PrintTheASCIITable.exe
+D:\Programming\CSharp-Basics-Course-May\02.PrimitiveDataTypesAndVariables\14.PrintTheASCIITable\obj\Debug\14.PrintTheASCIITable.pdb
+D:\Programming\CSharp-Basics-Course-May\02.PrimitiveDataTypesAndVariables\14.PrintTheASCIITable\bin\Debug\14.PrintTheASCIITable.exe
+D:\Programming\CSharp-Basics-Course-May\02.PrimitiveDataTypesAndVariables\14.PrintTheASCIITable\bin\Debug\14.PrintTheASCIITable.pdb
+D:\Programming\CSharp-Basics-Course-May\02.PrimitiveDataTypesAndVariables\14.PrintTheASCIITable\obj\Debug\14.PrintTheASCIITable.csprojResolveAssemblyReference.cache

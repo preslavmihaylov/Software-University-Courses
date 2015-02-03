@@ -1,0 +1,4 @@
+D:\My Documents\Preslav Mihaylov !\Programming\CSharp-Basics-Course-May\06.Loops\10.OddEvenProduct\bin\Debug\10.OddEvenProduct.exe
+D:\My Documents\Preslav Mihaylov !\Programming\CSharp-Basics-Course-May\06.Loops\10.OddEvenProduct\bin\Debug\10.OddEvenProduct.pdb
+D:\My Documents\Preslav Mihaylov !\Programming\CSharp-Basics-Course-May\06.Loops\10.OddEvenProduct\obj\Debug\10.OddEvenProduct.exe
+D:\My Documents\Preslav Mihaylov !\Programming\CSharp-Basics-Course-May\06.Loops\10.OddEvenProduct\obj\Debug\10.OddEvenProduct.pdb

@@ -1,0 +1,4 @@
+D:\My Documents\Preslav Mihaylov !\Programming\CSharp-Basics-Course-May\05.ConditionalStatements\05.TheBiggestOf3Nums\bin\Debug\05.TheBiggestOf3Nums.exe
+D:\My Documents\Preslav Mihaylov !\Programming\CSharp-Basics-Course-May\05.ConditionalStatements\05.TheBiggestOf3Nums\bin\Debug\05.TheBiggestOf3Nums.pdb
+D:\My Documents\Preslav Mihaylov !\Programming\CSharp-Basics-Course-May\05.ConditionalStatements\05.TheBiggestOf3Nums\obj\Debug\05.TheBiggestOf3Nums.exe
+D:\My Documents\Preslav Mihaylov !\Programming\CSharp-Basics-Course-May\05.ConditionalStatements\05.TheBiggestOf3Nums\obj\Debug\05.TheBiggestOf3Nums.pdb

@@ -1,0 +1,4 @@
+D:\My Documents\Preslav Mihaylov !\Programming\CSharp-Basics-Course-May\05.ConditionalStatements\08.DigitAsWord\bin\Debug\08.DigitAsWord.exe
+D:\My Documents\Preslav Mihaylov !\Programming\CSharp-Basics-Course-May\05.ConditionalStatements\08.DigitAsWord\bin\Debug\08.DigitAsWord.pdb
+D:\My Documents\Preslav Mihaylov !\Programming\CSharp-Basics-Course-May\05.ConditionalStatements\08.DigitAsWord\obj\Debug\08.DigitAsWord.exe
+D:\My Documents\Preslav Mihaylov !\Programming\CSharp-Basics-Course-May\05.ConditionalStatements\08.DigitAsWord\obj\Debug\08.DigitAsWord.pdb

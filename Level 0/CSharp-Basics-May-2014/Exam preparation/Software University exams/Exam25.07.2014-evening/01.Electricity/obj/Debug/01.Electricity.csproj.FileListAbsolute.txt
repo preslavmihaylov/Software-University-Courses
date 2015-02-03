@@ -1,0 +1,5 @@
+D:\Programming\CSharp-Basics-Course-May\Exam\Exam25.07.2014-evening\01.Electricity\obj\Debug\01.Electricity.csprojResolveAssemblyReference.cache
+D:\Programming\CSharp-Basics-Course-May\Exam\Exam25.07.2014-evening\01.Electricity\bin\Debug\01.Electricity.exe
+D:\Programming\CSharp-Basics-Course-May\Exam\Exam25.07.2014-evening\01.Electricity\bin\Debug\01.Electricity.pdb
+D:\Programming\CSharp-Basics-Course-May\Exam\Exam25.07.2014-evening\01.Electricity\obj\Debug\01.Electricity.exe
+D:\Programming\CSharp-Basics-Course-May\Exam\Exam25.07.2014-evening\01.Electricity\obj\Debug\01.Electricity.pdb

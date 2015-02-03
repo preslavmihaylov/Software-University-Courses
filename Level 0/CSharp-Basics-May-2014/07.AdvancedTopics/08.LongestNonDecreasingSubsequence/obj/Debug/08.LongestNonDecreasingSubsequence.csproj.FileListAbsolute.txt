@@ -1,0 +1,5 @@
+D:\My Documents\Preslav Mihaylov !\Programming\CSharp-Basics-Course-May\07.AdvancedTopics\08.LongestNonDecreasingSubsequence\bin\Debug\08.LongestNonDecreasingSubsequence.exe
+D:\My Documents\Preslav Mihaylov !\Programming\CSharp-Basics-Course-May\07.AdvancedTopics\08.LongestNonDecreasingSubsequence\bin\Debug\08.LongestNonDecreasingSubsequence.pdb
+D:\My Documents\Preslav Mihaylov !\Programming\CSharp-Basics-Course-May\07.AdvancedTopics\08.LongestNonDecreasingSubsequence\obj\Debug\08.LongestNonDecreasingSubsequence.csprojResolveAssemblyReference.cache
+D:\My Documents\Preslav Mihaylov !\Programming\CSharp-Basics-Course-May\07.AdvancedTopics\08.LongestNonDecreasingSubsequence\obj\Debug\08.LongestNonDecreasingSubsequence.exe
+D:\My Documents\Preslav Mihaylov !\Programming\CSharp-Basics-Course-May\07.AdvancedTopics\08.LongestNonDecreasingSubsequence\obj\Debug\08.LongestNonDecreasingSubsequence.pdb

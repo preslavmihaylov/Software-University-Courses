@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Extract method &apos;private static void removeKg(String [] input)&apos; from &apos;_04_Nuts.main()&apos; to &apos;_04_Nuts&apos;&#x0D;&#x0A;- Original project: &apos;JavaExam22September2014-morning&apos;&#x0D;&#x0A;- Method name: &apos;removeKg&apos;&#x0D;&#x0A;- Destination type: &apos;_04_Nuts&apos;&#x0D;&#x0A;- Declared visibility: &apos;private&apos;" comments="false" description="Extract method &apos;removeKg&apos;" destination="0" exceptions="false" flags="786434" id="org.eclipse.jdt.ui.extract.method" input="/src&lt;{_04_Nuts.java" name="removeKg" replace="false" selection="370 152" stamp="1411289025958" version="1.0" visibility="2"/>
+</session>
