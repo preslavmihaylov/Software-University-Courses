@@ -1,0 +1,5 @@
+D:\Programming\Software-University-Courses\Level 2\Object-Oriented-Programming-January2015\07.OOP-CommonTypeSystem\02.StringDisperser\bin\Debug\02.StringDisperser.exe
+D:\Programming\Software-University-Courses\Level 2\Object-Oriented-Programming-January2015\07.OOP-CommonTypeSystem\02.StringDisperser\bin\Debug\02.StringDisperser.pdb
+D:\Programming\Software-University-Courses\Level 2\Object-Oriented-Programming-January2015\07.OOP-CommonTypeSystem\02.StringDisperser\obj\Debug\02.StringDisperser.csprojResolveAssemblyReference.cache
+D:\Programming\Software-University-Courses\Level 2\Object-Oriented-Programming-January2015\07.OOP-CommonTypeSystem\02.StringDisperser\obj\Debug\02.StringDisperser.exe
+D:\Programming\Software-University-Courses\Level 2\Object-Oriented-Programming-January2015\07.OOP-CommonTypeSystem\02.StringDisperser\obj\Debug\02.StringDisperser.pdb
