@@ -1,0 +1,6 @@
+D:\Programming\Software-University-Courses\Level 2\Object-Oriented-Programming-January2015\04.FunctionalProgramming\15.LinqToExcel\bin\Debug\15.LinqToExcel.exe
+D:\Programming\Software-University-Courses\Level 2\Object-Oriented-Programming-January2015\04.FunctionalProgramming\15.LinqToExcel\bin\Debug\15.LinqToExcel.pdb
+D:\Programming\Software-University-Courses\Level 2\Object-Oriented-Programming-January2015\04.FunctionalProgramming\15.LinqToExcel\obj\Debug\15.LinqToExcel.csprojResolveAssemblyReference.cache
+D:\Programming\Software-University-Courses\Level 2\Object-Oriented-Programming-January2015\04.FunctionalProgramming\15.LinqToExcel\obj\Debug\15.LinqToExcel.exe
+D:\Programming\Software-University-Courses\Level 2\Object-Oriented-Programming-January2015\04.FunctionalProgramming\15.LinqToExcel\obj\Debug\15.LinqToExcel.pdb
+D:\Programming\Software-University-Courses\Level 2\Object-Oriented-Programming-January2015\04.FunctionalProgramming\15.LinqToExcel\bin\Debug\ExcelLibrary.dll

@@ -1,0 +1,6 @@
+D:\Programming\Software-University-Courses\Level 2\Object-Oriented-Programming-January2015\Lab-Projects\02.EnvironmentSystem\EnvironmentSystem\bin\Debug\EnvironmentSystem.exe.config
+D:\Programming\Software-University-Courses\Level 2\Object-Oriented-Programming-January2015\Lab-Projects\02.EnvironmentSystem\EnvironmentSystem\bin\Debug\EnvironmentSystem.exe
+D:\Programming\Software-University-Courses\Level 2\Object-Oriented-Programming-January2015\Lab-Projects\02.EnvironmentSystem\EnvironmentSystem\bin\Debug\EnvironmentSystem.pdb
+D:\Programming\Software-University-Courses\Level 2\Object-Oriented-Programming-January2015\Lab-Projects\02.EnvironmentSystem\EnvironmentSystem\obj\Debug\EnvironmentSystem.csprojResolveAssemblyReference.cache
+D:\Programming\Software-University-Courses\Level 2\Object-Oriented-Programming-January2015\Lab-Projects\02.EnvironmentSystem\EnvironmentSystem\obj\Debug\EnvironmentSystem.exe
+D:\Programming\Software-University-Courses\Level 2\Object-Oriented-Programming-January2015\Lab-Projects\02.EnvironmentSystem\EnvironmentSystem\obj\Debug\EnvironmentSystem.pdb
