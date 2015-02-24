@@ -1,4 +1,0 @@
-D:\My Documents\Preslav Mihaylov !\Programming\CSharp-Basics-Course-May\Exam preparation\Exam11april-evening\Exam11april-evening\03.NewHouse\bin\Debug\03.NewHouse.exe
-D:\My Documents\Preslav Mihaylov !\Programming\CSharp-Basics-Course-May\Exam preparation\Exam11april-evening\Exam11april-evening\03.NewHouse\bin\Debug\03.NewHouse.pdb
-D:\My Documents\Preslav Mihaylov !\Programming\CSharp-Basics-Course-May\Exam preparation\Exam11april-evening\Exam11april-evening\03.NewHouse\obj\Debug\03.NewHouse.exe
-D:\My Documents\Preslav Mihaylov !\Programming\CSharp-Basics-Course-May\Exam preparation\Exam11april-evening\Exam11april-evening\03.NewHouse\obj\Debug\03.NewHouse.pdb

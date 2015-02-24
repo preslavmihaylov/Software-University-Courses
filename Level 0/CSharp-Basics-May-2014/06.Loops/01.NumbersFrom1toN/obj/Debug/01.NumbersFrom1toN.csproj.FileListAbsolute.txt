@@ -1,5 +1,0 @@
-D:\My Documents\Preslav Mihaylov !\Programming\CSharp-Basics-Course-May\06.Loops\01.NumbersFrom1toN\bin\Debug\01.NumbersFrom1toN.exe
-D:\My Documents\Preslav Mihaylov !\Programming\CSharp-Basics-Course-May\06.Loops\01.NumbersFrom1toN\bin\Debug\01.NumbersFrom1toN.pdb
-D:\My Documents\Preslav Mihaylov !\Programming\CSharp-Basics-Course-May\06.Loops\01.NumbersFrom1toN\obj\Debug\01.NumbersFrom1toN.csprojResolveAssemblyReference.cache
-D:\My Documents\Preslav Mihaylov !\Programming\CSharp-Basics-Course-May\06.Loops\01.NumbersFrom1toN\obj\Debug\01.NumbersFrom1toN.exe
-D:\My Documents\Preslav Mihaylov !\Programming\CSharp-Basics-Course-May\06.Loops\01.NumbersFrom1toN\obj\Debug\01.NumbersFrom1toN.pdb

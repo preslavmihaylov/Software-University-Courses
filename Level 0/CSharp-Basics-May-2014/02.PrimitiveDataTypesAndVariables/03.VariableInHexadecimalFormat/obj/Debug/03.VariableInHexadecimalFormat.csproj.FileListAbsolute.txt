@@ -1,5 +1,0 @@
-D:\My Documents\Preslav Mihaylov !\Programming\CSharp-Basics-Course-May\02.PrimitiveDataTypesAndVariables\03.VariableInHexadecimalFormat\bin\Debug\03.VariableInHexadecimalFormat.exe
-D:\My Documents\Preslav Mihaylov !\Programming\CSharp-Basics-Course-May\02.PrimitiveDataTypesAndVariables\03.VariableInHexadecimalFormat\bin\Debug\03.VariableInHexadecimalFormat.pdb
-D:\My Documents\Preslav Mihaylov !\Programming\CSharp-Basics-Course-May\02.PrimitiveDataTypesAndVariables\03.VariableInHexadecimalFormat\obj\Debug\03.VariableInHexadecimalFormat.exe
-D:\My Documents\Preslav Mihaylov !\Programming\CSharp-Basics-Course-May\02.PrimitiveDataTypesAndVariables\03.VariableInHexadecimalFormat\obj\Debug\03.VariableInHexadecimalFormat.pdb
-D:\My Documents\Preslav Mihaylov !\Programming\CSharp-Basics-Course-May\02.PrimitiveDataTypesAndVariables\03.VariableInHexadecimalFormat\obj\Debug\03.VariableInHexadecimalFormat.csprojResolveAssemblyReference.cache

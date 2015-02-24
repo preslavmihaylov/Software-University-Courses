@@ -1,5 +1,0 @@
-D:\Programming\Software-University-Courses\Object-Oriented-Programming-January2015\01.DefiningClasses\03.PC-Catalog\bin\Debug\03.PC-Catalog.exe
-D:\Programming\Software-University-Courses\Object-Oriented-Programming-January2015\01.DefiningClasses\03.PC-Catalog\bin\Debug\03.PC-Catalog.pdb
-D:\Programming\Software-University-Courses\Object-Oriented-Programming-January2015\01.DefiningClasses\03.PC-Catalog\obj\Debug\03.PC-Catalog.csprojResolveAssemblyReference.cache
-D:\Programming\Software-University-Courses\Object-Oriented-Programming-January2015\01.DefiningClasses\03.PC-Catalog\obj\Debug\03.PC-Catalog.exe
-D:\Programming\Software-University-Courses\Object-Oriented-Programming-January2015\01.DefiningClasses\03.PC-Catalog\obj\Debug\03.PC-Catalog.pdb

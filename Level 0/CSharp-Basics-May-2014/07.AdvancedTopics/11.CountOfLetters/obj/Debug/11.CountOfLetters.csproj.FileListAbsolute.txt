@@ -1,4 +1,0 @@
-D:\My Documents\Preslav Mihaylov !\Programming\CSharp-Basics-Course-May\07.AdvancedTopics\11.CountOfLetters\bin\Debug\11.CountOfLetters.exe
-D:\My Documents\Preslav Mihaylov !\Programming\CSharp-Basics-Course-May\07.AdvancedTopics\11.CountOfLetters\bin\Debug\11.CountOfLetters.pdb
-D:\My Documents\Preslav Mihaylov !\Programming\CSharp-Basics-Course-May\07.AdvancedTopics\11.CountOfLetters\obj\Debug\11.CountOfLetters.exe
-D:\My Documents\Preslav Mihaylov !\Programming\CSharp-Basics-Course-May\07.AdvancedTopics\11.CountOfLetters\obj\Debug\11.CountOfLetters.pdb

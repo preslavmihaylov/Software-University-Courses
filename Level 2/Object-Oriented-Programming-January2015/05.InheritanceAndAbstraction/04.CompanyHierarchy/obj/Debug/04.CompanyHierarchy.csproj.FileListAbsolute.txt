@@ -1,5 +1,0 @@
-D:\Programming\Software-University-Courses\Object-Oriented-Programming-January2015\05.InheritanceAndAbstraction\04.CompanyHierarchy\obj\Debug\04.CompanyHierarchy.csprojResolveAssemblyReference.cache
-D:\Programming\Software-University-Courses\Object-Oriented-Programming-January2015\05.InheritanceAndAbstraction\04.CompanyHierarchy\bin\Debug\04.CompanyHierarchy.exe
-D:\Programming\Software-University-Courses\Object-Oriented-Programming-January2015\05.InheritanceAndAbstraction\04.CompanyHierarchy\bin\Debug\04.CompanyHierarchy.pdb
-D:\Programming\Software-University-Courses\Object-Oriented-Programming-January2015\05.InheritanceAndAbstraction\04.CompanyHierarchy\obj\Debug\04.CompanyHierarchy.exe
-D:\Programming\Software-University-Courses\Object-Oriented-Programming-January2015\05.InheritanceAndAbstraction\04.CompanyHierarchy\obj\Debug\04.CompanyHierarchy.pdb

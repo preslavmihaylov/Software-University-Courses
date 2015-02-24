@@ -1,4 +1,0 @@
-D:\My Documents\Preslav Mihaylov !\Programming\CSharp-Basics-Course-May\06.Loops\02.NumbersNotDivisibleBy3and7\bin\Debug\02.NumbersNotDivisibleBy3and7.exe
-D:\My Documents\Preslav Mihaylov !\Programming\CSharp-Basics-Course-May\06.Loops\02.NumbersNotDivisibleBy3and7\bin\Debug\02.NumbersNotDivisibleBy3and7.pdb
-D:\My Documents\Preslav Mihaylov !\Programming\CSharp-Basics-Course-May\06.Loops\02.NumbersNotDivisibleBy3and7\obj\Debug\02.NumbersNotDivisibleBy3and7.exe
-D:\My Documents\Preslav Mihaylov !\Programming\CSharp-Basics-Course-May\06.Loops\02.NumbersNotDivisibleBy3and7\obj\Debug\02.NumbersNotDivisibleBy3and7.pdb

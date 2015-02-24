@@ -1,4 +1,0 @@
-D:\My Documents\Preslav Mihaylov !\Programming\CSharp-Basics-Course-May\05.ConditionalStatements\04.MultiplicationSign\bin\Debug\04.MultiplicationSign.exe
-D:\My Documents\Preslav Mihaylov !\Programming\CSharp-Basics-Course-May\05.ConditionalStatements\04.MultiplicationSign\bin\Debug\04.MultiplicationSign.pdb
-D:\My Documents\Preslav Mihaylov !\Programming\CSharp-Basics-Course-May\05.ConditionalStatements\04.MultiplicationSign\obj\Debug\04.MultiplicationSign.exe
-D:\My Documents\Preslav Mihaylov !\Programming\CSharp-Basics-Course-May\05.ConditionalStatements\04.MultiplicationSign\obj\Debug\04.MultiplicationSign.pdb

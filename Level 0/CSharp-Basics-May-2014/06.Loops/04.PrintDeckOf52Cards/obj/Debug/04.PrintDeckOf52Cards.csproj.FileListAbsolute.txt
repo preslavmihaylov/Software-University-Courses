@@ -1,4 +1,0 @@
-D:\My Documents\Preslav Mihaylov !\Programming\CSharp-Basics-Course-May\06.Loops\04.PrintDeckOf52Cards\bin\Debug\04.PrintDeckOf52Cards.exe
-D:\My Documents\Preslav Mihaylov !\Programming\CSharp-Basics-Course-May\06.Loops\04.PrintDeckOf52Cards\bin\Debug\04.PrintDeckOf52Cards.pdb
-D:\My Documents\Preslav Mihaylov !\Programming\CSharp-Basics-Course-May\06.Loops\04.PrintDeckOf52Cards\obj\Debug\04.PrintDeckOf52Cards.exe
-D:\My Documents\Preslav Mihaylov !\Programming\CSharp-Basics-Course-May\06.Loops\04.PrintDeckOf52Cards\obj\Debug\04.PrintDeckOf52Cards.pdb

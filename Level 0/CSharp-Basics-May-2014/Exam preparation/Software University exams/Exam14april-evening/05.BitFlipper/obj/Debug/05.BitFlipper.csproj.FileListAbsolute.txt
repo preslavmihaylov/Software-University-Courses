@@ -1,5 +1,0 @@
-D:\My Documents\Preslav Mihaylov !\Programming\CSharp-Basics-Course-May\Exam preparation\Exam14april-evening\05.BitFlipper\bin\Debug\05.BitFlipper.exe
-D:\My Documents\Preslav Mihaylov !\Programming\CSharp-Basics-Course-May\Exam preparation\Exam14april-evening\05.BitFlipper\bin\Debug\05.BitFlipper.pdb
-D:\My Documents\Preslav Mihaylov !\Programming\CSharp-Basics-Course-May\Exam preparation\Exam14april-evening\05.BitFlipper\obj\Debug\05.BitFlipper.csprojResolveAssemblyReference.cache
-D:\My Documents\Preslav Mihaylov !\Programming\CSharp-Basics-Course-May\Exam preparation\Exam14april-evening\05.BitFlipper\obj\Debug\05.BitFlipper.exe
-D:\My Documents\Preslav Mihaylov !\Programming\CSharp-Basics-Course-May\Exam preparation\Exam14april-evening\05.BitFlipper\obj\Debug\05.BitFlipper.pdb

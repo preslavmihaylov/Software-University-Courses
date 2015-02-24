@@ -1,4 +1,0 @@
-D:\Programming\CSharp-Basics-Course-May\Exam preparation\Telerik Academy exams\Exam23.06.2013-morning\02.DrunkenNumbers\bin\Debug\02.DrunkenNumbers.exe
-D:\Programming\CSharp-Basics-Course-May\Exam preparation\Telerik Academy exams\Exam23.06.2013-morning\02.DrunkenNumbers\bin\Debug\02.DrunkenNumbers.pdb
-D:\Programming\CSharp-Basics-Course-May\Exam preparation\Telerik Academy exams\Exam23.06.2013-morning\02.DrunkenNumbers\obj\Debug\02.DrunkenNumbers.exe
-D:\Programming\CSharp-Basics-Course-May\Exam preparation\Telerik Academy exams\Exam23.06.2013-morning\02.DrunkenNumbers\obj\Debug\02.DrunkenNumbers.pdb

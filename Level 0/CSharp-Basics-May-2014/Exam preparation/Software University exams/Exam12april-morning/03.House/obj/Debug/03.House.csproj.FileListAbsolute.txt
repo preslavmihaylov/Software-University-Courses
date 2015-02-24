@@ -1,5 +1,0 @@
-D:\My Documents\Preslav Mihaylov !\Programming\CSharp-Basics-Course-May\Exam preparation\Exam12april-morning\03.House\bin\Debug\03.House.exe
-D:\My Documents\Preslav Mihaylov !\Programming\CSharp-Basics-Course-May\Exam preparation\Exam12april-morning\03.House\bin\Debug\03.House.pdb
-D:\My Documents\Preslav Mihaylov !\Programming\CSharp-Basics-Course-May\Exam preparation\Exam12april-morning\03.House\obj\Debug\03.House.csprojResolveAssemblyReference.cache
-D:\My Documents\Preslav Mihaylov !\Programming\CSharp-Basics-Course-May\Exam preparation\Exam12april-morning\03.House\obj\Debug\03.House.exe
-D:\My Documents\Preslav Mihaylov !\Programming\CSharp-Basics-Course-May\Exam preparation\Exam12april-morning\03.House\obj\Debug\03.House.pdb

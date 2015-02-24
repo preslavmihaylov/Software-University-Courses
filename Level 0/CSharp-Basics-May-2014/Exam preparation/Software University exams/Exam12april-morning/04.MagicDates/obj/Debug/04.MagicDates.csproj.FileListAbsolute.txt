@@ -1,5 +1,0 @@
-D:\My Documents\Preslav Mihaylov !\Programming\CSharp-Basics-Course-May\Exam preparation\Exam12april-morning\04.MagicDates\bin\Debug\04.MagicDates.exe
-D:\My Documents\Preslav Mihaylov !\Programming\CSharp-Basics-Course-May\Exam preparation\Exam12april-morning\04.MagicDates\bin\Debug\04.MagicDates.pdb
-D:\My Documents\Preslav Mihaylov !\Programming\CSharp-Basics-Course-May\Exam preparation\Exam12april-morning\04.MagicDates\obj\Debug\04.MagicDates.exe
-D:\My Documents\Preslav Mihaylov !\Programming\CSharp-Basics-Course-May\Exam preparation\Exam12april-morning\04.MagicDates\obj\Debug\04.MagicDates.pdb
-D:\My Documents\Preslav Mihaylov !\Programming\CSharp-Basics-Course-May\Exam preparation\Exam12april-morning\04.MagicDates\obj\Debug\04.MagicDates.csprojResolveAssemblyReference.cache

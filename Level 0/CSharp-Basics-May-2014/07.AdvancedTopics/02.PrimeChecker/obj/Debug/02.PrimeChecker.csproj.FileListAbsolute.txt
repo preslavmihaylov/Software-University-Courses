@@ -1,4 +1,0 @@
-D:\My Documents\Preslav Mihaylov !\Programming\CSharp-Basics-Course-May\Exam preparation\07.AdvancedTopics\02.PrimeChecker\bin\Debug\02.PrimeChecker.exe
-D:\My Documents\Preslav Mihaylov !\Programming\CSharp-Basics-Course-May\Exam preparation\07.AdvancedTopics\02.PrimeChecker\bin\Debug\02.PrimeChecker.pdb
-D:\My Documents\Preslav Mihaylov !\Programming\CSharp-Basics-Course-May\Exam preparation\07.AdvancedTopics\02.PrimeChecker\obj\Debug\02.PrimeChecker.exe
-D:\My Documents\Preslav Mihaylov !\Programming\CSharp-Basics-Course-May\Exam preparation\07.AdvancedTopics\02.PrimeChecker\obj\Debug\02.PrimeChecker.pdb

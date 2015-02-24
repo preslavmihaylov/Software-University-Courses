@@ -1,5 +1,0 @@
-D:\Programming\Software-University-Courses\Level 2\Object-Oriented-Programming-January2015\07.OOP-CommonTypeSystem\03.CustomTree\bin\Debug\03.CustomTree.exe
-D:\Programming\Software-University-Courses\Level 2\Object-Oriented-Programming-January2015\07.OOP-CommonTypeSystem\03.CustomTree\bin\Debug\03.CustomTree.pdb
-D:\Programming\Software-University-Courses\Level 2\Object-Oriented-Programming-January2015\07.OOP-CommonTypeSystem\03.CustomTree\obj\Debug\03.CustomTree.csprojResolveAssemblyReference.cache
-D:\Programming\Software-University-Courses\Level 2\Object-Oriented-Programming-January2015\07.OOP-CommonTypeSystem\03.CustomTree\obj\Debug\03.CustomTree.exe
-D:\Programming\Software-University-Courses\Level 2\Object-Oriented-Programming-January2015\07.OOP-CommonTypeSystem\03.CustomTree\obj\Debug\03.CustomTree.pdb

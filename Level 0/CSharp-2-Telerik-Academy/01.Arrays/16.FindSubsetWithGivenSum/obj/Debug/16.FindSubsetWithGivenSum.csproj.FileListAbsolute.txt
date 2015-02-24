@@ -1,5 +1,0 @@
-D:\Programming\Software University Courses\CSharp-2-Telerik-Academy\01.Arrays\16.FindSubsetWithGivenSum\bin\Debug\16.FindSubsetWithGivenSum.exe
-D:\Programming\Software University Courses\CSharp-2-Telerik-Academy\01.Arrays\16.FindSubsetWithGivenSum\bin\Debug\16.FindSubsetWithGivenSum.pdb
-D:\Programming\Software University Courses\CSharp-2-Telerik-Academy\01.Arrays\16.FindSubsetWithGivenSum\obj\Debug\16.FindSubsetWithGivenSum.csprojResolveAssemblyReference.cache
-D:\Programming\Software University Courses\CSharp-2-Telerik-Academy\01.Arrays\16.FindSubsetWithGivenSum\obj\Debug\16.FindSubsetWithGivenSum.exe
-D:\Programming\Software University Courses\CSharp-2-Telerik-Academy\01.Arrays\16.FindSubsetWithGivenSum\obj\Debug\16.FindSubsetWithGivenSum.pdb

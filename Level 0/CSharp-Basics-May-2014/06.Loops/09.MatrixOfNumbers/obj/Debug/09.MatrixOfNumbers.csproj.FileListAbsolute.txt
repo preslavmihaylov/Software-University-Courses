@@ -1,5 +1,0 @@
-D:\My Documents\Preslav Mihaylov !\Programming\CSharp-Basics-Course-May\06.Loops\09.MatrixOfNumbers\bin\Debug\09.MatrixOfNumbers.exe
-D:\My Documents\Preslav Mihaylov !\Programming\CSharp-Basics-Course-May\06.Loops\09.MatrixOfNumbers\bin\Debug\09.MatrixOfNumbers.pdb
-D:\My Documents\Preslav Mihaylov !\Programming\CSharp-Basics-Course-May\06.Loops\09.MatrixOfNumbers\obj\Debug\09.MatrixOfNumbers.csprojResolveAssemblyReference.cache
-D:\My Documents\Preslav Mihaylov !\Programming\CSharp-Basics-Course-May\06.Loops\09.MatrixOfNumbers\obj\Debug\09.MatrixOfNumbers.exe
-D:\My Documents\Preslav Mihaylov !\Programming\CSharp-Basics-Course-May\06.Loops\09.MatrixOfNumbers\obj\Debug\09.MatrixOfNumbers.pdb

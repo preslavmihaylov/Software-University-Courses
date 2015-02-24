@@ -1,5 +1,0 @@
-D:\Programming\Software University Courses\CSharp-2-Telerik-Academy\02.MultidimensionalArrays\03.LongestSequenceOfEqualStrings\bin\Debug\03.LongestSequenceOfEqualStrings.exe
-D:\Programming\Software University Courses\CSharp-2-Telerik-Academy\02.MultidimensionalArrays\03.LongestSequenceOfEqualStrings\bin\Debug\03.LongestSequenceOfEqualStrings.pdb
-D:\Programming\Software University Courses\CSharp-2-Telerik-Academy\02.MultidimensionalArrays\03.LongestSequenceOfEqualStrings\obj\Debug\03.LongestSequenceOfEqualStrings.csprojResolveAssemblyReference.cache
-D:\Programming\Software University Courses\CSharp-2-Telerik-Academy\02.MultidimensionalArrays\03.LongestSequenceOfEqualStrings\obj\Debug\03.LongestSequenceOfEqualStrings.exe
-D:\Programming\Software University Courses\CSharp-2-Telerik-Academy\02.MultidimensionalArrays\03.LongestSequenceOfEqualStrings\obj\Debug\03.LongestSequenceOfEqualStrings.pdb

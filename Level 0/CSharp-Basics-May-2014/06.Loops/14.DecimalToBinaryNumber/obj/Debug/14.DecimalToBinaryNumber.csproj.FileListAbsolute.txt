@@ -1,4 +1,0 @@
-D:\My Documents\Preslav Mihaylov !\Programming\CSharp-Basics-Course-May\06.Loops\14.DecimalToBinaryNumber\bin\Debug\14.DecimalToBinaryNumber.exe
-D:\My Documents\Preslav Mihaylov !\Programming\CSharp-Basics-Course-May\06.Loops\14.DecimalToBinaryNumber\bin\Debug\14.DecimalToBinaryNumber.pdb
-D:\My Documents\Preslav Mihaylov !\Programming\CSharp-Basics-Course-May\06.Loops\14.DecimalToBinaryNumber\obj\Debug\14.DecimalToBinaryNumber.exe
-D:\My Documents\Preslav Mihaylov !\Programming\CSharp-Basics-Course-May\06.Loops\14.DecimalToBinaryNumber\obj\Debug\14.DecimalToBinaryNumber.pdb

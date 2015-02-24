@@ -1,5 +1,0 @@
-D:\Programming\CSharp-Basics-Course-May\Exam preparation\Telerik Academy exams\Exam23.06.2013-morning\01.CoffeeMachine\bin\Debug\01.CoffeeMachine.exe
-D:\Programming\CSharp-Basics-Course-May\Exam preparation\Telerik Academy exams\Exam23.06.2013-morning\01.CoffeeMachine\bin\Debug\01.CoffeeMachine.pdb
-D:\Programming\CSharp-Basics-Course-May\Exam preparation\Telerik Academy exams\Exam23.06.2013-morning\01.CoffeeMachine\obj\Debug\01.CoffeeMachine.csprojResolveAssemblyReference.cache
-D:\Programming\CSharp-Basics-Course-May\Exam preparation\Telerik Academy exams\Exam23.06.2013-morning\01.CoffeeMachine\obj\Debug\01.CoffeeMachine.exe
-D:\Programming\CSharp-Basics-Course-May\Exam preparation\Telerik Academy exams\Exam23.06.2013-morning\01.CoffeeMachine\obj\Debug\01.CoffeeMachine.pdb

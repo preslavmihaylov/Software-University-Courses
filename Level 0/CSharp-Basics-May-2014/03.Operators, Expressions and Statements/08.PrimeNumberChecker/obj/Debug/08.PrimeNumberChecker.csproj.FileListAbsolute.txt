@@ -1,4 +1,0 @@
-D:\My Documents\Preslav Mihaylov !\Programming\CSharp-Basics-Course-May\03.Operators, Expressions and Statements\08.PrimeNumberChecker\bin\Debug\08.PrimeNumberChecker.exe
-D:\My Documents\Preslav Mihaylov !\Programming\CSharp-Basics-Course-May\03.Operators, Expressions and Statements\08.PrimeNumberChecker\bin\Debug\08.PrimeNumberChecker.pdb
-D:\My Documents\Preslav Mihaylov !\Programming\CSharp-Basics-Course-May\03.Operators, Expressions and Statements\08.PrimeNumberChecker\obj\Debug\08.PrimeNumberChecker.exe
-D:\My Documents\Preslav Mihaylov !\Programming\CSharp-Basics-Course-May\03.Operators, Expressions and Statements\08.PrimeNumberChecker\obj\Debug\08.PrimeNumberChecker.pdb

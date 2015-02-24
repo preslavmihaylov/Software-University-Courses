@@ -1,7 +1,0 @@
-D:\Programming\Software-University-Courses\Object-Oriented-Programming-January2015\02.StaticMembersAndNamespaces\05.BitArray\bin\Debug\05.BitArray.exe
-D:\Programming\Software-University-Courses\Object-Oriented-Programming-January2015\02.StaticMembersAndNamespaces\05.BitArray\bin\Debug\05.BitArray.pdb
-D:\Programming\Software-University-Courses\Object-Oriented-Programming-January2015\02.StaticMembersAndNamespaces\05.BitArray\obj\Debug\05.BitArray.csprojResolveAssemblyReference.cache
-D:\Programming\Software-University-Courses\Object-Oriented-Programming-January2015\02.StaticMembersAndNamespaces\05.BitArray\obj\Debug\05.BitArray.exe
-D:\Programming\Software-University-Courses\Object-Oriented-Programming-January2015\02.StaticMembersAndNamespaces\05.BitArray\obj\Debug\05.BitArray.pdb
-D:\Programming\Software-University-Courses\Object-Oriented-Programming-January2015\02.1.StaticMembersAndNamespaces\05.BitArray\obj\Debug\05.BitArray.exe
-D:\Programming\Software-University-Courses\Object-Oriented-Programming-January2015\02.1.StaticMembersAndNamespaces\05.BitArray\obj\Debug\05.BitArray.pdb

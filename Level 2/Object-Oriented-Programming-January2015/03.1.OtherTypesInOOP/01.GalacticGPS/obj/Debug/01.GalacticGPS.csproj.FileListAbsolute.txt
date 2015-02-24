@@ -1,5 +1,0 @@
-D:\Programming\Software-University-Courses\Object-Oriented-Programming-January2015\03.1.OtherTypesInOOP\01.GalacticGPS\obj\Debug\01.GalacticGPS.csprojResolveAssemblyReference.cache
-D:\Programming\Software-University-Courses\Object-Oriented-Programming-January2015\03.1.OtherTypesInOOP\01.GalacticGPS\bin\Debug\01.GalacticGPS.exe
-D:\Programming\Software-University-Courses\Object-Oriented-Programming-January2015\03.1.OtherTypesInOOP\01.GalacticGPS\bin\Debug\01.GalacticGPS.pdb
-D:\Programming\Software-University-Courses\Object-Oriented-Programming-January2015\03.1.OtherTypesInOOP\01.GalacticGPS\obj\Debug\01.GalacticGPS.exe
-D:\Programming\Software-University-Courses\Object-Oriented-Programming-January2015\03.1.OtherTypesInOOP\01.GalacticGPS\obj\Debug\01.GalacticGPS.pdb

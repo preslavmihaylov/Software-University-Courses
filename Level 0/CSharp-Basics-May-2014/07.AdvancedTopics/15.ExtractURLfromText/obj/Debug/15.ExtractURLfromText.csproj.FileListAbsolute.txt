@@ -1,4 +1,0 @@
-D:\My Documents\Preslav Mihaylov !\Programming\CSharp-Basics-Course-May\07.AdvancedTopics\15.ExtractURLfromText\bin\Debug\15.ExtractURLfromText.exe
-D:\My Documents\Preslav Mihaylov !\Programming\CSharp-Basics-Course-May\07.AdvancedTopics\15.ExtractURLfromText\bin\Debug\15.ExtractURLfromText.pdb
-D:\My Documents\Preslav Mihaylov !\Programming\CSharp-Basics-Course-May\07.AdvancedTopics\15.ExtractURLfromText\obj\Debug\15.ExtractURLfromText.exe
-D:\My Documents\Preslav Mihaylov !\Programming\CSharp-Basics-Course-May\07.AdvancedTopics\15.ExtractURLfromText\obj\Debug\15.ExtractURLfromText.pdb

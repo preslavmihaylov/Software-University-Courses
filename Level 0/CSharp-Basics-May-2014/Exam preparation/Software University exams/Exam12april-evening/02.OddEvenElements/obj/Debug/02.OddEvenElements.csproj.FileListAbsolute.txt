@@ -1,5 +1,0 @@
-D:\My Documents\Preslav Mihaylov !\Programming\CSharp-Basics-Course-May\Exam preparation\Exam12april-evening\02.OddEvenElements\bin\Debug\02.OddEvenElements.exe
-D:\My Documents\Preslav Mihaylov !\Programming\CSharp-Basics-Course-May\Exam preparation\Exam12april-evening\02.OddEvenElements\bin\Debug\02.OddEvenElements.pdb
-D:\My Documents\Preslav Mihaylov !\Programming\CSharp-Basics-Course-May\Exam preparation\Exam12april-evening\02.OddEvenElements\obj\Debug\02.OddEvenElements.exe
-D:\My Documents\Preslav Mihaylov !\Programming\CSharp-Basics-Course-May\Exam preparation\Exam12april-evening\02.OddEvenElements\obj\Debug\02.OddEvenElements.pdb
-D:\My Documents\Preslav Mihaylov !\Programming\CSharp-Basics-Course-May\Exam preparation\Exam12april-evening\02.OddEvenElements\obj\Debug\02.OddEvenElements.csprojResolveAssemblyReference.cache

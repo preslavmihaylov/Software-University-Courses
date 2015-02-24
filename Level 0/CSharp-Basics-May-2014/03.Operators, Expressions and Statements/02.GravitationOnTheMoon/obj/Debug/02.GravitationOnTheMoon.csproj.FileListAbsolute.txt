@@ -1,5 +1,0 @@
-D:\My Documents\Preslav Mihaylov !\Programming\CSharp-Basics-Course-May\03.Operators, Expressions and Statements\02.GravitationOnTheMoon\bin\Debug\02.GravitationOnTheMoon.exe
-D:\My Documents\Preslav Mihaylov !\Programming\CSharp-Basics-Course-May\03.Operators, Expressions and Statements\02.GravitationOnTheMoon\bin\Debug\02.GravitationOnTheMoon.pdb
-D:\My Documents\Preslav Mihaylov !\Programming\CSharp-Basics-Course-May\03.Operators, Expressions and Statements\02.GravitationOnTheMoon\obj\Debug\02.GravitationOnTheMoon.csprojResolveAssemblyReference.cache
-D:\My Documents\Preslav Mihaylov !\Programming\CSharp-Basics-Course-May\03.Operators, Expressions and Statements\02.GravitationOnTheMoon\obj\Debug\02.GravitationOnTheMoon.exe
-D:\My Documents\Preslav Mihaylov !\Programming\CSharp-Basics-Course-May\03.Operators, Expressions and Statements\02.GravitationOnTheMoon\obj\Debug\02.GravitationOnTheMoon.pdb

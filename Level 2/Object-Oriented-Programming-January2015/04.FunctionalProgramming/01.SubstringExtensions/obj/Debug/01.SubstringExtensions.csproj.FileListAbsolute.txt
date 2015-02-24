@@ -1,7 +1,0 @@
-D:\Programming\Software-University-Courses\Object-Oriented-Programming-January2015\04.FunctionalProgramming\01.SubstringExtensions\bin\Debug\01.SubstringExtensions.exe
-D:\Programming\Software-University-Courses\Object-Oriented-Programming-January2015\04.FunctionalProgramming\01.SubstringExtensions\bin\Debug\01.SubstringExtensions.pdb
-D:\Programming\Software-University-Courses\Object-Oriented-Programming-January2015\04.FunctionalProgramming\01.SubstringExtensions\obj\Debug\01.SubstringExtensions.csprojResolveAssemblyReference.cache
-D:\Programming\Software-University-Courses\Object-Oriented-Programming-January2015\04.FunctionalProgramming\01.SubstringExtensions\obj\Debug\01.SubstringExtensions.exe
-D:\Programming\Software-University-Courses\Object-Oriented-Programming-January2015\04.FunctionalProgramming\01.SubstringExtensions\obj\Debug\01.SubstringExtensions.pdb
-D:\Programming\Software-University-Courses\Level 2\Object-Oriented-Programming-January2015\04.FunctionalProgramming\01.SubstringExtensions\obj\Debug\01.SubstringExtensions.exe
-D:\Programming\Software-University-Courses\Level 2\Object-Oriented-Programming-January2015\04.FunctionalProgramming\01.SubstringExtensions\obj\Debug\01.SubstringExtensions.pdb

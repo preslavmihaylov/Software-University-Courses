@@ -1,4 +1,0 @@
-D:\Programming\Software University Courses\CSharp-2-Telerik-Academy\05.ClassesAndObjects\06.CalculateSum\bin\Debug\06.CalculateSum.exe
-D:\Programming\Software University Courses\CSharp-2-Telerik-Academy\05.ClassesAndObjects\06.CalculateSum\bin\Debug\06.CalculateSum.pdb
-D:\Programming\Software University Courses\CSharp-2-Telerik-Academy\05.ClassesAndObjects\06.CalculateSum\obj\Debug\06.CalculateSum.exe
-D:\Programming\Software University Courses\CSharp-2-Telerik-Academy\05.ClassesAndObjects\06.CalculateSum\obj\Debug\06.CalculateSum.pdb

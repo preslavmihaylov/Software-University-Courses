@@ -1,4 +1,0 @@
-D:\My Documents\Preslav Mihaylov !\Programming\CSharp-Basics-Course-May\Exam preparation\Exam11april-morning\02.SumOfElements\bin\Debug\02.SumOfElements.exe
-D:\My Documents\Preslav Mihaylov !\Programming\CSharp-Basics-Course-May\Exam preparation\Exam11april-morning\02.SumOfElements\bin\Debug\02.SumOfElements.pdb
-D:\My Documents\Preslav Mihaylov !\Programming\CSharp-Basics-Course-May\Exam preparation\Exam11april-morning\02.SumOfElements\obj\Debug\02.SumOfElements.exe
-D:\My Documents\Preslav Mihaylov !\Programming\CSharp-Basics-Course-May\Exam preparation\Exam11april-morning\02.SumOfElements\obj\Debug\02.SumOfElements.pdb

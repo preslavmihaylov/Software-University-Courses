@@ -1,4 +1,0 @@
-D:\My Documents\Preslav Mihaylov !\Programming\CSharp-Basics-Course-May\05.ConditionalStatements\03.CheckForPlayCard\bin\Debug\03.CheckForPlayCard.exe
-D:\My Documents\Preslav Mihaylov !\Programming\CSharp-Basics-Course-May\05.ConditionalStatements\03.CheckForPlayCard\bin\Debug\03.CheckForPlayCard.pdb
-D:\My Documents\Preslav Mihaylov !\Programming\CSharp-Basics-Course-May\05.ConditionalStatements\03.CheckForPlayCard\obj\Debug\03.CheckForPlayCard.exe
-D:\My Documents\Preslav Mihaylov !\Programming\CSharp-Basics-Course-May\05.ConditionalStatements\03.CheckForPlayCard\obj\Debug\03.CheckForPlayCard.pdb

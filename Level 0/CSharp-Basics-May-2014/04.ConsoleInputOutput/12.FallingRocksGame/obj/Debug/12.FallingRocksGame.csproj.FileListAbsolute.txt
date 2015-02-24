@@ -1,5 +1,0 @@
-D:\My Documents\Preslav Mihaylov !\Programming\CSharp-Basics-Course-May\04.ConsoleInputOutput\12.FallingRocksGame\bin\Debug\12.FallingRocksGame.exe
-D:\My Documents\Preslav Mihaylov !\Programming\CSharp-Basics-Course-May\04.ConsoleInputOutput\12.FallingRocksGame\bin\Debug\12.FallingRocksGame.pdb
-D:\My Documents\Preslav Mihaylov !\Programming\CSharp-Basics-Course-May\04.ConsoleInputOutput\12.FallingRocksGame\obj\Debug\12.FallingRocksGame.csprojResolveAssemblyReference.cache
-D:\My Documents\Preslav Mihaylov !\Programming\CSharp-Basics-Course-May\04.ConsoleInputOutput\12.FallingRocksGame\obj\Debug\12.FallingRocksGame.exe
-D:\My Documents\Preslav Mihaylov !\Programming\CSharp-Basics-Course-May\04.ConsoleInputOutput\12.FallingRocksGame\obj\Debug\12.FallingRocksGame.pdb

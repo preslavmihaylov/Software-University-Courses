@@ -1,4 +1,0 @@
-D:\My Documents\Preslav Mihaylov !\Programming\CSharp-Basics-Course-May\05.ConditionalStatements\09.PlayWithIntDoubleString\bin\Debug\09.PlayWithIntDoubleString.exe
-D:\My Documents\Preslav Mihaylov !\Programming\CSharp-Basics-Course-May\05.ConditionalStatements\09.PlayWithIntDoubleString\bin\Debug\09.PlayWithIntDoubleString.pdb
-D:\My Documents\Preslav Mihaylov !\Programming\CSharp-Basics-Course-May\05.ConditionalStatements\09.PlayWithIntDoubleString\obj\Debug\09.PlayWithIntDoubleString.exe
-D:\My Documents\Preslav Mihaylov !\Programming\CSharp-Basics-Course-May\05.ConditionalStatements\09.PlayWithIntDoubleString\obj\Debug\09.PlayWithIntDoubleString.pdb

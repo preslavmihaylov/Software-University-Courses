@@ -1,5 +1,0 @@
-D:\Programming\Software University Courses\CSharp-2-Telerik-Academy\01.Arrays\13.MergeSort\bin\Debug\13.MergeSort.exe
-D:\Programming\Software University Courses\CSharp-2-Telerik-Academy\01.Arrays\13.MergeSort\bin\Debug\13.MergeSort.pdb
-D:\Programming\Software University Courses\CSharp-2-Telerik-Academy\01.Arrays\13.MergeSort\obj\Debug\13.MergeSort.csprojResolveAssemblyReference.cache
-D:\Programming\Software University Courses\CSharp-2-Telerik-Academy\01.Arrays\13.MergeSort\obj\Debug\13.MergeSort.exe
-D:\Programming\Software University Courses\CSharp-2-Telerik-Academy\01.Arrays\13.MergeSort\obj\Debug\13.MergeSort.pdb

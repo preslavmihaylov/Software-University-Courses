@@ -1,4 +1,0 @@
-D:\My Documents\Preslav Mihaylov !\Programming\CSharp-Basics-Course-May\04.ConsoleInputOutput\09.SumOfNnumbers\bin\Debug\09.SumOfNnumbers.exe
-D:\My Documents\Preslav Mihaylov !\Programming\CSharp-Basics-Course-May\04.ConsoleInputOutput\09.SumOfNnumbers\bin\Debug\09.SumOfNnumbers.pdb
-D:\My Documents\Preslav Mihaylov !\Programming\CSharp-Basics-Course-May\04.ConsoleInputOutput\09.SumOfNnumbers\obj\Debug\09.SumOfNnumbers.exe
-D:\My Documents\Preslav Mihaylov !\Programming\CSharp-Basics-Course-May\04.ConsoleInputOutput\09.SumOfNnumbers\obj\Debug\09.SumOfNnumbers.pdb

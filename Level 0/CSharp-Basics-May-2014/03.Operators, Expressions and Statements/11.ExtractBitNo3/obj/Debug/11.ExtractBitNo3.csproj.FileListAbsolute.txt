@@ -1,4 +1,0 @@
-D:\My Documents\Preslav Mihaylov !\Programming\CSharp-Basics-Course-May\03.Operators, Expressions and Statements\11.ExtractBitNo3\bin\Debug\11.ExtractBitNo3.exe
-D:\My Documents\Preslav Mihaylov !\Programming\CSharp-Basics-Course-May\03.Operators, Expressions and Statements\11.ExtractBitNo3\bin\Debug\11.ExtractBitNo3.pdb
-D:\My Documents\Preslav Mihaylov !\Programming\CSharp-Basics-Course-May\03.Operators, Expressions and Statements\11.ExtractBitNo3\obj\Debug\11.ExtractBitNo3.exe
-D:\My Documents\Preslav Mihaylov !\Programming\CSharp-Basics-Course-May\03.Operators, Expressions and Statements\11.ExtractBitNo3\obj\Debug\11.ExtractBitNo3.pdb

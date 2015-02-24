@@ -1,4 +1,0 @@
-D:\My Documents\Preslav Mihaylov !\Programming\CSharp-Basics-Course-May\03.Operators, Expressions and Statements\13.CheckBitAtGivenPosition\bin\Debug\13.CheckBitAtGivenPosition.exe
-D:\My Documents\Preslav Mihaylov !\Programming\CSharp-Basics-Course-May\03.Operators, Expressions and Statements\13.CheckBitAtGivenPosition\bin\Debug\13.CheckBitAtGivenPosition.pdb
-D:\My Documents\Preslav Mihaylov !\Programming\CSharp-Basics-Course-May\03.Operators, Expressions and Statements\13.CheckBitAtGivenPosition\obj\Debug\13.CheckBitAtGivenPosition.exe
-D:\My Documents\Preslav Mihaylov !\Programming\CSharp-Basics-Course-May\03.Operators, Expressions and Statements\13.CheckBitAtGivenPosition\obj\Debug\13.CheckBitAtGivenPosition.pdb

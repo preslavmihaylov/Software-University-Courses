@@ -1,5 +1,0 @@
-D:\Programming\Software University Courses\CSharp-2-Telerik-Academy\01.Arrays\09.MostFrequentNumberInArray\obj\Debug\09.MostFrequentNumberInArray.csprojResolveAssemblyReference.cache
-D:\Programming\Software University Courses\CSharp-2-Telerik-Academy\01.Arrays\09.MostFrequentNumberInArray\bin\Debug\09.MostFrequentNumberInArray.exe
-D:\Programming\Software University Courses\CSharp-2-Telerik-Academy\01.Arrays\09.MostFrequentNumberInArray\bin\Debug\09.MostFrequentNumberInArray.pdb
-D:\Programming\Software University Courses\CSharp-2-Telerik-Academy\01.Arrays\09.MostFrequentNumberInArray\obj\Debug\09.MostFrequentNumberInArray.exe
-D:\Programming\Software University Courses\CSharp-2-Telerik-Academy\01.Arrays\09.MostFrequentNumberInArray\obj\Debug\09.MostFrequentNumberInArray.pdb

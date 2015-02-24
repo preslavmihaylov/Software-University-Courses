@@ -1,4 +1,0 @@
-D:\Programming\Software University Courses\CSharp-2-Telerik-Academy\01.Arrays\18.RemoveUnsortedArrayElements\bin\Debug\18.RemoveUnsortedArrayElements.exe
-D:\Programming\Software University Courses\CSharp-2-Telerik-Academy\01.Arrays\18.RemoveUnsortedArrayElements\bin\Debug\18.RemoveUnsortedArrayElements.pdb
-D:\Programming\Software University Courses\CSharp-2-Telerik-Academy\01.Arrays\18.RemoveUnsortedArrayElements\obj\Debug\18.RemoveUnsortedArrayElements.exe
-D:\Programming\Software University Courses\CSharp-2-Telerik-Academy\01.Arrays\18.RemoveUnsortedArrayElements\obj\Debug\18.RemoveUnsortedArrayElements.pdb

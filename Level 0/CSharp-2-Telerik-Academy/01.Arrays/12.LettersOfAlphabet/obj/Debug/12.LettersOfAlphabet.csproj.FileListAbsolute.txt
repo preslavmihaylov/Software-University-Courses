@@ -1,5 +1,0 @@
-D:\Programming\Software University Courses\CSharp-2-Telerik-Academy\01.Arrays\12.LettersOfAlphabet\bin\Debug\12.LettersOfAlphabet.exe
-D:\Programming\Software University Courses\CSharp-2-Telerik-Academy\01.Arrays\12.LettersOfAlphabet\bin\Debug\12.LettersOfAlphabet.pdb
-D:\Programming\Software University Courses\CSharp-2-Telerik-Academy\01.Arrays\12.LettersOfAlphabet\obj\Debug\12.LettersOfAlphabet.csprojResolveAssemblyReference.cache
-D:\Programming\Software University Courses\CSharp-2-Telerik-Academy\01.Arrays\12.LettersOfAlphabet\obj\Debug\12.LettersOfAlphabet.exe
-D:\Programming\Software University Courses\CSharp-2-Telerik-Academy\01.Arrays\12.LettersOfAlphabet\obj\Debug\12.LettersOfAlphabet.pdb

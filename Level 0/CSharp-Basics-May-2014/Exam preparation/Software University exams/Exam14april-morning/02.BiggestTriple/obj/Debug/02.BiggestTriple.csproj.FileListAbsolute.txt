@@ -1,4 +1,0 @@
-D:\My Documents\Preslav Mihaylov !\Programming\CSharp-Basics-Course-May\Exam preparation\Exam14april-morning\02.BiggestTriple\bin\Debug\02.BiggestTriple.exe
-D:\My Documents\Preslav Mihaylov !\Programming\CSharp-Basics-Course-May\Exam preparation\Exam14april-morning\02.BiggestTriple\bin\Debug\02.BiggestTriple.pdb
-D:\My Documents\Preslav Mihaylov !\Programming\CSharp-Basics-Course-May\Exam preparation\Exam14april-morning\02.BiggestTriple\obj\Debug\02.BiggestTriple.exe
-D:\My Documents\Preslav Mihaylov !\Programming\CSharp-Basics-Course-May\Exam preparation\Exam14april-morning\02.BiggestTriple\obj\Debug\02.BiggestTriple.pdb

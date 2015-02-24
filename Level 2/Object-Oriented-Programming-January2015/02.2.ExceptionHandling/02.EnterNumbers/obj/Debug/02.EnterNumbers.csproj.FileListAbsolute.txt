@@ -1,5 +1,0 @@
-D:\Programming\Software-University-Courses\Object-Oriented-Programming-January2015\02.2.ExceptionHandling\02.EnterNumbers\bin\Debug\02.EnterNumbers.exe
-D:\Programming\Software-University-Courses\Object-Oriented-Programming-January2015\02.2.ExceptionHandling\02.EnterNumbers\bin\Debug\02.EnterNumbers.pdb
-D:\Programming\Software-University-Courses\Object-Oriented-Programming-January2015\02.2.ExceptionHandling\02.EnterNumbers\obj\Debug\02.EnterNumbers.csprojResolveAssemblyReference.cache
-D:\Programming\Software-University-Courses\Object-Oriented-Programming-January2015\02.2.ExceptionHandling\02.EnterNumbers\obj\Debug\02.EnterNumbers.exe
-D:\Programming\Software-University-Courses\Object-Oriented-Programming-January2015\02.2.ExceptionHandling\02.EnterNumbers\obj\Debug\02.EnterNumbers.pdb

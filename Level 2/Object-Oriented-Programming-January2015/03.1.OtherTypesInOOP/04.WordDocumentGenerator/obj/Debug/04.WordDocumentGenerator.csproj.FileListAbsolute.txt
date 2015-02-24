@@ -1,6 +1,0 @@
-D:\Programming\Software-University-Courses\Object-Oriented-Programming-January2015\03.1.OtherTypesInOOP\04.WordDocumentGenerator\bin\Debug\04.WordDocumentGenerator.exe
-D:\Programming\Software-University-Courses\Object-Oriented-Programming-January2015\03.1.OtherTypesInOOP\04.WordDocumentGenerator\bin\Debug\04.WordDocumentGenerator.pdb
-D:\Programming\Software-University-Courses\Object-Oriented-Programming-January2015\03.1.OtherTypesInOOP\04.WordDocumentGenerator\bin\Debug\DocX.dll
-D:\Programming\Software-University-Courses\Object-Oriented-Programming-January2015\03.1.OtherTypesInOOP\04.WordDocumentGenerator\obj\Debug\04.WordDocumentGenerator.csprojResolveAssemblyReference.cache
-D:\Programming\Software-University-Courses\Object-Oriented-Programming-January2015\03.1.OtherTypesInOOP\04.WordDocumentGenerator\obj\Debug\04.WordDocumentGenerator.exe
-D:\Programming\Software-University-Courses\Object-Oriented-Programming-January2015\03.1.OtherTypesInOOP\04.WordDocumentGenerator\obj\Debug\04.WordDocumentGenerator.pdb

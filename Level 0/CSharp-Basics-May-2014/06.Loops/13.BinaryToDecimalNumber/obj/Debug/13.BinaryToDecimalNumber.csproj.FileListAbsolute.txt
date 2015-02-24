@@ -1,5 +1,0 @@
-D:\My Documents\Preslav Mihaylov !\Programming\CSharp-Basics-Course-May\06.Loops\13.BinaryToDecimalNumber\bin\Debug\13.BinaryToDecimalNumber.exe
-D:\My Documents\Preslav Mihaylov !\Programming\CSharp-Basics-Course-May\06.Loops\13.BinaryToDecimalNumber\bin\Debug\13.BinaryToDecimalNumber.pdb
-D:\My Documents\Preslav Mihaylov !\Programming\CSharp-Basics-Course-May\06.Loops\13.BinaryToDecimalNumber\obj\Debug\13.BinaryToDecimalNumber.csprojResolveAssemblyReference.cache
-D:\My Documents\Preslav Mihaylov !\Programming\CSharp-Basics-Course-May\06.Loops\13.BinaryToDecimalNumber\obj\Debug\13.BinaryToDecimalNumber.exe
-D:\My Documents\Preslav Mihaylov !\Programming\CSharp-Basics-Course-May\06.Loops\13.BinaryToDecimalNumber\obj\Debug\13.BinaryToDecimalNumber.pdb

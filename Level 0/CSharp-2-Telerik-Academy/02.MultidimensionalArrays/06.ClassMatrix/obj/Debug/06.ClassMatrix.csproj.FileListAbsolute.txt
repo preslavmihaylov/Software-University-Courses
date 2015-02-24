@@ -1,5 +1,0 @@
-D:\Programming\Software University Courses\CSharp-2-Telerik-Academy\02.MultidimensionalArrays\06.ClassMatrix\bin\Debug\06.ClassMatrix.exe
-D:\Programming\Software University Courses\CSharp-2-Telerik-Academy\02.MultidimensionalArrays\06.ClassMatrix\bin\Debug\06.ClassMatrix.pdb
-D:\Programming\Software University Courses\CSharp-2-Telerik-Academy\02.MultidimensionalArrays\06.ClassMatrix\obj\Debug\06.ClassMatrix.csprojResolveAssemblyReference.cache
-D:\Programming\Software University Courses\CSharp-2-Telerik-Academy\02.MultidimensionalArrays\06.ClassMatrix\obj\Debug\06.ClassMatrix.exe
-D:\Programming\Software University Courses\CSharp-2-Telerik-Academy\02.MultidimensionalArrays\06.ClassMatrix\obj\Debug\06.ClassMatrix.pdb

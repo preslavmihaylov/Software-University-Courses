@@ -1,4 +1,0 @@
-D:\My Documents\Preslav Mihaylov !\Programming\CSharp-Basics-Course-May\04.ConsoleInputOutput\05.FormattingNumbers\bin\Debug\05.FormattingNumbers.exe
-D:\My Documents\Preslav Mihaylov !\Programming\CSharp-Basics-Course-May\04.ConsoleInputOutput\05.FormattingNumbers\bin\Debug\05.FormattingNumbers.pdb
-D:\My Documents\Preslav Mihaylov !\Programming\CSharp-Basics-Course-May\04.ConsoleInputOutput\05.FormattingNumbers\obj\Debug\05.FormattingNumbers.exe
-D:\My Documents\Preslav Mihaylov !\Programming\CSharp-Basics-Course-May\04.ConsoleInputOutput\05.FormattingNumbers\obj\Debug\05.FormattingNumbers.pdb

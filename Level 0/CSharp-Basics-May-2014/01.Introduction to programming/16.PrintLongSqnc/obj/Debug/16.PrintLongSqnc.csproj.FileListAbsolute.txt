@@ -1,5 +1,0 @@
-D:\My Documents\Preslav Mihaylov !\Programming\CSharp-Basics-Course-May\01.Introduction to programming\16.PrintLongSqnc\bin\Debug\16.PrintLongSqnc.exe
-D:\My Documents\Preslav Mihaylov !\Programming\CSharp-Basics-Course-May\01.Introduction to programming\16.PrintLongSqnc\bin\Debug\16.PrintLongSqnc.pdb
-D:\My Documents\Preslav Mihaylov !\Programming\CSharp-Basics-Course-May\01.Introduction to programming\16.PrintLongSqnc\obj\Debug\16.PrintLongSqnc.csprojResolveAssemblyReference.cache
-D:\My Documents\Preslav Mihaylov !\Programming\CSharp-Basics-Course-May\01.Introduction to programming\16.PrintLongSqnc\obj\Debug\16.PrintLongSqnc.exe
-D:\My Documents\Preslav Mihaylov !\Programming\CSharp-Basics-Course-May\01.Introduction to programming\16.PrintLongSqnc\obj\Debug\16.PrintLongSqnc.pdb

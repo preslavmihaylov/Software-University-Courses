@@ -1,5 +1,0 @@
-D:\Programming\CSharp-Basics-Course-May\Exam preparation\Telerik Academy exams\Exam24.06.2014-evening\01.Garden\bin\Debug\01.Garden.exe
-D:\Programming\CSharp-Basics-Course-May\Exam preparation\Telerik Academy exams\Exam24.06.2014-evening\01.Garden\bin\Debug\01.Garden.pdb
-D:\Programming\CSharp-Basics-Course-May\Exam preparation\Telerik Academy exams\Exam24.06.2014-evening\01.Garden\obj\Debug\01.Garden.csprojResolveAssemblyReference.cache
-D:\Programming\CSharp-Basics-Course-May\Exam preparation\Telerik Academy exams\Exam24.06.2014-evening\01.Garden\obj\Debug\01.Garden.exe
-D:\Programming\CSharp-Basics-Course-May\Exam preparation\Telerik Academy exams\Exam24.06.2014-evening\01.Garden\obj\Debug\01.Garden.pdb

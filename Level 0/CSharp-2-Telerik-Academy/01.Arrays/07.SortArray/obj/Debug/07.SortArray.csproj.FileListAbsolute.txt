@@ -1,4 +1,0 @@
-D:\Programming\Software University Courses\CSharp-2-Telerik-Academy\01.Arrays\07.SortArray\bin\Debug\07.SortArray.exe
-D:\Programming\Software University Courses\CSharp-2-Telerik-Academy\01.Arrays\07.SortArray\bin\Debug\07.SortArray.pdb
-D:\Programming\Software University Courses\CSharp-2-Telerik-Academy\01.Arrays\07.SortArray\obj\Debug\07.SortArray.exe
-D:\Programming\Software University Courses\CSharp-2-Telerik-Academy\01.Arrays\07.SortArray\obj\Debug\07.SortArray.pdb

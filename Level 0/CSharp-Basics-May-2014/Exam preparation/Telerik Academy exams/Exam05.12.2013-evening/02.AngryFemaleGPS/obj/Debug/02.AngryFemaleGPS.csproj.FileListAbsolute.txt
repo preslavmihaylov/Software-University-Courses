@@ -1,5 +1,0 @@
-D:\Programming\CSharp-Basics-Course-May\Exam preparation\Telerik Academy exams\Exam05.12.2013-evening\02.AngryFemaleGPS\bin\Debug\02.AngryFemaleGPS.exe
-D:\Programming\CSharp-Basics-Course-May\Exam preparation\Telerik Academy exams\Exam05.12.2013-evening\02.AngryFemaleGPS\bin\Debug\02.AngryFemaleGPS.pdb
-D:\Programming\CSharp-Basics-Course-May\Exam preparation\Telerik Academy exams\Exam05.12.2013-evening\02.AngryFemaleGPS\obj\Debug\02.AngryFemaleGPS.csprojResolveAssemblyReference.cache
-D:\Programming\CSharp-Basics-Course-May\Exam preparation\Telerik Academy exams\Exam05.12.2013-evening\02.AngryFemaleGPS\obj\Debug\02.AngryFemaleGPS.exe
-D:\Programming\CSharp-Basics-Course-May\Exam preparation\Telerik Academy exams\Exam05.12.2013-evening\02.AngryFemaleGPS\obj\Debug\02.AngryFemaleGPS.pdb

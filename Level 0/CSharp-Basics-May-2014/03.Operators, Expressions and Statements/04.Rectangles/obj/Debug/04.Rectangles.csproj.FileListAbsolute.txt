@@ -1,4 +1,0 @@
-D:\My Documents\Preslav Mihaylov !\Programming\CSharp-Basics-Course-May\03.Operators, Expressions and Statements\04.Rectangles\bin\Debug\04.Rectangles.exe
-D:\My Documents\Preslav Mihaylov !\Programming\CSharp-Basics-Course-May\03.Operators, Expressions and Statements\04.Rectangles\bin\Debug\04.Rectangles.pdb
-D:\My Documents\Preslav Mihaylov !\Programming\CSharp-Basics-Course-May\03.Operators, Expressions and Statements\04.Rectangles\obj\Debug\04.Rectangles.exe
-D:\My Documents\Preslav Mihaylov !\Programming\CSharp-Basics-Course-May\03.Operators, Expressions and Statements\04.Rectangles\obj\Debug\04.Rectangles.pdb

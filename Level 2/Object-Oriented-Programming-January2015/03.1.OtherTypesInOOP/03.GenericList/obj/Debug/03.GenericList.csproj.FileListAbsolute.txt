@@ -1,5 +1,0 @@
-D:\Programming\Software-University-Courses\Object-Oriented-Programming-January2015\03.1.OtherTypesInOOP\03.GenericList\obj\Debug\03.GenericList.csprojResolveAssemblyReference.cache
-D:\Programming\Software-University-Courses\Object-Oriented-Programming-January2015\03.1.OtherTypesInOOP\03.GenericList\bin\Debug\03.GenericList.exe
-D:\Programming\Software-University-Courses\Object-Oriented-Programming-January2015\03.1.OtherTypesInOOP\03.GenericList\bin\Debug\03.GenericList.pdb
-D:\Programming\Software-University-Courses\Object-Oriented-Programming-January2015\03.1.OtherTypesInOOP\03.GenericList\obj\Debug\03.GenericList.exe
-D:\Programming\Software-University-Courses\Object-Oriented-Programming-January2015\03.1.OtherTypesInOOP\03.GenericList\obj\Debug\03.GenericList.pdb

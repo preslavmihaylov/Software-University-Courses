@@ -1,4 +1,0 @@
-D:\Programming\Software University Courses\CSharp-2-Telerik-Academy\05.ClassesAndObjects\03.DayOfTheWeek\bin\Debug\03.DayOfTheWeek.exe
-D:\Programming\Software University Courses\CSharp-2-Telerik-Academy\05.ClassesAndObjects\03.DayOfTheWeek\bin\Debug\03.DayOfTheWeek.pdb
-D:\Programming\Software University Courses\CSharp-2-Telerik-Academy\05.ClassesAndObjects\03.DayOfTheWeek\obj\Debug\03.DayOfTheWeek.exe
-D:\Programming\Software University Courses\CSharp-2-Telerik-Academy\05.ClassesAndObjects\03.DayOfTheWeek\obj\Debug\03.DayOfTheWeek.pdb

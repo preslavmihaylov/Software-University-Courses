@@ -1,4 +1,0 @@
-D:\Programming\Software University Courses\CSharp-2-Telerik-Academy\01.Arrays\02.CompareArrays\bin\Debug\02.CompareArrays.exe
-D:\Programming\Software University Courses\CSharp-2-Telerik-Academy\01.Arrays\02.CompareArrays\bin\Debug\02.CompareArrays.pdb
-D:\Programming\Software University Courses\CSharp-2-Telerik-Academy\01.Arrays\02.CompareArrays\obj\Debug\02.CompareArrays.exe
-D:\Programming\Software University Courses\CSharp-2-Telerik-Academy\01.Arrays\02.CompareArrays\obj\Debug\02.CompareArrays.pdb

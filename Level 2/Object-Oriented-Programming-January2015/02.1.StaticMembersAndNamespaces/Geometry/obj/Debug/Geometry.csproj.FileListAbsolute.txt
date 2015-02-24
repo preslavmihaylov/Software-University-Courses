@@ -1,5 +1,0 @@
-D:\Programming\Software-University-Courses\Object-Oriented-Programming-January2015\02.1.StaticMembersAndNamespaces\Geometry\bin\Debug\Geometry.exe.config
-D:\Programming\Software-University-Courses\Object-Oriented-Programming-January2015\02.1.StaticMembersAndNamespaces\Geometry\bin\Debug\Geometry.exe
-D:\Programming\Software-University-Courses\Object-Oriented-Programming-January2015\02.1.StaticMembersAndNamespaces\Geometry\bin\Debug\Geometry.pdb
-D:\Programming\Software-University-Courses\Object-Oriented-Programming-January2015\02.1.StaticMembersAndNamespaces\Geometry\obj\Debug\Geometry.exe
-D:\Programming\Software-University-Courses\Object-Oriented-Programming-January2015\02.1.StaticMembersAndNamespaces\Geometry\obj\Debug\Geometry.pdb

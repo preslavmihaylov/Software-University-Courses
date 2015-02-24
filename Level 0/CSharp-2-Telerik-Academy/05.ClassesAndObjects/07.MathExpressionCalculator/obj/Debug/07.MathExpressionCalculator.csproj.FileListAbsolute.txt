@@ -1,5 +1,0 @@
-D:\Programming\Software University Courses\CSharp-2-Telerik-Academy\05.ClassesAndObjects\07.MathExpressionCalculator\bin\Debug\07.MathExpressionCalculator.exe
-D:\Programming\Software University Courses\CSharp-2-Telerik-Academy\05.ClassesAndObjects\07.MathExpressionCalculator\bin\Debug\07.MathExpressionCalculator.pdb
-D:\Programming\Software University Courses\CSharp-2-Telerik-Academy\05.ClassesAndObjects\07.MathExpressionCalculator\obj\Debug\07.MathExpressionCalculator.csprojResolveAssemblyReference.cache
-D:\Programming\Software University Courses\CSharp-2-Telerik-Academy\05.ClassesAndObjects\07.MathExpressionCalculator\obj\Debug\07.MathExpressionCalculator.exe
-D:\Programming\Software University Courses\CSharp-2-Telerik-Academy\05.ClassesAndObjects\07.MathExpressionCalculator\obj\Debug\07.MathExpressionCalculator.pdb

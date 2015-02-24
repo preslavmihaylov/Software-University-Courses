@@ -1,5 +1,0 @@
-D:\My Documents\Preslav Mihaylov !\Programming\CSharp-Basics-Course-May\Exam preparation\Exam11april-evening\Exam11april-evening\02.Illuminati\obj\Debug\02.Illuminati.csprojResolveAssemblyReference.cache
-D:\My Documents\Preslav Mihaylov !\Programming\CSharp-Basics-Course-May\Exam preparation\Exam11april-evening\Exam11april-evening\02.Illuminati\bin\Debug\02.Illuminati.exe
-D:\My Documents\Preslav Mihaylov !\Programming\CSharp-Basics-Course-May\Exam preparation\Exam11april-evening\Exam11april-evening\02.Illuminati\bin\Debug\02.Illuminati.pdb
-D:\My Documents\Preslav Mihaylov !\Programming\CSharp-Basics-Course-May\Exam preparation\Exam11april-evening\Exam11april-evening\02.Illuminati\obj\Debug\02.Illuminati.exe
-D:\My Documents\Preslav Mihaylov !\Programming\CSharp-Basics-Course-May\Exam preparation\Exam11april-evening\Exam11april-evening\02.Illuminati\obj\Debug\02.Illuminati.pdb

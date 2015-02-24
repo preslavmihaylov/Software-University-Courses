@@ -1,5 +1,0 @@
-D:\Programming\Software-University-Courses\Object-Oriented-Programming-January2015\04.FunctionalProgramming\02.CustomLinqExtensionMethods\bin\Debug\02.CustomLinqExtensionMethods.exe
-D:\Programming\Software-University-Courses\Object-Oriented-Programming-January2015\04.FunctionalProgramming\02.CustomLinqExtensionMethods\bin\Debug\02.CustomLinqExtensionMethods.pdb
-D:\Programming\Software-University-Courses\Object-Oriented-Programming-January2015\04.FunctionalProgramming\02.CustomLinqExtensionMethods\obj\Debug\02.CustomLinqExtensionMethods.exe
-D:\Programming\Software-University-Courses\Object-Oriented-Programming-January2015\04.FunctionalProgramming\02.CustomLinqExtensionMethods\obj\Debug\02.CustomLinqExtensionMethods.pdb
-D:\Programming\Software-University-Courses\Object-Oriented-Programming-January2015\04.FunctionalProgramming\02.CustomLinqExtensionMethods\obj\Debug\02.CustomLinqExtensionMethods.csprojResolveAssemblyReference.cache

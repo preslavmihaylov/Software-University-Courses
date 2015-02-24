@@ -1,4 +1,0 @@
-D:\My Documents\Preslav Mihaylov !\Programming\CSharp-Basics-Course-May\03.Operators, Expressions and Statements\16.BitExchangeAdvanced\bin\Debug\16.BitExchangeAdvanced.exe
-D:\My Documents\Preslav Mihaylov !\Programming\CSharp-Basics-Course-May\03.Operators, Expressions and Statements\16.BitExchangeAdvanced\bin\Debug\16.BitExchangeAdvanced.pdb
-D:\My Documents\Preslav Mihaylov !\Programming\CSharp-Basics-Course-May\03.Operators, Expressions and Statements\16.BitExchangeAdvanced\obj\Debug\16.BitExchangeAdvanced.exe
-D:\My Documents\Preslav Mihaylov !\Programming\CSharp-Basics-Course-May\03.Operators, Expressions and Statements\16.BitExchangeAdvanced\obj\Debug\16.BitExchangeAdvanced.pdb

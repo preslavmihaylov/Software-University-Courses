@@ -1,4 +1,0 @@
-D:\My Documents\Preslav Mihaylov !\Programming\CSharp-Basics-Course-May\06.Loops\05.CalculateFactorialFormula\bin\Debug\05.CalculateFactorialFormula.exe
-D:\My Documents\Preslav Mihaylov !\Programming\CSharp-Basics-Course-May\06.Loops\05.CalculateFactorialFormula\bin\Debug\05.CalculateFactorialFormula.pdb
-D:\My Documents\Preslav Mihaylov !\Programming\CSharp-Basics-Course-May\06.Loops\05.CalculateFactorialFormula\obj\Debug\05.CalculateFactorialFormula.exe
-D:\My Documents\Preslav Mihaylov !\Programming\CSharp-Basics-Course-May\06.Loops\05.CalculateFactorialFormula\obj\Debug\05.CalculateFactorialFormula.pdb

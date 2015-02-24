@@ -1,6 +1,0 @@
-D:\Programming\Software-University-Courses\Object-Oriented-Programming-January2015\06.EncapsulationAndPolymorphism\01.Shapes\bin\Debug\01.Shapes.exe.config
-D:\Programming\Software-University-Courses\Object-Oriented-Programming-January2015\06.EncapsulationAndPolymorphism\01.Shapes\obj\Debug\01.Shapes.csprojResolveAssemblyReference.cache
-D:\Programming\Software-University-Courses\Object-Oriented-Programming-January2015\06.EncapsulationAndPolymorphism\01.Shapes\bin\Debug\01.Shapes.exe
-D:\Programming\Software-University-Courses\Object-Oriented-Programming-January2015\06.EncapsulationAndPolymorphism\01.Shapes\bin\Debug\01.Shapes.pdb
-D:\Programming\Software-University-Courses\Object-Oriented-Programming-January2015\06.EncapsulationAndPolymorphism\01.Shapes\obj\Debug\01.Shapes.exe
-D:\Programming\Software-University-Courses\Object-Oriented-Programming-January2015\06.EncapsulationAndPolymorphism\01.Shapes\obj\Debug\01.Shapes.pdb

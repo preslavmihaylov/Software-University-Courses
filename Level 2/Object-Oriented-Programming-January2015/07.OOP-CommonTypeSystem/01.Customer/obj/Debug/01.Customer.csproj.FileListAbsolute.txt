@@ -1,5 +1,0 @@
-D:\Programming\Software-University-Courses\Level 2\Object-Oriented-Programming-January2015\07.OOP-CommonTypeSystem\01.Customer\obj\Debug\01.Customer.csprojResolveAssemblyReference.cache
-D:\Programming\Software-University-Courses\Level 2\Object-Oriented-Programming-January2015\07.OOP-CommonTypeSystem\01.Customer\bin\Debug\01.Customer.exe
-D:\Programming\Software-University-Courses\Level 2\Object-Oriented-Programming-January2015\07.OOP-CommonTypeSystem\01.Customer\bin\Debug\01.Customer.pdb
-D:\Programming\Software-University-Courses\Level 2\Object-Oriented-Programming-January2015\07.OOP-CommonTypeSystem\01.Customer\obj\Debug\01.Customer.exe
-D:\Programming\Software-University-Courses\Level 2\Object-Oriented-Programming-January2015\07.OOP-CommonTypeSystem\01.Customer\obj\Debug\01.Customer.pdb

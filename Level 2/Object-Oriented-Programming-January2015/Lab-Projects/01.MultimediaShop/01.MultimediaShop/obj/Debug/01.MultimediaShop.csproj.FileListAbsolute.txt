@@ -1,9 +1,0 @@
-D:\Programming\Software-University-Courses\Object-Oriented-Programming-January2015\Lab-Projects\01.OOP-Lab-Structure\01.MultimediaShop\bin\Debug\01.MultimediaShop.exe.config
-D:\Programming\Software-University-Courses\Object-Oriented-Programming-January2015\Lab-Projects\01.OOP-Lab-Structure\01.MultimediaShop\obj\Debug\01.MultimediaShop.csprojResolveAssemblyReference.cache
-D:\Programming\Software-University-Courses\Object-Oriented-Programming-January2015\Lab-Projects\01.OOP-Lab-Structure\01.MultimediaShop\bin\Debug\01.MultimediaShop.exe
-D:\Programming\Software-University-Courses\Object-Oriented-Programming-January2015\Lab-Projects\01.OOP-Lab-Structure\01.MultimediaShop\bin\Debug\01.MultimediaShop.pdb
-D:\Programming\Software-University-Courses\Object-Oriented-Programming-January2015\Lab-Projects\01.OOP-Lab-Structure\01.MultimediaShop\obj\Debug\01.MultimediaShop.exe
-D:\Programming\Software-University-Courses\Object-Oriented-Programming-January2015\Lab-Projects\01.OOP-Lab-Structure\01.MultimediaShop\obj\Debug\01.MultimediaShop.pdb
-D:\Programming\Software-University-Courses\Object-Oriented-Programming-January2015\Lab-Projects\01.MultimediaShop\01.MultimediaShop\bin\Debug\01.MultimediaShop.exe.config
-D:\Programming\Software-University-Courses\Object-Oriented-Programming-January2015\Lab-Projects\01.MultimediaShop\01.MultimediaShop\obj\Debug\01.MultimediaShop.exe
-D:\Programming\Software-University-Courses\Object-Oriented-Programming-January2015\Lab-Projects\01.MultimediaShop\01.MultimediaShop\obj\Debug\01.MultimediaShop.pdb

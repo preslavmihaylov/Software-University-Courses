@@ -1,5 +1,0 @@
-D:\Trash\C#\obj\Debug\StringExtensions.csprojResolveAssemblyReference.cache
-D:\Trash\C#\bin\Debug\StringExtensions.dll
-D:\Trash\C#\bin\Debug\StringExtensions.pdb
-D:\Trash\C#\obj\Debug\StringExtensions.dll
-D:\Trash\C#\obj\Debug\StringExtensions.pdb

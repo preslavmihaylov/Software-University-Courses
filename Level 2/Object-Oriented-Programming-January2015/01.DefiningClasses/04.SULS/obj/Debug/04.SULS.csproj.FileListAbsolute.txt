@@ -1,5 +1,0 @@
-D:\Programming\Software-University-Courses\Object-Oriented-Programming-January2015\01.DefiningClasses\04.SULS\obj\Debug\04.SULS.csprojResolveAssemblyReference.cache
-D:\Programming\Software-University-Courses\Object-Oriented-Programming-January2015\01.DefiningClasses\04.SULS\bin\Debug\04.SULS.exe
-D:\Programming\Software-University-Courses\Object-Oriented-Programming-January2015\01.DefiningClasses\04.SULS\bin\Debug\04.SULS.pdb
-D:\Programming\Software-University-Courses\Object-Oriented-Programming-January2015\01.DefiningClasses\04.SULS\obj\Debug\04.SULS.exe
-D:\Programming\Software-University-Courses\Object-Oriented-Programming-January2015\01.DefiningClasses\04.SULS\obj\Debug\04.SULS.pdb

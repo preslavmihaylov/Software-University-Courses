@@ -1,4 +1,0 @@
-D:\Programming\CSharp-Basics-Course-May\Exam preparation\Telerik Academy exams\Exam05.12.2013-evening\04.Eggcelent\bin\Debug\04.Eggcelent.exe
-D:\Programming\CSharp-Basics-Course-May\Exam preparation\Telerik Academy exams\Exam05.12.2013-evening\04.Eggcelent\bin\Debug\04.Eggcelent.pdb
-D:\Programming\CSharp-Basics-Course-May\Exam preparation\Telerik Academy exams\Exam05.12.2013-evening\04.Eggcelent\obj\Debug\04.Eggcelent.exe
-D:\Programming\CSharp-Basics-Course-May\Exam preparation\Telerik Academy exams\Exam05.12.2013-evening\04.Eggcelent\obj\Debug\04.Eggcelent.pdb

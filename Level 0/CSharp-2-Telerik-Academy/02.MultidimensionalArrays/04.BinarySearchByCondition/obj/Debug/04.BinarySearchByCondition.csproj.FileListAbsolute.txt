@@ -1,4 +1,0 @@
-D:\Programming\Software University Courses\CSharp-2-Telerik-Academy\02.MultidimensionalArrays\04.BinarySearchByCondition\bin\Debug\04.BinarySearchByCondition.exe
-D:\Programming\Software University Courses\CSharp-2-Telerik-Academy\02.MultidimensionalArrays\04.BinarySearchByCondition\bin\Debug\04.BinarySearchByCondition.pdb
-D:\Programming\Software University Courses\CSharp-2-Telerik-Academy\02.MultidimensionalArrays\04.BinarySearchByCondition\obj\Debug\04.BinarySearchByCondition.exe
-D:\Programming\Software University Courses\CSharp-2-Telerik-Academy\02.MultidimensionalArrays\04.BinarySearchByCondition\obj\Debug\04.BinarySearchByCondition.pdb

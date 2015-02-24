@@ -1,5 +1,0 @@
-D:\My Documents\Preslav Mihaylov !\Programming\CSharp-Basics-Course-May\Exam preparation\Exam11april-evening\Exam11april-evening\05.CatchTheBits\bin\Debug\05.CatchTheBits.exe
-D:\My Documents\Preslav Mihaylov !\Programming\CSharp-Basics-Course-May\Exam preparation\Exam11april-evening\Exam11april-evening\05.CatchTheBits\bin\Debug\05.CatchTheBits.pdb
-D:\My Documents\Preslav Mihaylov !\Programming\CSharp-Basics-Course-May\Exam preparation\Exam11april-evening\Exam11april-evening\05.CatchTheBits\obj\Debug\05.CatchTheBits.csprojResolveAssemblyReference.cache
-D:\My Documents\Preslav Mihaylov !\Programming\CSharp-Basics-Course-May\Exam preparation\Exam11april-evening\Exam11april-evening\05.CatchTheBits\obj\Debug\05.CatchTheBits.exe
-D:\My Documents\Preslav Mihaylov !\Programming\CSharp-Basics-Course-May\Exam preparation\Exam11april-evening\Exam11april-evening\05.CatchTheBits\obj\Debug\05.CatchTheBits.pdb

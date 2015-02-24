@@ -1,4 +1,0 @@
-D:\My Documents\Preslav Mihaylov !\Programming\CSharp-Basics-Course-May\07.AdvancedTopics\12.CountOfNames\bin\Debug\12.CountOfNames.exe
-D:\My Documents\Preslav Mihaylov !\Programming\CSharp-Basics-Course-May\07.AdvancedTopics\12.CountOfNames\bin\Debug\12.CountOfNames.pdb
-D:\My Documents\Preslav Mihaylov !\Programming\CSharp-Basics-Course-May\07.AdvancedTopics\12.CountOfNames\obj\Debug\12.CountOfNames.exe
-D:\My Documents\Preslav Mihaylov !\Programming\CSharp-Basics-Course-May\07.AdvancedTopics\12.CountOfNames\obj\Debug\12.CountOfNames.pdb

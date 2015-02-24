@@ -1,5 +1,0 @@
-D:\My Documents\Preslav Mihaylov !\Programming\CSharp-Basics-Course-May\04.ConsoleInputOutput\01.SumOf3Numbers\bin\Debug\01.SumOf3Numbers.exe
-D:\My Documents\Preslav Mihaylov !\Programming\CSharp-Basics-Course-May\04.ConsoleInputOutput\01.SumOf3Numbers\bin\Debug\01.SumOf3Numbers.pdb
-D:\My Documents\Preslav Mihaylov !\Programming\CSharp-Basics-Course-May\04.ConsoleInputOutput\01.SumOf3Numbers\obj\Debug\01.SumOf3Numbers.csprojResolveAssemblyReference.cache
-D:\My Documents\Preslav Mihaylov !\Programming\CSharp-Basics-Course-May\04.ConsoleInputOutput\01.SumOf3Numbers\obj\Debug\01.SumOf3Numbers.exe
-D:\My Documents\Preslav Mihaylov !\Programming\CSharp-Basics-Course-May\04.ConsoleInputOutput\01.SumOf3Numbers\obj\Debug\01.SumOf3Numbers.pdb

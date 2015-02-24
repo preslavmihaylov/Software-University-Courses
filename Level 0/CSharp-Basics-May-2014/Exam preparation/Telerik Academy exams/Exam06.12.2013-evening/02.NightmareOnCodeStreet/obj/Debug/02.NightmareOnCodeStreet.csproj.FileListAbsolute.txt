@@ -1,5 +1,0 @@
-D:\Programming\CSharp-Basics-Course-May\Exam preparation\Telerik Academy exams\Exam06.12.2013-evening\02.NightmareOnCodeStreet\bin\Debug\02.NightmareOnCodeStreet.exe
-D:\Programming\CSharp-Basics-Course-May\Exam preparation\Telerik Academy exams\Exam06.12.2013-evening\02.NightmareOnCodeStreet\bin\Debug\02.NightmareOnCodeStreet.pdb
-D:\Programming\CSharp-Basics-Course-May\Exam preparation\Telerik Academy exams\Exam06.12.2013-evening\02.NightmareOnCodeStreet\obj\Debug\02.NightmareOnCodeStreet.exe
-D:\Programming\CSharp-Basics-Course-May\Exam preparation\Telerik Academy exams\Exam06.12.2013-evening\02.NightmareOnCodeStreet\obj\Debug\02.NightmareOnCodeStreet.pdb
-D:\Programming\CSharp-Basics-Course-May\Exam preparation\Telerik Academy exams\Exam06.12.2013-evening\02.NightmareOnCodeStreet\obj\Debug\02.NightmareOnCodeStreet.csprojResolveAssemblyReference.cache

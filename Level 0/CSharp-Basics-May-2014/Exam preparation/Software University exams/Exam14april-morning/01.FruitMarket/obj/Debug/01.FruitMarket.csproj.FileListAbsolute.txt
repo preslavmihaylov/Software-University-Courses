@@ -1,7 +1,0 @@
-D:\My Documents\Preslav Mihaylov !\Programming\CSharp-Basics-Course-May\Exam preparation\Exam14april-morning\01.FruitMarket\bin\Debug\01.FruitMarket.exe
-D:\My Documents\Preslav Mihaylov !\Programming\CSharp-Basics-Course-May\Exam preparation\Exam14april-morning\01.FruitMarket\bin\Debug\01.FruitMarket.pdb
-D:\My Documents\Preslav Mihaylov !\Programming\CSharp-Basics-Course-May\Exam preparation\Exam14april-morning\01.FruitMarket\obj\Debug\01.FruitMarket.csprojResolveAssemblyReference.cache
-D:\My Documents\Preslav Mihaylov !\Programming\CSharp-Basics-Course-May\Exam preparation\Exam14april-morning\01.FruitMarket\obj\Debug\01.FruitMarket.exe
-D:\My Documents\Preslav Mihaylov !\Programming\CSharp-Basics-Course-May\Exam preparation\Exam14april-morning\01.FruitMarket\obj\Debug\01.FruitMarket.pdb
-D:\Programming\CSharp-Basics-Course-May\Exam preparation\Software University exams\Exam14april-morning\01.FruitMarket\obj\Debug\01.FruitMarket.exe
-D:\Programming\CSharp-Basics-Course-May\Exam preparation\Software University exams\Exam14april-morning\01.FruitMarket\obj\Debug\01.FruitMarket.pdb

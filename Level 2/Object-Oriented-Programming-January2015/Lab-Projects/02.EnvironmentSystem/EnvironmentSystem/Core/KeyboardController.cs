@@ -8,7 +8,7 @@ using System.Threading.Tasks;
 
 namespace EnvironmentSystem.Core
 {
-    class KeyboardController : IController
+    public class KeyboardController : IController
     {
         public event EventHandler Pause;
 

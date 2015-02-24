@@ -1,4 +1,0 @@
-D:\Programming\Software University Courses\CSharp-2-Telerik-Academy\01.Arrays\10.FindSequenceOfGivenSum\bin\Debug\10.FindSequenceOfGivenSum.exe
-D:\Programming\Software University Courses\CSharp-2-Telerik-Academy\01.Arrays\10.FindSequenceOfGivenSum\bin\Debug\10.FindSequenceOfGivenSum.pdb
-D:\Programming\Software University Courses\CSharp-2-Telerik-Academy\01.Arrays\10.FindSequenceOfGivenSum\obj\Debug\10.FindSequenceOfGivenSum.exe
-D:\Programming\Software University Courses\CSharp-2-Telerik-Academy\01.Arrays\10.FindSequenceOfGivenSum\obj\Debug\10.FindSequenceOfGivenSum.pdb

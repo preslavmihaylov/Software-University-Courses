@@ -1,5 +1,0 @@
-D:\My Documents\Preslav Mihaylov !\Programming\CSharp-Basics-Course-May\01.Introduction to programming\15.AgeAfter10Years\bin\Debug\15.AgeAfter10Years.exe
-D:\My Documents\Preslav Mihaylov !\Programming\CSharp-Basics-Course-May\01.Introduction to programming\15.AgeAfter10Years\bin\Debug\15.AgeAfter10Years.pdb
-D:\My Documents\Preslav Mihaylov !\Programming\CSharp-Basics-Course-May\01.Introduction to programming\15.AgeAfter10Years\obj\Debug\15.AgeAfter10Years.csprojResolveAssemblyReference.cache
-D:\My Documents\Preslav Mihaylov !\Programming\CSharp-Basics-Course-May\01.Introduction to programming\15.AgeAfter10Years\obj\Debug\15.AgeAfter10Years.exe
-D:\My Documents\Preslav Mihaylov !\Programming\CSharp-Basics-Course-May\01.Introduction to programming\15.AgeAfter10Years\obj\Debug\15.AgeAfter10Years.pdb

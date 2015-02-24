@@ -1,4 +1,0 @@
-D:\Programming\CSharp-Basics-Course-May\Exam\Exam25.07.2014-evening\03.HouseWithWindow\bin\Debug\03.HouseWithWindow.exe
-D:\Programming\CSharp-Basics-Course-May\Exam\Exam25.07.2014-evening\03.HouseWithWindow\bin\Debug\03.HouseWithWindow.pdb
-D:\Programming\CSharp-Basics-Course-May\Exam\Exam25.07.2014-evening\03.HouseWithWindow\obj\Debug\03.HouseWithWindow.exe
-D:\Programming\CSharp-Basics-Course-May\Exam\Exam25.07.2014-evening\03.HouseWithWindow\obj\Debug\03.HouseWithWindow.pdb

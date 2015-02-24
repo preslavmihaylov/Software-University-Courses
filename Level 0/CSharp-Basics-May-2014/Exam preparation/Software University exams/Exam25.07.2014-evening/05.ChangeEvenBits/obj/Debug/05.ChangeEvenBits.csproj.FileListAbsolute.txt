@@ -1,4 +1,0 @@
-D:\Programming\CSharp-Basics-Course-May\Exam\Exam25.07.2014-evening\05.ChangeEvenBits\bin\Debug\05.ChangeEvenBits.exe
-D:\Programming\CSharp-Basics-Course-May\Exam\Exam25.07.2014-evening\05.ChangeEvenBits\bin\Debug\05.ChangeEvenBits.pdb
-D:\Programming\CSharp-Basics-Course-May\Exam\Exam25.07.2014-evening\05.ChangeEvenBits\obj\Debug\05.ChangeEvenBits.exe
-D:\Programming\CSharp-Basics-Course-May\Exam\Exam25.07.2014-evening\05.ChangeEvenBits\obj\Debug\05.ChangeEvenBits.pdb

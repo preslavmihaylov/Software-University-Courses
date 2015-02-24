@@ -1,7 +1,0 @@
-D:\My Documents\Preslav Mihaylov !\Programming\CSharp-Basics-Course-May\03.Operators, Expressions and Statements\06FourDigitNumber\bin\Debug\06FourDigitNumber.exe
-D:\My Documents\Preslav Mihaylov !\Programming\CSharp-Basics-Course-May\03.Operators, Expressions and Statements\06FourDigitNumber\bin\Debug\06FourDigitNumber.pdb
-D:\My Documents\Preslav Mihaylov !\Programming\CSharp-Basics-Course-May\03.Operators, Expressions and Statements\06FourDigitNumber\obj\Debug\06FourDigitNumber.exe
-D:\My Documents\Preslav Mihaylov !\Programming\CSharp-Basics-Course-May\03.Operators, Expressions and Statements\06FourDigitNumber\obj\Debug\06FourDigitNumber.pdb
-D:\My Documents\Preslav Mihaylov !\Programming\CSharp-Basics-Course-May\03.Operators, Expressions and Statements\06FourDigitNumber\obj\Debug\06FourDigitNumber.csprojResolveAssemblyReference.cache
-D:\Programming\Repositories\Software-University-Courses\Level 0\CSharp-Basics-May-2014\03.Operators, Expressions and Statements\06FourDigitNumber\obj\Debug\06FourDigitNumber.exe
-D:\Programming\Repositories\Software-University-Courses\Level 0\CSharp-Basics-May-2014\03.Operators, Expressions and Statements\06FourDigitNumber\obj\Debug\06FourDigitNumber.pdb

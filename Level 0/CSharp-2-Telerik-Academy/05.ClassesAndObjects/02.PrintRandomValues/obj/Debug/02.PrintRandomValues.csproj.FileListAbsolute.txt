@@ -1,4 +1,0 @@
-D:\Programming\Software University Courses\CSharp-2-Telerik-Academy\05.ClassesAndObjects\02.PrintRandomValues\bin\Debug\02.PrintRandomValues.exe
-D:\Programming\Software University Courses\CSharp-2-Telerik-Academy\05.ClassesAndObjects\02.PrintRandomValues\bin\Debug\02.PrintRandomValues.pdb
-D:\Programming\Software University Courses\CSharp-2-Telerik-Academy\05.ClassesAndObjects\02.PrintRandomValues\obj\Debug\02.PrintRandomValues.exe
-D:\Programming\Software University Courses\CSharp-2-Telerik-Academy\05.ClassesAndObjects\02.PrintRandomValues\obj\Debug\02.PrintRandomValues.pdb

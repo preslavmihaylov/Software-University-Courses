@@ -1,5 +1,0 @@
-D:\Programming\Software University Courses\CSharp-2-Telerik-Academy\05.ClassesAndObjects\01.IsLeapYearCheck\obj\Debug\01.IsLeapYearCheck.csprojResolveAssemblyReference.cache
-D:\Programming\Software University Courses\CSharp-2-Telerik-Academy\05.ClassesAndObjects\01.IsLeapYearCheck\bin\Debug\01.IsLeapYearCheck.exe
-D:\Programming\Software University Courses\CSharp-2-Telerik-Academy\05.ClassesAndObjects\01.IsLeapYearCheck\bin\Debug\01.IsLeapYearCheck.pdb
-D:\Programming\Software University Courses\CSharp-2-Telerik-Academy\05.ClassesAndObjects\01.IsLeapYearCheck\obj\Debug\01.IsLeapYearCheck.exe
-D:\Programming\Software University Courses\CSharp-2-Telerik-Academy\05.ClassesAndObjects\01.IsLeapYearCheck\obj\Debug\01.IsLeapYearCheck.pdb

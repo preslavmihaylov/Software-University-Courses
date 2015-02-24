@@ -1,5 +1,0 @@
-D:\Programming\Software University Courses\CSharp-2-Telerik-Academy\01.Arrays\15.FindPrimeNumbers\bin\Debug\15.FindPrimeNumbers.exe
-D:\Programming\Software University Courses\CSharp-2-Telerik-Academy\01.Arrays\15.FindPrimeNumbers\bin\Debug\15.FindPrimeNumbers.pdb
-D:\Programming\Software University Courses\CSharp-2-Telerik-Academy\01.Arrays\15.FindPrimeNumbers\obj\Debug\15.FindPrimeNumbers.csprojResolveAssemblyReference.cache
-D:\Programming\Software University Courses\CSharp-2-Telerik-Academy\01.Arrays\15.FindPrimeNumbers\obj\Debug\15.FindPrimeNumbers.exe
-D:\Programming\Software University Courses\CSharp-2-Telerik-Academy\01.Arrays\15.FindPrimeNumbers\obj\Debug\15.FindPrimeNumbers.pdb

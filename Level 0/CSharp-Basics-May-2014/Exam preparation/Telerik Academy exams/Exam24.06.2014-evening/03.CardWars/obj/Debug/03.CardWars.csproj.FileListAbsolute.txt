@@ -1,5 +1,0 @@
-D:\Programming\CSharp-Basics-Course-May\Exam preparation\Telerik Academy exams\Exam24.06.2014-evening\03.CardWars\bin\Debug\03.CardWars.exe
-D:\Programming\CSharp-Basics-Course-May\Exam preparation\Telerik Academy exams\Exam24.06.2014-evening\03.CardWars\bin\Debug\03.CardWars.pdb
-D:\Programming\CSharp-Basics-Course-May\Exam preparation\Telerik Academy exams\Exam24.06.2014-evening\03.CardWars\obj\Debug\03.CardWars.csprojResolveAssemblyReference.cache
-D:\Programming\CSharp-Basics-Course-May\Exam preparation\Telerik Academy exams\Exam24.06.2014-evening\03.CardWars\obj\Debug\03.CardWars.exe
-D:\Programming\CSharp-Basics-Course-May\Exam preparation\Telerik Academy exams\Exam24.06.2014-evening\03.CardWars\obj\Debug\03.CardWars.pdb

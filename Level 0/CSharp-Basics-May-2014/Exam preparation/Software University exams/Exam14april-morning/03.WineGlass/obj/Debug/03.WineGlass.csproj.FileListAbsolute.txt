@@ -1,7 +1,0 @@
-D:\My Documents\Preslav Mihaylov !\Programming\CSharp-Basics-Course-May\Exam preparation\Exam14april-morning\03.WineGlass\bin\Debug\03.WineGlass.exe
-D:\My Documents\Preslav Mihaylov !\Programming\CSharp-Basics-Course-May\Exam preparation\Exam14april-morning\03.WineGlass\bin\Debug\03.WineGlass.pdb
-D:\My Documents\Preslav Mihaylov !\Programming\CSharp-Basics-Course-May\Exam preparation\Exam14april-morning\03.WineGlass\obj\Debug\03.WineGlass.csprojResolveAssemblyReference.cache
-D:\My Documents\Preslav Mihaylov !\Programming\CSharp-Basics-Course-May\Exam preparation\Exam14april-morning\03.WineGlass\obj\Debug\03.WineGlass.exe
-D:\My Documents\Preslav Mihaylov !\Programming\CSharp-Basics-Course-May\Exam preparation\Exam14april-morning\03.WineGlass\obj\Debug\03.WineGlass.pdb
-D:\Programming\CSharp-Basics-Course-May\Exam preparation\Software University exams\Exam14april-morning\03.WineGlass\obj\Debug\03.WineGlass.exe
-D:\Programming\CSharp-Basics-Course-May\Exam preparation\Software University exams\Exam14april-morning\03.WineGlass\obj\Debug\03.WineGlass.pdb

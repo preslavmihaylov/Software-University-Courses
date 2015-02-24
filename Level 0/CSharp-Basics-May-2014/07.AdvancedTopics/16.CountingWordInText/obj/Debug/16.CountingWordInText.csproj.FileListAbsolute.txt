@@ -1,5 +1,0 @@
-D:\My Documents\Preslav Mihaylov !\Programming\CSharp-Basics-Course-May\07.AdvancedTopics\16.CountingWordInText\bin\Debug\16.CountingWordInText.exe
-D:\My Documents\Preslav Mihaylov !\Programming\CSharp-Basics-Course-May\07.AdvancedTopics\16.CountingWordInText\bin\Debug\16.CountingWordInText.pdb
-D:\My Documents\Preslav Mihaylov !\Programming\CSharp-Basics-Course-May\07.AdvancedTopics\16.CountingWordInText\obj\Debug\16.CountingWordInText.exe
-D:\My Documents\Preslav Mihaylov !\Programming\CSharp-Basics-Course-May\07.AdvancedTopics\16.CountingWordInText\obj\Debug\16.CountingWordInText.pdb
-D:\My Documents\Preslav Mihaylov !\Programming\CSharp-Basics-Course-May\07.AdvancedTopics\16.CountingWordInText\obj\Debug\16.CountingWordInText.csprojResolveAssemblyReference.cache

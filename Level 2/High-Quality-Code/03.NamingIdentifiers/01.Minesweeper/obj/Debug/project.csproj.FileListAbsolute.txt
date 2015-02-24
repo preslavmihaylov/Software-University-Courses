@@ -1,5 +1,0 @@
-D:\Programming\Software-University-Courses\Level 2\High-Quality-Code\03.NamingIdentifiers\C#\Mini4ki\bin\Debug\Minesweeper.exe
-D:\Programming\Software-University-Courses\Level 2\High-Quality-Code\03.NamingIdentifiers\C#\Mini4ki\bin\Debug\Minesweeper.pdb
-D:\Programming\Software-University-Courses\Level 2\High-Quality-Code\03.NamingIdentifiers\C#\Mini4ki\obj\Debug\project.csprojResolveAssemblyReference.cache
-D:\Programming\Software-University-Courses\Level 2\High-Quality-Code\03.NamingIdentifiers\C#\Mini4ki\obj\Debug\Minesweeper.exe
-D:\Programming\Software-University-Courses\Level 2\High-Quality-Code\03.NamingIdentifiers\C#\Mini4ki\obj\Debug\Minesweeper.pdb

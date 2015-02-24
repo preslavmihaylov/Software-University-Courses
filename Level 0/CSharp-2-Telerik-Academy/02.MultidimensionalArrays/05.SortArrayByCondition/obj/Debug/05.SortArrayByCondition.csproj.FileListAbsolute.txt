@@ -1,4 +1,0 @@
-D:\Programming\Software University Courses\CSharp-2-Telerik-Academy\02.MultidimensionalArrays\05.SortArrayByCondition\bin\Debug\05.SortArrayByCondition.exe
-D:\Programming\Software University Courses\CSharp-2-Telerik-Academy\02.MultidimensionalArrays\05.SortArrayByCondition\bin\Debug\05.SortArrayByCondition.pdb
-D:\Programming\Software University Courses\CSharp-2-Telerik-Academy\02.MultidimensionalArrays\05.SortArrayByCondition\obj\Debug\05.SortArrayByCondition.exe
-D:\Programming\Software University Courses\CSharp-2-Telerik-Academy\02.MultidimensionalArrays\05.SortArrayByCondition\obj\Debug\05.SortArrayByCondition.pdb

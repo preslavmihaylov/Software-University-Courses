@@ -1,5 +1,0 @@
-D:\Programming\Software-University-Courses\Object-Oriented-Programming-January2015\06.EncapsulationAndPolymorphism\03.GameEngine\bin\Debug\TheSlum.exe
-D:\Programming\Software-University-Courses\Object-Oriented-Programming-January2015\06.EncapsulationAndPolymorphism\03.GameEngine\bin\Debug\TheSlum.pdb
-D:\Programming\Software-University-Courses\Object-Oriented-Programming-January2015\06.EncapsulationAndPolymorphism\03.GameEngine\obj\Debug\03.GameEngine.csprojResolveAssemblyReference.cache
-D:\Programming\Software-University-Courses\Object-Oriented-Programming-January2015\06.EncapsulationAndPolymorphism\03.GameEngine\obj\Debug\TheSlum.exe
-D:\Programming\Software-University-Courses\Object-Oriented-Programming-January2015\06.EncapsulationAndPolymorphism\03.GameEngine\obj\Debug\TheSlum.pdb

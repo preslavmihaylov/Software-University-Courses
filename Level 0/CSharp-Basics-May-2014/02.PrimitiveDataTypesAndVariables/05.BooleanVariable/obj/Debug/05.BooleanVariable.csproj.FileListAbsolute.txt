@@ -1,4 +1,0 @@
-D:\My Documents\Preslav Mihaylov !\Programming\CSharp-Basics-Course-May\02.PrimitiveDataTypesAndVariables\05.BooleanVariable\bin\Debug\05.BooleanVariable.exe
-D:\My Documents\Preslav Mihaylov !\Programming\CSharp-Basics-Course-May\02.PrimitiveDataTypesAndVariables\05.BooleanVariable\bin\Debug\05.BooleanVariable.pdb
-D:\My Documents\Preslav Mihaylov !\Programming\CSharp-Basics-Course-May\02.PrimitiveDataTypesAndVariables\05.BooleanVariable\obj\Debug\05.BooleanVariable.exe
-D:\My Documents\Preslav Mihaylov !\Programming\CSharp-Basics-Course-May\02.PrimitiveDataTypesAndVariables\05.BooleanVariable\obj\Debug\05.BooleanVariable.pdb

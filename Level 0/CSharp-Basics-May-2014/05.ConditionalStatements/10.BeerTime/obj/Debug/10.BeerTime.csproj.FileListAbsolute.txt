@@ -1,4 +1,0 @@
-D:\My Documents\Preslav Mihaylov !\Programming\CSharp-Basics-Course-May\05.ConditionalStatements\10.BeerTime\bin\Debug\10.BeerTime.exe
-D:\My Documents\Preslav Mihaylov !\Programming\CSharp-Basics-Course-May\05.ConditionalStatements\10.BeerTime\bin\Debug\10.BeerTime.pdb
-D:\My Documents\Preslav Mihaylov !\Programming\CSharp-Basics-Course-May\05.ConditionalStatements\10.BeerTime\obj\Debug\10.BeerTime.exe
-D:\My Documents\Preslav Mihaylov !\Programming\CSharp-Basics-Course-May\05.ConditionalStatements\10.BeerTime\obj\Debug\10.BeerTime.pdb

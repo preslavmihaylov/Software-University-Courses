@@ -1,4 +1,0 @@
-D:\My Documents\Preslav Mihaylov !\Programming\CSharp-Basics-Course-May\04.ConsoleInputOutput\02.PrintCompanyInfo\bin\Debug\02.PrintCompanyInfo.exe
-D:\My Documents\Preslav Mihaylov !\Programming\CSharp-Basics-Course-May\04.ConsoleInputOutput\02.PrintCompanyInfo\bin\Debug\02.PrintCompanyInfo.pdb
-D:\My Documents\Preslav Mihaylov !\Programming\CSharp-Basics-Course-May\04.ConsoleInputOutput\02.PrintCompanyInfo\obj\Debug\02.PrintCompanyInfo.exe
-D:\My Documents\Preslav Mihaylov !\Programming\CSharp-Basics-Course-May\04.ConsoleInputOutput\02.PrintCompanyInfo\obj\Debug\02.PrintCompanyInfo.pdb

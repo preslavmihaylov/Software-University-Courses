@@ -1,4 +1,0 @@
-D:\My Documents\Preslav Mihaylov !\Programming\CSharp-Basics-Course-May\06.Loops\12.RandomizeNumbers\bin\Debug\12.RandomizeNumbers.exe
-D:\My Documents\Preslav Mihaylov !\Programming\CSharp-Basics-Course-May\06.Loops\12.RandomizeNumbers\bin\Debug\12.RandomizeNumbers.pdb
-D:\My Documents\Preslav Mihaylov !\Programming\CSharp-Basics-Course-May\06.Loops\12.RandomizeNumbers\obj\Debug\12.RandomizeNumbers.exe
-D:\My Documents\Preslav Mihaylov !\Programming\CSharp-Basics-Course-May\06.Loops\12.RandomizeNumbers\obj\Debug\12.RandomizeNumbers.pdb

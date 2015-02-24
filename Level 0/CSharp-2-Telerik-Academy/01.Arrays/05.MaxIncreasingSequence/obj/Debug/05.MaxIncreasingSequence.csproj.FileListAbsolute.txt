@@ -1,4 +1,0 @@
-D:\Programming\Software University Courses\CSharp-2-Telerik-Academy\01.Arrays\05.MaxIncreasingSequence\bin\Debug\05.MaxIncreasingSequence.exe
-D:\Programming\Software University Courses\CSharp-2-Telerik-Academy\01.Arrays\05.MaxIncreasingSequence\bin\Debug\05.MaxIncreasingSequence.pdb
-D:\Programming\Software University Courses\CSharp-2-Telerik-Academy\01.Arrays\05.MaxIncreasingSequence\obj\Debug\05.MaxIncreasingSequence.exe
-D:\Programming\Software University Courses\CSharp-2-Telerik-Academy\01.Arrays\05.MaxIncreasingSequence\obj\Debug\05.MaxIncreasingSequence.pdb

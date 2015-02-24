@@ -1,4 +1,0 @@
-D:\My Documents\Preslav Mihaylov !\Programming\CSharp-Basics-Course-May\02.PrimitiveDataTypesAndVariables\08.IroscelesTriangle\bin\Debug\08.IroscelesTriangle.exe
-D:\My Documents\Preslav Mihaylov !\Programming\CSharp-Basics-Course-May\02.PrimitiveDataTypesAndVariables\08.IroscelesTriangle\bin\Debug\08.IroscelesTriangle.pdb
-D:\My Documents\Preslav Mihaylov !\Programming\CSharp-Basics-Course-May\02.PrimitiveDataTypesAndVariables\08.IroscelesTriangle\obj\Debug\08.IroscelesTriangle.exe
-D:\My Documents\Preslav Mihaylov !\Programming\CSharp-Basics-Course-May\02.PrimitiveDataTypesAndVariables\08.IroscelesTriangle\obj\Debug\08.IroscelesTriangle.pdb

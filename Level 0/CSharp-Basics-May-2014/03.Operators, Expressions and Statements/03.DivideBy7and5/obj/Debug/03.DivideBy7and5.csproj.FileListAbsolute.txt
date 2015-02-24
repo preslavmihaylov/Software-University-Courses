@@ -1,4 +1,0 @@
-D:\My Documents\Preslav Mihaylov !\Programming\CSharp-Basics-Course-May\03.Operators, Expressions and Statements\03.DivideBy7and5\bin\Debug\03.DivideBy7and5.exe
-D:\My Documents\Preslav Mihaylov !\Programming\CSharp-Basics-Course-May\03.Operators, Expressions and Statements\03.DivideBy7and5\bin\Debug\03.DivideBy7and5.pdb
-D:\My Documents\Preslav Mihaylov !\Programming\CSharp-Basics-Course-May\03.Operators, Expressions and Statements\03.DivideBy7and5\obj\Debug\03.DivideBy7and5.exe
-D:\My Documents\Preslav Mihaylov !\Programming\CSharp-Basics-Course-May\03.Operators, Expressions and Statements\03.DivideBy7and5\obj\Debug\03.DivideBy7and5.pdb

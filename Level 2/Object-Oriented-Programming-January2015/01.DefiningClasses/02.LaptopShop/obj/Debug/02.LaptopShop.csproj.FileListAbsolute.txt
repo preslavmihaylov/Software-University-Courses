@@ -1,5 +1,0 @@
-D:\Programming\Software-University-Courses\Object-Oriented-Programming-January2015\01.DefiningClasses\02.LaptopShop\bin\Debug\02.LaptopShop.exe
-D:\Programming\Software-University-Courses\Object-Oriented-Programming-January2015\01.DefiningClasses\02.LaptopShop\bin\Debug\02.LaptopShop.pdb
-D:\Programming\Software-University-Courses\Object-Oriented-Programming-January2015\01.DefiningClasses\02.LaptopShop\obj\Debug\02.LaptopShop.exe
-D:\Programming\Software-University-Courses\Object-Oriented-Programming-January2015\01.DefiningClasses\02.LaptopShop\obj\Debug\02.LaptopShop.pdb
-D:\Programming\Software-University-Courses\Object-Oriented-Programming-January2015\01.DefiningClasses\02.LaptopShop\obj\Debug\02.LaptopShop.csprojResolveAssemblyReference.cache

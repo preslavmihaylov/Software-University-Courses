@@ -1,4 +1,0 @@
-D:\My Documents\Preslav Mihaylov !\Programming\CSharp-Basics-Course-May\07.AdvancedTopics\10.JoinLists\bin\Debug\10.JoinLists.exe
-D:\My Documents\Preslav Mihaylov !\Programming\CSharp-Basics-Course-May\07.AdvancedTopics\10.JoinLists\bin\Debug\10.JoinLists.pdb
-D:\My Documents\Preslav Mihaylov !\Programming\CSharp-Basics-Course-May\07.AdvancedTopics\10.JoinLists\obj\Debug\10.JoinLists.exe
-D:\My Documents\Preslav Mihaylov !\Programming\CSharp-Basics-Course-May\07.AdvancedTopics\10.JoinLists\obj\Debug\10.JoinLists.pdb

@@ -1,5 +1,0 @@
-D:\Programming\Software-University-Courses\Object-Oriented-Programming-January2015\03.2.DelegatesAndEvents\03.StudentClass\bin\Debug\03.StudentClass.exe
-D:\Programming\Software-University-Courses\Object-Oriented-Programming-January2015\03.2.DelegatesAndEvents\03.StudentClass\bin\Debug\03.StudentClass.pdb
-D:\Programming\Software-University-Courses\Object-Oriented-Programming-January2015\03.2.DelegatesAndEvents\03.StudentClass\obj\Debug\03.StudentClass.csprojResolveAssemblyReference.cache
-D:\Programming\Software-University-Courses\Object-Oriented-Programming-January2015\03.2.DelegatesAndEvents\03.StudentClass\obj\Debug\03.StudentClass.exe
-D:\Programming\Software-University-Courses\Object-Oriented-Programming-January2015\03.2.DelegatesAndEvents\03.StudentClass\obj\Debug\03.StudentClass.pdb

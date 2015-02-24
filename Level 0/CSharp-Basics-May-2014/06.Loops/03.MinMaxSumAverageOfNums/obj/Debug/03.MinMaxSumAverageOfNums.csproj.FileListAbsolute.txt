@@ -1,4 +1,0 @@
-D:\My Documents\Preslav Mihaylov !\Programming\CSharp-Basics-Course-May\06.Loops\03.MinMaxSumAverageOfNums\bin\Debug\03.MinMaxSumAverageOfNums.exe
-D:\My Documents\Preslav Mihaylov !\Programming\CSharp-Basics-Course-May\06.Loops\03.MinMaxSumAverageOfNums\bin\Debug\03.MinMaxSumAverageOfNums.pdb
-D:\My Documents\Preslav Mihaylov !\Programming\CSharp-Basics-Course-May\06.Loops\03.MinMaxSumAverageOfNums\obj\Debug\03.MinMaxSumAverageOfNums.exe
-D:\My Documents\Preslav Mihaylov !\Programming\CSharp-Basics-Course-May\06.Loops\03.MinMaxSumAverageOfNums\obj\Debug\03.MinMaxSumAverageOfNums.pdb

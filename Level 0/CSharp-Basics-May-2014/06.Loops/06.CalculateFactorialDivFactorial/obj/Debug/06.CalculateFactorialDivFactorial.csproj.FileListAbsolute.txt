@@ -1,4 +1,0 @@
-D:\My Documents\Preslav Mihaylov !\Programming\CSharp-Basics-Course-May\06.Loops\06.CalculateFactorialDivFactorial\bin\Debug\06.CalculateFactorialDivFactorial.exe
-D:\My Documents\Preslav Mihaylov !\Programming\CSharp-Basics-Course-May\06.Loops\06.CalculateFactorialDivFactorial\bin\Debug\06.CalculateFactorialDivFactorial.pdb
-D:\My Documents\Preslav Mihaylov !\Programming\CSharp-Basics-Course-May\06.Loops\06.CalculateFactorialDivFactorial\obj\Debug\06.CalculateFactorialDivFactorial.exe
-D:\My Documents\Preslav Mihaylov !\Programming\CSharp-Basics-Course-May\06.Loops\06.CalculateFactorialDivFactorial\obj\Debug\06.CalculateFactorialDivFactorial.pdb

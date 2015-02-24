@@ -1,5 +1,0 @@
-D:\My Documents\Preslav Mihaylov !\Programming\CSharp-Basics-Course-May\06.Loops\18.TrailingZeroesInFactorial\bin\Debug\18.TrailingZeroesInFactorial.exe
-D:\My Documents\Preslav Mihaylov !\Programming\CSharp-Basics-Course-May\06.Loops\18.TrailingZeroesInFactorial\bin\Debug\18.TrailingZeroesInFactorial.pdb
-D:\My Documents\Preslav Mihaylov !\Programming\CSharp-Basics-Course-May\06.Loops\18.TrailingZeroesInFactorial\obj\Debug\18.TrailingZeroesInFactorial.csprojResolveAssemblyReference.cache
-D:\My Documents\Preslav Mihaylov !\Programming\CSharp-Basics-Course-May\06.Loops\18.TrailingZeroesInFactorial\obj\Debug\18.TrailingZeroesInFactorial.exe
-D:\My Documents\Preslav Mihaylov !\Programming\CSharp-Basics-Course-May\06.Loops\18.TrailingZeroesInFactorial\obj\Debug\18.TrailingZeroesInFactorial.pdb
