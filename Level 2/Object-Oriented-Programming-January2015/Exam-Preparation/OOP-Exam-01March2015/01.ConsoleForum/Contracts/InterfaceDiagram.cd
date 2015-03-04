@@ -1,0 +1,60 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Interface Name="ConsoleForum.Contracts.IAdministrator" Collapsed="true">
+    <Position X="6.75" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Contracts\IAdministrator.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="ConsoleForum.Contracts.IAnswer" Collapsed="true">
+    <Position X="9" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Contracts\IAnswer.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="ConsoleForum.Contracts.ICommand" Collapsed="true">
+    <Position X="9.75" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAAAA=</HashCode>
+      <FileName>Contracts\ICommand.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="ConsoleForum.Contracts.IExecutable" Collapsed="true">
+    <Position X="9.75" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Contracts\IExecutable.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="ConsoleForum.Contracts.IForum" Collapsed="true">
+    <Position X="12.25" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAADCAAIAAAAAAAAAIAAAAAAAAAAAEQAAAEAAAAAI=</HashCode>
+      <FileName>Contracts\IForum.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="ConsoleForum.Contracts.IPost" Collapsed="true">
+    <Position X="8" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAAAAAAAAAAgAABAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Contracts\IPost.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="ConsoleForum.Contracts.IQuestion" Collapsed="true">
+    <Position X="6.75" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAQAAAAAAAAAA=</HashCode>
+      <FileName>Contracts\IQuestion.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="ConsoleForum.Contracts.IUser" Collapsed="true">
+    <Position X="6.75" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAAACAAAAAAAQAAAAAAAAAAAAAGAAAAAAAAAAA=</HashCode>
+      <FileName>Contracts\IUser.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
