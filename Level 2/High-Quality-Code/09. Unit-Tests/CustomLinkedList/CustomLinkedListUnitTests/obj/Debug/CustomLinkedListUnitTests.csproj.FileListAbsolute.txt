@@ -1,0 +1,7 @@
+D:\Trash\09. Unit-Tests-Homework\CustomeLinedList\CustomLinkedListUnitTests\bin\Debug\CustomLinkedListUnitTests.dll
+D:\Trash\09. Unit-Tests-Homework\CustomeLinedList\CustomLinkedListUnitTests\bin\Debug\CustomLinkedListUnitTests.pdb
+D:\Trash\09. Unit-Tests-Homework\CustomeLinedList\CustomLinkedListUnitTests\bin\Debug\CustomLinkedList.dll
+D:\Trash\09. Unit-Tests-Homework\CustomeLinedList\CustomLinkedListUnitTests\bin\Debug\CustomLinkedList.pdb
+D:\Trash\09. Unit-Tests-Homework\CustomeLinedList\CustomLinkedListUnitTests\obj\Debug\CustomLinkedListUnitTests.csprojResolveAssemblyReference.cache
+D:\Trash\09. Unit-Tests-Homework\CustomeLinedList\CustomLinkedListUnitTests\obj\Debug\CustomLinkedListUnitTests.dll
+D:\Trash\09. Unit-Tests-Homework\CustomeLinedList\CustomLinkedListUnitTests\obj\Debug\CustomLinkedListUnitTests.pdb

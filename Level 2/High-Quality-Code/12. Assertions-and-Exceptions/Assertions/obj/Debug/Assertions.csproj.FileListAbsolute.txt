@@ -1,0 +1,5 @@
+D:\Trash\Assertions-and-Exceptions\Assertions\bin\Debug\Assertions-Homework.exe
+D:\Trash\Assertions-and-Exceptions\Assertions\bin\Debug\Assertions-Homework.pdb
+D:\Trash\Assertions-and-Exceptions\Assertions\obj\Debug\Assertions.csprojResolveAssemblyReference.cache
+D:\Trash\Assertions-and-Exceptions\Assertions\obj\Debug\Assertions-Homework.exe
+D:\Trash\Assertions-and-Exceptions\Assertions\obj\Debug\Assertions-Homework.pdb
