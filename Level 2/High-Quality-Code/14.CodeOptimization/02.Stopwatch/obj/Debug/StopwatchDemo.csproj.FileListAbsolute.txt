@@ -1,5 +1,0 @@
-D:\Trash\StopwatchDemo\bin\Debug\StopwatchDemo.exe
-D:\Trash\StopwatchDemo\bin\Debug\StopwatchDemo.pdb
-D:\Trash\StopwatchDemo\obj\Debug\StopwatchDemo.csprojResolveAssemblyReference.cache
-D:\Trash\StopwatchDemo\obj\Debug\StopwatchDemo.exe
-D:\Trash\StopwatchDemo\obj\Debug\StopwatchDemo.pdb

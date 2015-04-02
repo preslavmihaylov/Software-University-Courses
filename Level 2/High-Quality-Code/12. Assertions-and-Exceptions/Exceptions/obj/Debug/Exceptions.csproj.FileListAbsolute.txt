@@ -1,4 +1,0 @@
-D:\Trash\Assertions-and-Exceptions\Exceptions\bin\Debug\Exceptions-Homework.exe
-D:\Trash\Assertions-and-Exceptions\Exceptions\bin\Debug\Exceptions-Homework.pdb
-D:\Trash\Assertions-and-Exceptions\Exceptions\obj\Debug\Exceptions-Homework.exe
-D:\Trash\Assertions-and-Exceptions\Exceptions\obj\Debug\Exceptions-Homework.pdb

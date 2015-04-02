@@ -1,2 +1,0 @@
-D:\Trash\15. Code-Optimization-Homework\02.Stopwatch\obj\Debug\StopwatchDemo.exe
-D:\Trash\15. Code-Optimization-Homework\02.Stopwatch\obj\Debug\StopwatchDemo.pdb
