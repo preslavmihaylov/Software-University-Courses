@@ -1,0 +1,1 @@
+﻿$("<li>Inserted element</li>").insertBefore("#second");
