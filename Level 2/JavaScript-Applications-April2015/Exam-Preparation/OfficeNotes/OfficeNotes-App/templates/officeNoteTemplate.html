@@ -1,0 +1,13 @@
+<ul class="listItems">
+    {{#notes}}
+    <li class="item" data-id="{{id}}">
+        <a href="#">
+            <h2 id="title">{{title}}</h2>
+            <p id="text">{{content}}</p>
+            <div class="author" title="author">{{author}}</div>
+            <div class="deadline" title="deadline">{{deadline}}</div>
+        </a>
+    </li>
+    {{/notes}}
+</ul>
+<div id="pagination"></div>

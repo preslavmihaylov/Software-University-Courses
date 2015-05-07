@@ -1,0 +1,13 @@
+<div class="hover-profile-image">
+    {{#image}}
+    <img class="thumbnail" src="{{url}}"/>
+    {{/image}}
+    {{^image}}
+    <img class="thumbnail"/>
+    {{/image}}
+</div>
+<div class="hover-profile-info">
+    <p class="hover-profile-name">{{name}}</p>
+    <p><strong>Gender:</strong> {{gender}}</p>
+    <p><strong>About me:</strong> {{about}}</p>
+</div>

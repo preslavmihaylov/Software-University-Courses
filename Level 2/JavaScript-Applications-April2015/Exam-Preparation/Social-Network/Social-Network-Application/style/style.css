@@ -1,0 +1,171 @@
+body {
+    font-family: Calibri;
+    font-size: 18px !important;
+    background-image: url('../imgs/bg-pattern.jpg');
+}
+
+.logo {
+    height: 30px;
+    background-color: lightgray;
+    vertical-align: top;
+    text-align: center;
+    border-bottom: solid 1px #757575;
+}
+
+.logo img {
+    width: 25px;
+    height: 25px;
+    display: inline-block;
+}
+
+.header {
+    display: block;
+    width: 70%;
+    margin: 0 auto;
+}
+
+.header {
+    background-image: url('../imgs/clouds.png');
+    background-position: center center;
+}
+
+.header .image-container {
+    margin: 2% 2% 0 2%;
+}
+
+.hover-box {
+    position: absolute !important;
+}
+
+.image-container, .summary-container, .post-image, .post-info, .hover-box {
+    display: inline-block;
+}
+
+.post-content {
+    padding: 0 1%;
+}
+
+.register, .login {
+    padding-top: 3% !important;
+}
+
+.post-image {
+    vertical-align: top;
+    padding: 0 1% 1% 1%;
+}
+
+.summary-container {
+    vertical-align: bottom;
+    color: #fff;
+}
+
+.summary-container > h2 {
+    text-shadow: 2px 2px 2px #000;
+}
+
+.login {
+    margin: 0 auto !important;
+    float: none !important;
+}
+
+.main {
+    width: 60%;
+    margin: 0 auto;
+}
+
+img.mini-thumbnail {
+    width: 75px;
+    height: 75px;
+}
+
+img.thumbnail {
+    width: 150px;
+    height: 150px;
+    margin: 0;
+}
+
+.hover-box {
+    background-color: #F5F5F5;
+    border: solid 1px #E3E3E3;
+    padding: 5px;
+    box-shadow: 1px 1px 1px 1px gray;
+    /* display: none; */
+}
+
+.hover-box > div {
+    display: inline-block;
+    vertical-align: top;
+}
+
+.hover-profile-info {
+    padding: 5px;
+    width: 200px;
+}
+
+.hover-profile-name {
+    font-weight: bold;
+    font-style: italic;
+    font-size: 2rem;
+}
+
+.post-container {
+    /* display: none; */
+    width: 50%;
+    margin: 0 auto !important;
+}
+
+div.radio input {
+    vertical-align: bottom;
+}
+
+input[type="file"] {
+    position:absolute;
+    display:none !important;
+}
+
+.center-btn {
+    display: block !important;
+    text-align: center;
+}
+
+.picture-upload > div {
+    display: block !important;
+    text-align: center;
+}
+
+.picture-name {
+    overflow: hidden;
+}
+
+.picture-upload > div > img, button {
+    display: inline-block;
+}
+
+.home-buttons-container {
+    margin-top: 5%;
+}
+
+.home-btn {
+    width: 300px !important;
+    border: solid 4px #EBEBEB !important;
+    border-radius: 0 !important;
+}
+
+.center {
+    text-align: center;
+}
+
+a {
+    cursor: pointer !important;
+}
+
+footer {
+    border-top: solid 1px #E3E3E3;
+    background-color: #F5F5F5;
+}
+
+@media only screen and (max-width: 490px) {
+    .image-container {
+        margin: 0 auto;
+    }
+}

@@ -1,0 +1,16 @@
+{{#posts}}
+<article class="post well">
+    <header class="post-header">
+        <div class="post-image">
+            <img class="mini-thumbnail" src="{{imageUrl}}"/>
+        </div>
+        <div class="post-info">
+            <p class="test"><a class="profile-link" id="{{authorId}}">{{author}}</a> made a post</p>
+            <p>on <time>{{dateCreated}}</time></p>
+        </div>
+    </header>
+    <section class="post-content">
+        <p>{{content}}</p>
+    </section>
+</article>
+{{/posts}}

@@ -1,0 +1,25 @@
+﻿<ul>
+    {{#products}}
+    <li class="product">
+        <div class="product-info">
+            <p class="item-name">{{name}}</p>
+            <p class="category">
+                <span class="pre">Category:</span>{{category}}
+            </p>
+            <p class="price">
+                <span class="pre">Price:</span> ${{price}}
+            </p>
+        </div>
+        <footer class="product-footer">
+            {{#editable}}
+            <a href="#/Edit/{{id}}">
+                <button class="edit-button">Edit</button>
+            </a>
+            <a href="#/Delete/{{id}}">
+                <button class="delete-button">Delete</button>
+            </a>
+            {{/editable}}
+        </footer>
+    </li>
+    {{/products}}
+</ul>
