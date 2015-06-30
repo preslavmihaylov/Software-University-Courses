@@ -1,0 +1,25 @@
+A NoSQL (often interpreted as Not only SQL) database 
+provides a mechanism for storage and retrieval of data 
+that is modeled in means other than the tabular relations 
+used in relational databases.
+
+NoSQL Types:
+*Document model (e.g. MongoDB, CouchDB)
+  - Set of documents, e.g. JSON strings
+*Key-value model (e.g. Redis)
+  - Set of key-value pairs
+*Wide-column model (e.g. Cassandra)
+  - Key-value model with schema
+*Object model (e.g. Caché)
+  - Set of OOP-style objects
+
+
+NoSQL DBs Examples:
+* Redis
+  - Ultra-fast in-memory data structures server
+* MongoDB
+  - Mature and powerful JSON-document database
+* CouchDB
+  - JSON-based document database with REST API
+* Cassandra
+  - Distributed wide-column database

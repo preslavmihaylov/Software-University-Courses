@@ -1,0 +1,21 @@
+Integrity constraints ensure data integrity 
+in the database tables. Enforce data rules 
+which cannot be violated.
+
+Types:
+1. Primary key constraint:
+Ensures that the primary key of a table has
+unique value for each table row
+
+2. Unique key constraint:
+Ensures that all values in a certain column 
+(or a group of columns) are unique
+
+3.Foreign key constraint:
+Ensures that the value in given column is a key from another table
+
+4. Check constraint:
+Ensures that values in a certain column meet 
+some predefined condition. Example:
+(hour >= 0) AND (hour < 24)
+

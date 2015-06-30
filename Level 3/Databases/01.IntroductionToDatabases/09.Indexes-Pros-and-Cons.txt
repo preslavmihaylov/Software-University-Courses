@@ -1,0 +1,59 @@
+A database index is a data structure that improves 
+the speed of data retrieval operations on a database 
+table at the cost of additional writes and storage space 
+to maintain the index data structure. 
+Indexes are used to quickly locate data without having to 
+search every row in a database table every time 
+a database table is accessed.
+
+Indexing methods:
+ *Non-clustered - The data is present in arbitrary order, 
+but the logical ordering is specified by the index.
+ 
+ *Clustered - Clustering alters the data block into
+acertain distinct order to match the index, 
+resulting in the row data being stored in order.
+ 
+ *Cluster - When multiple databases and multiple tables are joined, 
+ it's referred to as a cluster
+
+B-Tree:
+In computer science, a B-tree is a tree data structure 
+that keeps data sorted and allows searches, 
+sequential access, insertions, and deletions in logarithmic time. 
+The B-tree is a generalization of a binary search tree 
+in that a node can have more than two children
+
+Clustered Index:
+Clustered indexes sort and store the data rows 
+in the table or view based on their key values. 
+These are the columns included in the index definition. 
+There can be only one clustered index per table, 
+because the data rows themselves can be sorted in only one order.
+
+Columnstore index:
+The in-memory columnstore index is the standard for 
+storing and querying large data warehousing fact tables. 
+It uses column-based data storage and query processing 
+to achieve up to 10x query performance gains in your 
+data warehouse over traditional row-oriented storage, 
+and up to 10x data compression over the uncompressed data size.
+
+Full Text Search:
+In text retrieval, full text search refers to techniques 
+for searching a single computer-stored document 
+or a collection in a full text database.
+When the number of documents to search is potentially large, 
+or the quantity of search queries to perform is substantial, 
+the problem of full-text search is often divided 
+into two tasks: indexing and searching. 
+The indexing stage will scan the text of all the documents 
+and build a list of search terms 
+(often called an index, but more correctly named a concordance). 
+In the search stage, when performing a specific query,
+only the index is referenced, 
+rather than the text of the original documents.
+
+Spatial index:
+A spatial column is a table column that contains data
+of a spatial data type, such as geometry or geography.

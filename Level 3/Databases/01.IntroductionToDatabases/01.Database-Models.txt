@@ -1,0 +1,56 @@
+Types of DB Models:
+1. Hierarchical DB Model
+2. Network Model
+3. Relational Model
+4. Entity-Relationship model
+5. Object Model
+6. Document Model
+And more...
+
+1. Hierarchical DB Model:
+A Data model, in which the data is organized in a tree. 
+The data is stored as records, which are connected via links.
+A record is a collection of fields, with each one holding
+only one value. (Corresponds to rows in RDBMS)
+
+2. Network Model
+DB Model allowing a flexible way of representing objects
+and their relationships. Its schema is viewed as a graph.
+While the hierarchical model allows an entity to have
+only one parent and many childs, in the network model,
+an entity can have many parents and many childs.
+
+3. Relational model
+In the relational model of a database, 
+all data is represented in terms of tuples, 
+grouped into relations.
+A database organized in terms of the relational model
+is a relational database.
+
+4.Entity-Relationship model (ER Model)
+a data model for describing the data
+or information aspects of a business domain 
+or its process requirements, in an abstract way 
+that lends itself to ultimately being implemented
+in a database such as a relational database.
+The main components of ER models are entities (things)
+and the relationships that can exist among them.
+
+5. Object Model
+A database management system in which information
+is represented in the form of objects 
+as used in object-oriented programming. 
+Object databases are different from 
+relational databases which are table-oriented.
+Object-relational databases are a hybrid of both approaches.
+
+6. Document Model
+Document databases get their type information 
+from the data itself, normally store all 
+related information together, and allow every instance 
+of data to be different from any other. 
+This makes them more flexible in dealing 
+with change and optional values, 
+maps more easily into program objects, 
+and often reduces database size. 
+This makes them attractive for programming modern web applications.

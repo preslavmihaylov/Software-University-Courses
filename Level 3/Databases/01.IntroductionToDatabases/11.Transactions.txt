@@ -1,0 +1,37 @@
+A transaction symbolizes a unit of work performed 
+within a database management system (or similar system) 
+against a database, and treated in a coherent and reliable way 
+independent of other transactions.
+
+A database transaction, by definition, must be:
+Atomic        |  A 
+Consistent    |  C
+Isolated      |  I
+Durable       |  D
+
+Purpose:
+Databases and other data stores which treat the integrity 
+of data as paramount often include the ability to handle 
+transactions to maintain the integrity of data. 
+A single transaction consists of one or more independent 
+units of work, each reading and/or writing information to a 
+database or other data store. 
+When this happens it is often important to ensure that all 
+such processing leaves the database or data store in a 
+consistent state.
+
+Transaction Log:
+Every SQL Server database has a transaction log that records 
+all transactions and the database modifications made by each 
+transaction. The transaction log must be truncated on a 
+regular basis to keep it from filling up. 
+However, some factors can delay log truncation, 
+so monitoring log size is important. 
+Some operations can be minimally logged to reduce their impact 
+on transaction log size.
+
+The transaction log is a critical component of the database and, 
+if there is a system failure, the transaction log might be 
+required to bring your database back to a consistent state. 
+The transaction log should never be deleted or moved unless you 
+fully understand the ramifications of doing this.

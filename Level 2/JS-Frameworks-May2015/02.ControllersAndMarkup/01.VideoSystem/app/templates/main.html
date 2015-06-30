@@ -1,0 +1,36 @@
+﻿<div>
+    OrderBy:
+    <select ng-model="sortOrder">
+        <option selected value="length">Length</option>
+        <option value="title">Title</option>
+        <option value="-date">Date</option>
+        <option value="-subscribers">Subscribers Count</option>
+    </select>
+</div>
+<hr />
+<div ng-repeat="video in videos | orderBy:sortOrder">
+    <div><h4>Title: </h4>{{ video.title }}</div>
+    <div>
+        <img ng-src="{{ video.pictureUrl }}" alt="No pic available" />
+    </div>
+    <div><h4>Length: </h4>{{ video.length }}</div>
+    <div><h4>Category: </h4>{{ video.category }}</div>
+    <div><h4>Subscribers count: </h4>{{ video.subscribers }}</div>
+    <div><h4>Created at: </h4>{{ video.date | date:'yyyy-MM-dd' }}</div>
+    <div>Subtitles available? {{ video.hasSubtitles }}</div>
+    <br />
+    <h3>Comments:</h3>
+    <br />
+    <div ng-repeat="comment in video.comments">
+        <div>{{ comment.username }}</div>
+        <div>{{ comment.content }}</div>
+        <div>{{ comment.date | date:'yyyy-MM-dd' }}</div>
+        <div>{{ comment.likes }}</div>
+        <div>{{ comment.websiteUrl }}</div>
+    </div>
+    <br />
+    <hr />
+</div>
+<form action="#/Add">
+    <input type="submit" value="Add new video">
+</form>

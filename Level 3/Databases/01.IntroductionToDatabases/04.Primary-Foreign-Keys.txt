@@ -1,0 +1,5 @@
+A Primary key is the unique key (column(s)) in a table 
+which is used for indexing different objects. 
+It cannot be repeated in the same table.
+A foreign key specifies the primary key of an object from
+another table that the current object is related to.

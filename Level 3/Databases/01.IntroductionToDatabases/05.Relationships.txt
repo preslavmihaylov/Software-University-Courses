@@ -1,0 +1,21 @@
+A relationship is used to specify the connection between
+two tables in a DB. There are several types of relationships:
+One-to-Many, Many-to-Many, One-to-One
+
+One-to-Many - The mainly used relationship. It describes
+that entity X is related to many entities (Y1, Y2, Y3...),
+but entities Y1, Y2, Y3... are related to only one entity X.
+An example:
+A customer has many orders, but an order has only one customer.
+
+Many-to-Many - Describes that entities x1, x2, x3... are
+related to many entities y1, y2, y3 and the other way around.
+This type of relationship is archieved via an intermediate
+table.
+Example: A student has many courses and a course has many students.
+
+One-to-One - One entity is related to only one other entity
+and the other way around. Used to model Inheritance in
+DBs.
+Example: A person could be a teacher and a teacher only 
+and the teacher is a person and nothing else

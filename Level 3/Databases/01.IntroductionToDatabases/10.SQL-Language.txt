@@ -1,0 +1,17 @@
+SQL (Structured Query Language) is a special-purpose 
+programming language designed for managing data held 
+in a relational database management system (RDBMS).
+
+SQL is designed for a specific purpose: 
+to query data contained in a relational database. 
+SQL is a set-based, declarative programming language, 
+not an imperative programming language like C or BASIC. 
+
+Sample Syntax:
+
+SELECT b.isbn, b.title, b.price, sales.items_sold sales.company_nm
+FROM Book b,
+(SELECT SUM(Items_Sold) Items_Sold, Company_Nm, ISBN
+FROM Book_Sales
+GROUP BY Company_Nm, ISBN) sales
+WHERE sales.isbn = b.isbn

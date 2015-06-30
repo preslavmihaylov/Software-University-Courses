@@ -1,0 +1,36 @@
+1. SQL is a special-purpose programming language designed 
+for managing data held in a relational database management system (RDBMS),
+or for stream processing in a relational data stream management system (RDSMS).
+Originally based upon relational algebra and tuple relational calculus, 
+SQL consists of a data definition language and a data manipulation language.
+
+2. DML - Data Manipulation Language.
+A data manipulation language (DML) is a family of syntax elements 
+similar to a computer programming language used for selecting, inserting, deleting and updating data in a database. 
+Performing read-only queries of data is sometimes also considered a component of DML.
+
+Data manipulation languages have their functional capability organized by the initial word in a statement, 
+which is almost always a verb. In the case of SQL, these verbs are:
+
+SELECT ... FROM ... WHERE ...
+INSERT INTO ... VALUES ...
+UPDATE ... SET ... WHERE ...
+DELETE FROM ... WHERE ...
+
+3. DDL - Data Definition Language.
+A data definition language or data description language (DDL) is a syntax similar 
+to a computer programming language for defining data structures, especially database schemas.
+Many data description languages use a declarative syntax to define fields and data types. 
+SQL, however, uses a collection of imperative verbs whose effect is to modify the schema 
+of the database by adding, changing, or deleting definitions of tables or other objects. 
+These statements can be freely mixed with other SQL statements, so the DDL is not truly a separate language.
+
+For example, the command to create a table named employees with a few sample columns would be:
+
+CREATE TABLE employees (
+    id            INTEGER      PRIMARY KEY,
+    first_name    VARCHAR(50) not null,
+    last_name     VARCHAR(75) not null,
+    fname         VARCHAR(50) not null,
+    dateofbirth   DATE         null
+);

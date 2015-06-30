@@ -1,0 +1,5 @@
+The objective of normalized databases is to reduce 
+data redundancy. Therefore, the benefits of it is that
+you don't have to repeat data all the time, which makes
+editing the current data simpler. The cons of it, however,
+is that this way the DB is less readable to the human eye.
