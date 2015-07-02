@@ -1,0 +1,15 @@
+4. Да се напише cron job, който да стартира скрипа my_system_check.sh.
+Скрипта трябва да се стартира на всеки 15мин само в часовете между 
+09:00 и 18:00, и да работи само в дните от Понеделник до Петък.
+
+# Fedora based cron job
+
+# First we start the crond service
+$ service crond start
+
+$ vi /etc/crontab
+
+# Add the following line
+*/15 09-18 * * mon-fri root bash my_system_check.sh
+
+

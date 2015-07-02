@@ -1,0 +1,44 @@
+﻿6. Опишете content-а на следните файлове от /proc файловата система: modules, filesystems, diskstats, mounts
+
+/proc/modules - Съдържа информация относно LKM*
+
+	Основно файлът е изграден от три колони, които определят следното:
+
+	 - първата показва името на съответния LKM
+	 - втората колона показва размера в байтове на модула
+	 - третата показва "use count" на съответния модул. Тоест колко неща зависят от него. 
+	 Ако числото е 0, това значи, че модула може да бъде спрян. В случай, че цифрата
+	 е -1, това означава, че модула не използва "use count", за да се определни дали може да бъде спрян
+	 
+	LKM (Loadable Kernel Module) - обект, който съдържа код, който разширява базовия kernel на дадена OS. 
+	Също е наричан и "kernel extension".
+	
+/proc/filesystems - показва файловите системи, които са поддържани от базовия kernel.
+
+	Ако пред дадена файлова система пише nodev, това означава, че файловата система не е асоциирана
+	с някакъв device като например dev/sdb1
+	
+/proc/diskstats - Показва статистика за block device-ите.
+
+Всяка линия съдържа 14 колони, които отговарят за следното:
+	 1 - major number
+	 2 - minor mumber
+	 3 - device name
+	 4 - reads completed successfully
+	 5 - reads merged
+	 6 - sectors read
+	 7 - time spent reading (ms)
+	 8 - writes completed
+	 9 - writes merged
+	10 - sectors written
+	11 - time spent writing (ms)
+	12 - I/Os currently in progress
+	13 - time spent doing I/Os (ms)
+	14 - weighted time spent doing I/Os (ms)
+	
+	
+/proc/mounts - Показва информация за всички текущи mount-ове. Файлът прилича на /etc/mtab, но дава up-to-date информация.
+
+	Първата колона показва mount-натото устройство, втората mount point-а, а третата файловата система, която е използвана.
+	Четвъртата колона показва дали устройството е read-write или read-only. Останалите две колони са dummy числа, които целят 
+	да match-нат формата на mtab файла.

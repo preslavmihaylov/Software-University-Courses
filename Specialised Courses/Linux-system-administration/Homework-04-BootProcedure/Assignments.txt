@@ -1,0 +1,7 @@
+﻿1. Опишете за какво се използват директориите /var/run & /var/lock в повечето Linux дистрибуции
+2. Направете target file за Apache web server за Systemd
+3. Конфигурирайте aggety за serial console ttyS0 за Systemd
+4. Направете job definition file за Apache web server за Systemd
+5. Направете job definition file за serial console за Upstart
+6. С каква опция можете да монтирате файлова система така, че да неможете да стартирате нито една програма от там,
+но да можете да пишете и четете файлове свободно. Моля напишете цялата команда.

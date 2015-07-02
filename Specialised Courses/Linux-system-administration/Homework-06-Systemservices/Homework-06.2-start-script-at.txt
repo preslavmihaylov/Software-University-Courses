@@ -1,0 +1,5 @@
+2. Да се опише как посредством at мога да стартирам script-а /home/hackman/bin/my_backup.sh утре(деня след изпълнение на at командата) в 11:35 сутринта.
+
+at 11:35 tomorrow <<EOT
+> bash /home/hackman/bin/my_backup.sh
+> EOT
