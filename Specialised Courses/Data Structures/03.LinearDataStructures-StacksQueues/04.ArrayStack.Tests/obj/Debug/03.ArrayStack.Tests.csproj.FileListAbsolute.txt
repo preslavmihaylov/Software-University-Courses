@@ -1,0 +1,7 @@
+D:\Programming\Software-University-Courses\Specialised Courses\Data Structures\03.LinearDataStructures-StacksQueues\03.ArrayStack.Tests\bin\Debug\03.ArrayStack.Tests.dll
+D:\Programming\Software-University-Courses\Specialised Courses\Data Structures\03.LinearDataStructures-StacksQueues\03.ArrayStack.Tests\bin\Debug\03.ArrayStack.Tests.pdb
+D:\Programming\Software-University-Courses\Specialised Courses\Data Structures\03.LinearDataStructures-StacksQueues\03.ArrayStack.Tests\bin\Debug\03.ArrayBasedStack.exe
+D:\Programming\Software-University-Courses\Specialised Courses\Data Structures\03.LinearDataStructures-StacksQueues\03.ArrayStack.Tests\bin\Debug\03.ArrayBasedStack.pdb
+D:\Programming\Software-University-Courses\Specialised Courses\Data Structures\03.LinearDataStructures-StacksQueues\03.ArrayStack.Tests\obj\Debug\03.ArrayStack.Tests.csprojResolveAssemblyReference.cache
+D:\Programming\Software-University-Courses\Specialised Courses\Data Structures\03.LinearDataStructures-StacksQueues\03.ArrayStack.Tests\obj\Debug\03.ArrayStack.Tests.dll
+D:\Programming\Software-University-Courses\Specialised Courses\Data Structures\03.LinearDataStructures-StacksQueues\03.ArrayStack.Tests\obj\Debug\03.ArrayStack.Tests.pdb

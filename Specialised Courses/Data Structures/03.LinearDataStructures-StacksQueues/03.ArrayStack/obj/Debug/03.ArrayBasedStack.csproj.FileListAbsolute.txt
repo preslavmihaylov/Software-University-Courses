@@ -1,0 +1,5 @@
+D:\Programming\Software-University-Courses\Specialised Courses\Data Structures\03.LinearDataStructures-StacksQueues\03.ArrayBasedStack\bin\Debug\03.ArrayBasedStack.exe
+D:\Programming\Software-University-Courses\Specialised Courses\Data Structures\03.LinearDataStructures-StacksQueues\03.ArrayBasedStack\bin\Debug\03.ArrayBasedStack.pdb
+D:\Programming\Software-University-Courses\Specialised Courses\Data Structures\03.LinearDataStructures-StacksQueues\03.ArrayBasedStack\obj\Debug\03.ArrayBasedStack.csprojResolveAssemblyReference.cache
+D:\Programming\Software-University-Courses\Specialised Courses\Data Structures\03.LinearDataStructures-StacksQueues\03.ArrayBasedStack\obj\Debug\03.ArrayBasedStack.exe
+D:\Programming\Software-University-Courses\Specialised Courses\Data Structures\03.LinearDataStructures-StacksQueues\03.ArrayBasedStack\obj\Debug\03.ArrayBasedStack.pdb

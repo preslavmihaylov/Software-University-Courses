@@ -1,0 +1,2 @@
+D:\Programming\Software-University-Courses\Specialised Courses\Data Structures\02.Linear-Data-Structures\LinearDataStructures\00.DoublyLinkedList\obj\Debug\DoublyLinkedList.exe
+D:\Programming\Software-University-Courses\Specialised Courses\Data Structures\02.Linear-Data-Structures\LinearDataStructures\00.DoublyLinkedList\obj\Debug\DoublyLinkedList.pdb

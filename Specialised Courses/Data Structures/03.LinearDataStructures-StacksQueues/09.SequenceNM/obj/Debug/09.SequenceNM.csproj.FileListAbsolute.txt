@@ -1,0 +1,7 @@
+D:\Programming\Software-University-Courses\Specialised Courses\Data Structures\03.LinearDataStructures-StacksQueues\SequenceNM\bin\Debug\SequenceNM.exe
+D:\Programming\Software-University-Courses\Specialised Courses\Data Structures\03.LinearDataStructures-StacksQueues\SequenceNM\bin\Debug\SequenceNM.pdb
+D:\Programming\Software-University-Courses\Specialised Courses\Data Structures\03.LinearDataStructures-StacksQueues\SequenceNM\obj\Debug\09.SequenceNM.csprojResolveAssemblyReference.cache
+D:\Programming\Software-University-Courses\Specialised Courses\Data Structures\03.LinearDataStructures-StacksQueues\SequenceNM\obj\Debug\SequenceNM.exe
+D:\Programming\Software-University-Courses\Specialised Courses\Data Structures\03.LinearDataStructures-StacksQueues\SequenceNM\obj\Debug\SequenceNM.pdb
+D:\Programming\Software-University-Courses\Specialised Courses\Data Structures\03.LinearDataStructures-StacksQueues\09.SequenceNM\obj\Debug\SequenceNM.exe
+D:\Programming\Software-University-Courses\Specialised Courses\Data Structures\03.LinearDataStructures-StacksQueues\09.SequenceNM\obj\Debug\SequenceNM.pdb

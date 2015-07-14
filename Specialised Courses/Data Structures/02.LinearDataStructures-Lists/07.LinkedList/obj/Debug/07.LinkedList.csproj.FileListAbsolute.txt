@@ -1,0 +1,5 @@
+D:\Programming\Software-University-Courses\Specialised Courses\Data Structures\02.Linear-Data-Structures\LinearDataStructures\07.LinkedList\obj\Debug\07.LinkedList.csprojResolveAssemblyReference.cache
+D:\Programming\Software-University-Courses\Specialised Courses\Data Structures\02.Linear-Data-Structures\LinearDataStructures\07.LinkedList\bin\Debug\07.LinkedList.exe
+D:\Programming\Software-University-Courses\Specialised Courses\Data Structures\02.Linear-Data-Structures\LinearDataStructures\07.LinkedList\bin\Debug\07.LinkedList.pdb
+D:\Programming\Software-University-Courses\Specialised Courses\Data Structures\02.Linear-Data-Structures\LinearDataStructures\07.LinkedList\obj\Debug\07.LinkedList.exe
+D:\Programming\Software-University-Courses\Specialised Courses\Data Structures\02.Linear-Data-Structures\LinearDataStructures\07.LinkedList\obj\Debug\07.LinkedList.pdb
