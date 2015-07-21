@@ -1,5 +1,0 @@
-D:\Programming\Software-University-Courses\Specialised Courses\Data Structures\02.LinearDataStructures\08.DistanceInLabyrinth\bin\Debug\08.DistanceInLabyrinth.exe
-D:\Programming\Software-University-Courses\Specialised Courses\Data Structures\02.LinearDataStructures\08.DistanceInLabyrinth\bin\Debug\08.DistanceInLabyrinth.pdb
-D:\Programming\Software-University-Courses\Specialised Courses\Data Structures\02.LinearDataStructures\08.DistanceInLabyrinth\obj\Debug\08.DistanceInLabyrinth.csprojResolveAssemblyReference.cache
-D:\Programming\Software-University-Courses\Specialised Courses\Data Structures\02.LinearDataStructures\08.DistanceInLabyrinth\obj\Debug\08.DistanceInLabyrinth.exe
-D:\Programming\Software-University-Courses\Specialised Courses\Data Structures\02.LinearDataStructures\08.DistanceInLabyrinth\obj\Debug\08.DistanceInLabyrinth.pdb

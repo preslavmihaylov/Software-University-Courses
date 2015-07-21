@@ -1,5 +1,0 @@
-D:\Programming\Software-University-Courses\Specialised Courses\Data Structures\03.LinearDataStructures-StacksQueues\01.ReverseNumbersWithStack\bin\Debug\01.ReverseNumbersWithStack.exe
-D:\Programming\Software-University-Courses\Specialised Courses\Data Structures\03.LinearDataStructures-StacksQueues\01.ReverseNumbersWithStack\bin\Debug\01.ReverseNumbersWithStack.pdb
-D:\Programming\Software-University-Courses\Specialised Courses\Data Structures\03.LinearDataStructures-StacksQueues\01.ReverseNumbersWithStack\obj\Debug\01.ReverseNumbersWithStack.csprojResolveAssemblyReference.cache
-D:\Programming\Software-University-Courses\Specialised Courses\Data Structures\03.LinearDataStructures-StacksQueues\01.ReverseNumbersWithStack\obj\Debug\01.ReverseNumbersWithStack.exe
-D:\Programming\Software-University-Courses\Specialised Courses\Data Structures\03.LinearDataStructures-StacksQueues\01.ReverseNumbersWithStack\obj\Debug\01.ReverseNumbersWithStack.pdb

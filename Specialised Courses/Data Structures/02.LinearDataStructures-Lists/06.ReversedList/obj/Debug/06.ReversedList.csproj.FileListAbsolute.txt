@@ -1,7 +1,0 @@
-D:\Programming\Software-University-Courses\Specialised Courses\Data Structures\02.Linear-Data-Structures\LinearDataStructures\06.ReversedList\bin\Debug\06.ReversedList.exe
-D:\Programming\Software-University-Courses\Specialised Courses\Data Structures\02.Linear-Data-Structures\LinearDataStructures\06.ReversedList\bin\Debug\06.ReversedList.pdb
-D:\Programming\Software-University-Courses\Specialised Courses\Data Structures\02.Linear-Data-Structures\LinearDataStructures\06.ReversedList\obj\Debug\06.ReversedList.csprojResolveAssemblyReference.cache
-D:\Programming\Software-University-Courses\Specialised Courses\Data Structures\02.Linear-Data-Structures\LinearDataStructures\06.ReversedList\obj\Debug\06.ReversedList.exe
-D:\Programming\Software-University-Courses\Specialised Courses\Data Structures\02.Linear-Data-Structures\LinearDataStructures\06.ReversedList\obj\Debug\06.ReversedList.pdb
-D:\Programming\Software-University-Courses\Specialised Courses\Data Structures\02.LinearDataStructures\06.ReversedList\obj\Debug\06.ReversedList.exe
-D:\Programming\Software-University-Courses\Specialised Courses\Data Structures\02.LinearDataStructures\06.ReversedList\obj\Debug\06.ReversedList.pdb

@@ -1,5 +1,0 @@
-D:\Programming\Software-University-Courses\Specialised Courses\Data Structures\03.LinearDataStructures-StacksQueues\00.CircularQueue\obj\Debug\CircularQueue.exe
-D:\Programming\Software-University-Courses\Specialised Courses\Data Structures\03.LinearDataStructures-StacksQueues\00.CircularQueue\obj\Debug\CircularQueue.pdb
-D:\Programming\Software-University-Courses\Specialised Courses\Data Structures\03.LinearDataStructures-StacksQueues\00.CircularQueue\bin\Debug\CircularQueue.exe
-D:\Programming\Software-University-Courses\Specialised Courses\Data Structures\03.LinearDataStructures-StacksQueues\00.CircularQueue\bin\Debug\CircularQueue.pdb
-D:\Programming\Software-University-Courses\Specialised Courses\Data Structures\03.LinearDataStructures-StacksQueues\00.CircularQueue\obj\Debug\00.CircularQueue.csprojResolveAssemblyReference.cache

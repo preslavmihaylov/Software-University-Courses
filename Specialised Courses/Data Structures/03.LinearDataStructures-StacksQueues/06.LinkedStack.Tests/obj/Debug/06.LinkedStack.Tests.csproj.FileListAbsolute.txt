@@ -1,7 +1,0 @@
-D:\Programming\Software-University-Courses\Specialised Courses\Data Structures\03.LinearDataStructures-StacksQueues\06.LinkedStack.Tests\bin\Debug\06.LinkedStack.Tests.dll
-D:\Programming\Software-University-Courses\Specialised Courses\Data Structures\03.LinearDataStructures-StacksQueues\06.LinkedStack.Tests\bin\Debug\06.LinkedStack.Tests.pdb
-D:\Programming\Software-University-Courses\Specialised Courses\Data Structures\03.LinearDataStructures-StacksQueues\06.LinkedStack.Tests\bin\Debug\05.LinkedStack.exe
-D:\Programming\Software-University-Courses\Specialised Courses\Data Structures\03.LinearDataStructures-StacksQueues\06.LinkedStack.Tests\bin\Debug\05.LinkedStack.pdb
-D:\Programming\Software-University-Courses\Specialised Courses\Data Structures\03.LinearDataStructures-StacksQueues\06.LinkedStack.Tests\obj\Debug\06.LinkedStack.Tests.csprojResolveAssemblyReference.cache
-D:\Programming\Software-University-Courses\Specialised Courses\Data Structures\03.LinearDataStructures-StacksQueues\06.LinkedStack.Tests\obj\Debug\06.LinkedStack.Tests.dll
-D:\Programming\Software-University-Courses\Specialised Courses\Data Structures\03.LinearDataStructures-StacksQueues\06.LinkedStack.Tests\obj\Debug\06.LinkedStack.Tests.pdb

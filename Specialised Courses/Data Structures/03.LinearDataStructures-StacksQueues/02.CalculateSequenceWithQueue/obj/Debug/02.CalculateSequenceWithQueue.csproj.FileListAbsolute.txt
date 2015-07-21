@@ -1,5 +1,0 @@
-D:\Programming\Software-University-Courses\Specialised Courses\Data Structures\03.LinearDataStructures-StacksQueues\02.CalculateSequenceWithQueue\bin\Debug\02.CalculateSequenceWithQueue.exe
-D:\Programming\Software-University-Courses\Specialised Courses\Data Structures\03.LinearDataStructures-StacksQueues\02.CalculateSequenceWithQueue\bin\Debug\02.CalculateSequenceWithQueue.pdb
-D:\Programming\Software-University-Courses\Specialised Courses\Data Structures\03.LinearDataStructures-StacksQueues\02.CalculateSequenceWithQueue\obj\Debug\02.CalculateSequenceWithQueue.csprojResolveAssemblyReference.cache
-D:\Programming\Software-University-Courses\Specialised Courses\Data Structures\03.LinearDataStructures-StacksQueues\02.CalculateSequenceWithQueue\obj\Debug\02.CalculateSequenceWithQueue.exe
-D:\Programming\Software-University-Courses\Specialised Courses\Data Structures\03.LinearDataStructures-StacksQueues\02.CalculateSequenceWithQueue\obj\Debug\02.CalculateSequenceWithQueue.pdb

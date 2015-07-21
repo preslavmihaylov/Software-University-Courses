@@ -1,5 +1,0 @@
-D:\Programming\Software-University-Courses\Specialised Courses\Data Structures\03.LinearDataStructures-StacksQueues\07.LinkedQueue\bin\Debug\07.LinkedQueue.exe
-D:\Programming\Software-University-Courses\Specialised Courses\Data Structures\03.LinearDataStructures-StacksQueues\07.LinkedQueue\bin\Debug\07.LinkedQueue.pdb
-D:\Programming\Software-University-Courses\Specialised Courses\Data Structures\03.LinearDataStructures-StacksQueues\07.LinkedQueue\obj\Debug\07.LinkedQueue.csprojResolveAssemblyReference.cache
-D:\Programming\Software-University-Courses\Specialised Courses\Data Structures\03.LinearDataStructures-StacksQueues\07.LinkedQueue\obj\Debug\07.LinkedQueue.exe
-D:\Programming\Software-University-Courses\Specialised Courses\Data Structures\03.LinearDataStructures-StacksQueues\07.LinkedQueue\obj\Debug\07.LinkedQueue.pdb
