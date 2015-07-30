@@ -1,0 +1,94 @@
+﻿<?xml version="1.0" encoding="utf-8" ?> 
+
+<!-- 
+Create a XML document students.xml, which contains structured description of students. For each student you should
+enter information for his name, gender, birth date (in ISO 8601 format), phone number (optional), email, university, 
+specialty, faculty number (optional) and a list of taken exams (exam name, date taken, grade).
+-->
+
+<students xmlns="urn:students"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <student>
+    <name>Pesho Nikolov</name>
+    <gender>Male</gender>
+    <birth-date>1995-11-06T13:15:30Z</birth-date>
+    <phone-number>+359 89 2451079</phone-number>
+    <email>pesho@abv.bg</email>
+    <university>Software University</university>
+    <specialty>Software Engineering</specialty>
+    <faculty-number>1430205920</faculty-number>
+    <exams>
+      <exam>
+        <date>2015-11-06T13:15:30Z</date>
+        <subject>OOP</subject>
+        <grade>6.00</grade>
+      </exam>
+      <exam>
+        <date>2015-12-06T13:15:30Z</date>
+        <subject>HQC</subject>
+        <grade>5.55</grade>
+      </exam>
+      <exam>
+        <date>2015-10-06T13:15:30Z</date>
+        <subject>Java Basics</subject>
+        <grade>5.85</grade>
+      </exam>
+    </exams>
+  </student>
+  
+  <student>
+    <name>Georgi Nikolov</name>
+    <gender>Male</gender>
+    <birth-date>1995-12-06T13:15:30Z</birth-date>
+    <phone-number>+359 89 2452079</phone-number>
+    <email>gosho@abv.bg</email>
+    <university>Technical University</university>
+    <specialty>Software Engineering</specialty>
+    <faculty-number>1430205921</faculty-number>
+    <exams>
+      <exam>
+        <date>2013-11-06T13:15:30Z</date>
+        <subject>Mathematical Analysis</subject>
+        <grade>4.14</grade>
+      </exam>
+      <exam>
+        <date>2014-12-06T13:15:30Z</date>
+        <subject>Physics</subject>
+        <grade>5.56</grade>
+      </exam>
+      <exam>
+        <date>2015-10-06T13:15:30Z</date>
+        <subject>C Basics</subject>
+        <grade>5.85</grade>
+      </exam>
+    </exams>
+  </student>
+
+  <student>
+    <name>Maria Dimitrova</name>
+    <gender>Female</gender>
+    <birth-date>1994-11-05T13:15:30Z</birth-date>
+    <phone-number>+359 88 3562079</phone-number>
+    <email>maria@abv.bg</email>
+    <university>Plovdiv University</university>
+    <specialty>Software Technologies</specialty>
+    <faculty-number>1430205922</faculty-number>
+    <exams>
+      <exam>
+        <date>2012-11-06T13:15:30Z</date>
+        <subject>Linear Algebra</subject>
+        <grade>5.24</grade>
+      </exam>
+      <exam>
+        <date>2013-09-05T13:15:30Z</date>
+        <subject>C# Basics</subject>
+        <grade>4.56</grade>
+      </exam>
+      <exam>
+        <date>2014-07-03T13:15:30Z</date>
+        <subject>OOP</subject>
+        <grade>5.65</grade>
+      </exam>
+    </exams>
+  </student>
+</students>

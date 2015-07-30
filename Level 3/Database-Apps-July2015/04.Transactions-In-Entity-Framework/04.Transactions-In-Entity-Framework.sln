@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01.NewsDB", "01.NewsDB\01.NewsDB.csproj", "{95D166D3-58F9-4866-8A59-9275EBE24571}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02.ConcurrentUpdates", "02.ConcurrentUpdates\02.ConcurrentUpdates.csproj", "{143F3F7F-CCF5-49BC-8DF4-7F954C0EF0CF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04-06.ATM-Engine", "04-06.ATM-Engine\04-06.ATM-Engine.csproj", "{241E43A5-3B1D-413E-A66C-948775735641}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{95D166D3-58F9-4866-8A59-9275EBE24571}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{95D166D3-58F9-4866-8A59-9275EBE24571}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{95D166D3-58F9-4866-8A59-9275EBE24571}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{95D166D3-58F9-4866-8A59-9275EBE24571}.Release|Any CPU.Build.0 = Release|Any CPU
+		{143F3F7F-CCF5-49BC-8DF4-7F954C0EF0CF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{143F3F7F-CCF5-49BC-8DF4-7F954C0EF0CF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{143F3F7F-CCF5-49BC-8DF4-7F954C0EF0CF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{143F3F7F-CCF5-49BC-8DF4-7F954C0EF0CF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{241E43A5-3B1D-413E-A66C-948775735641}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{241E43A5-3B1D-413E-A66C-948775735641}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{241E43A5-3B1D-413E-A66C-948775735641}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{241E43A5-3B1D-413E-A66C-948775735641}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
