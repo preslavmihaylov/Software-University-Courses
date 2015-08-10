@@ -1,19 +1,17 @@
 ﻿using System;
 using System.Collections.Generic;
-using System.Linq;
 
-/* A very unoptimised solution. It works, but it takes an awful amount of time. */
 class Sorting
 {
     class SequenceNode
     {
-        public SequenceNode(int[] sequence, int iterationCount)
+        public SequenceNode(string sequence, int iterationCount)
         {
             this.Sequence = sequence;
             this.IterationCount = iterationCount;
         }
 
-        public int[] Sequence { get; set; }
+        public string Sequence { get; set; }
         public int IterationCount { get; set; }
     }
 
@@ -32,17 +30,19 @@ class Sorting
     private static int RequiredOperationsForSorting()
     {
         Queue<SequenceNode> operationQueue = new Queue<SequenceNode>();
-        List<SequenceNode> usedSequences = new List<SequenceNode>();
+        HashSet<string> usedSequences = new HashSet<string>();
 
-        operationQueue.Enqueue(new SequenceNode(sequence, 0));
-        usedSequences.Add(new SequenceNode(sequence, 0));
+        string sequenceAsString = string.Join("-", sequence);
+
+        operationQueue.Enqueue(new SequenceNode(sequenceAsString, 0));
+        usedSequences.Add(sequenceAsString);
 
         int operationsCount = -1;
         int usedSequencesCount = 0;
         while (operationQueue.Count > 0)
         {
             SequenceNode currentNode = operationQueue.Dequeue();
-            int[] currentSequence = currentNode.Sequence;
+            string[] currentSequence = currentNode.Sequence.Split('-');
             operationsCount++;
 
             if (IsSorted(currentSequence))
@@ -52,15 +52,16 @@ class Sorting
 
             for (int index = 0; index <= currentSequence.Length - consecutiveElements; index++)
             {
-                int[] newSequence = new int[currentSequence.Length];
+                string[] newSequence = new string[currentSequence.Length];
                 Array.Copy(currentSequence, newSequence, currentSequence.Length);
 
                 ReverseElements(newSequence, index, index + (consecutiveElements - 1));
+                sequenceAsString = string.Join("-", newSequence);
 
-                if (!usedSequences.Where(s => Enumerable.SequenceEqual(s.Sequence, newSequence)).Any())
+                if (!usedSequences.Contains(sequenceAsString))
                 {
-                    operationQueue.Enqueue(new SequenceNode(newSequence, currentNode.IterationCount + 1));
-                    usedSequences.Add(new SequenceNode(newSequence, currentNode.IterationCount + 1));
+                    operationQueue.Enqueue(new SequenceNode(sequenceAsString, currentNode.IterationCount + 1));
+                    usedSequences.Add(sequenceAsString);
                 }
             }
 
@@ -69,11 +70,11 @@ class Sorting
         return -1;
     }
 
-    private static bool IsSorted(int[] array)
+    private static bool IsSorted(string[] array)
     {
         for (int index = 1; index < array.Length; index++)
         {
-            if (array[index] < array[index - 1])
+            if (array[index].CompareTo(array[index - 1]) < 0)
             {
                 return false;
             }
@@ -82,11 +83,11 @@ class Sorting
         return true;
     }
 
-    private static void ReverseElements(int[] array, int start, int end)
+    private static void ReverseElements(string[] array, int start, int end)
     {
         for (int index = start; index <= (end + start) / 2; index++)
         {
-            int temp = array[index];
+            string temp = array[index];
             array[index] = array[end - (index - start)];
             array[end - (index - start)] = temp;
         }
