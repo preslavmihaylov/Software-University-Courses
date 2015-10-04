@@ -8,22 +8,19 @@ namespace LiveDemo
         {
             int width = int.Parse(Console.ReadLine());
 
-            int height = (int) (width * 1.5);
-
-            int count = 0;
+            int height = (int)(width * 1.5);
 
             for (int row = 0; row < height; row++)
             {
                 for (int col = 0; col < width; col++)
                 {
-                    if (count == 0)
+                    bool isStripe = (row + col) % 3 == 0;
+                    if (isStripe)
                     {
-                        count = 2;
-                        Console.Write("#");   
+                        Console.Write("#");
                     }
                     else
                     {
-                        count--;
                         Console.Write(".");
                     }
                 }
