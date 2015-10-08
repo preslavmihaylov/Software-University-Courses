@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1443616007 source:c:\users\pmihaylo\c-projects\algorithms\02.combinatorialalgorithms\06.snakes\snakes.c
+	<stdio.h>
+	<stdlib.h>
+
+1443701858 source:c:\users\pmihaylo\c-projects\algorithms\02.combinatorialalgorithms\06.snakes\snakes.cpp
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<unordered_set>
+	<iostream>
+	<sstream>
+	<algorithm>
+

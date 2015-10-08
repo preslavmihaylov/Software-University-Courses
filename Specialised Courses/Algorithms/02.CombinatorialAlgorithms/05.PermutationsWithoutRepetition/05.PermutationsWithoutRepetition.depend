@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1444032091 source:c:\users\pmihaylo\c-projects\algorithms\02.combinatorialalgorithms\05.permutationswithoutrepetition\permutationswithoutrepetition.c
+	<stdio.h>
+	<stdlib.h>
+	<limits.h>
+

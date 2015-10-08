@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1443164539 source:c:\users\pmihaylo\c-projects\algorithms\02.combinatorialalgorithms\00.4.combinationswithoutrepetition\combinationswithoutrepetition.c
+	<stdio.h>
+	<stdlib.h>
+

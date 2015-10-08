@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1444035700 source:c:\users\pmihaylo\c-projects\algorithms\02.combinatorialalgorithms\07.cubes\cubes.cpp
+	<iostream>
+	<string.h>
+	<unordered_set>
+	<sstream>
+
+1443979417 source:d:\programming\software-university-courses\specialised courses\algorithms\cpp-combinatorics\02.combinatorialalgorithms\07.cubes\cubes.cpp
+	<iostream>
+	<string.h>
+	<unordered_set>
+

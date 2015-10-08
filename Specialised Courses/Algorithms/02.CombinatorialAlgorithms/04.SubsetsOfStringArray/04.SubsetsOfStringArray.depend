@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1443596742 source:c:\users\pmihaylo\c-projects\algorithms\02.combinatorialalgorithms\04.subsetsofstringarray\subsetsofstringarray.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
