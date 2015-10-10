@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.40629.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05.KnightPath", "05.KnightPath\05.KnightPath.csproj", "{D7A6DC46-A4C1-4564-ABB2-E8937F30243A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03.MagicWand", "03.MagicWand\03.MagicWand.csproj", "{7E78C952-9421-44B0-9362-21A549FC529E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04.ArrayMatcher", "04.ArrayMatcher\04.ArrayMatcher.csproj", "{23754C2B-6265-47AE-BDD6-E69269B0489B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D7A6DC46-A4C1-4564-ABB2-E8937F30243A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D7A6DC46-A4C1-4564-ABB2-E8937F30243A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D7A6DC46-A4C1-4564-ABB2-E8937F30243A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D7A6DC46-A4C1-4564-ABB2-E8937F30243A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7E78C952-9421-44B0-9362-21A549FC529E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7E78C952-9421-44B0-9362-21A549FC529E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7E78C952-9421-44B0-9362-21A549FC529E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7E78C952-9421-44B0-9362-21A549FC529E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{23754C2B-6265-47AE-BDD6-E69269B0489B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{23754C2B-6265-47AE-BDD6-E69269B0489B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{23754C2B-6265-47AE-BDD6-E69269B0489B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{23754C2B-6265-47AE-BDD6-E69269B0489B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
