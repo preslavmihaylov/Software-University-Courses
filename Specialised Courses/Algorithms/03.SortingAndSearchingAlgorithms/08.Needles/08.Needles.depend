@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1444682781 source:d:\programming\software-university-courses\specialised courses\algorithms\03.sortingandsearchingalgorithms\08.needles\needles.cpp
+	<iostream>
+	<limits.h>
+
