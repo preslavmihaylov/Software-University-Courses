@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1444992148 source:c:\users\pmihaylo\c-projects\algorithms\04.dynamicprogramming\04.representingsumwithunlimitedcoins\representingsumwithunlimitedcoins.cpp
+	<iostream>
+	<sstream>
+	<string>
+	<stdlib.h>
+

@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1444739158 source:c:\users\pmihaylo\c-projects\algorithms\04.dynamicprogramming\00.2.longestcommonsubsequence\longestcommonsubsequence.cpp
+	<iostream>
+	<math.h>
+	<iostream>
+

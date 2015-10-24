@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1445611550 source:c:\users\pmihaylo\c-projects\algorithms\06.advancedgraphalgorithms\00.2.mst-prim\mst-prim.cpp
+	<iostream>
+	<stdio.h>
+	"Heap.h"
+
+1445612166 c:\users\pmihaylo\c-projects\algorithms\06.advancedgraphalgorithms\00.2.mst-prim\heap.h
+	<vector>
+

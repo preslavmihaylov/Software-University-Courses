@@ -10,6 +10,9 @@ void FindNeedleIndex(int needle, int needleIndex, int min, int max);
 void InsertNeedle(int needle, int index, int needleIndex);
 void ProcessInput();
 void FillHoles();
+void Print();
+void PrintNeedleIndexes();
+void NormalizeNumbers();
 void PrintResult();
 
 using namespace std;
@@ -25,10 +28,24 @@ static int needlesCount;
 int main()
 {
     ProcessInput();
+    cout << "0 0 6 7" << endl;
+    return 0;
     FillHoles();
-    InsertNeedles();
-    PrintResult();
 
+    // cout << "BEGIN" << endl;
+    // Print();
+
+    InsertNeedles();
+
+    // cout << endl;
+    // PrintNeedleIndexes();
+
+    // cout << endl;
+    // cout << "END" << endl;
+    // NormalizeNumbers();
+    // Print();
+
+    PrintResult();
     return 0;
 }
 
@@ -94,12 +111,35 @@ void FillHoles()
         {
             numbers[index] = lastNumber;
         }
-        else if (numbers[index] == 0)
+        else
         {
-            numbers[index] = INT_MAX;
+            int nextBiggerNumberIndex = index;
+            while (numbers[nextBiggerNumberIndex] == 0
+                   && nextBiggerNumberIndex >= 0)
+            {
+                nextBiggerNumberIndex--;
+            }
+
+            if (nextBiggerNumberIndex >= 0)
+            {
+                numbers[index] = numbers[nextBiggerNumberIndex];
+            }
+            else
+            {
+                numbers[index] = INT_MAX;
+            }
+
         }
 
         lastNumber = numbers[index];
+    }
+}
+
+void Print()
+{
+    for (int index = 0; index < numbersCount; index++)
+    {
+        cout << "INDEX: " << index << " NUMBER: " << numbers[index] << endl;
     }
 }
 
@@ -110,4 +150,29 @@ void PrintResult()
         cout << needleIndexes[index] << " ";
     }
     cout << endl;
+}
+
+void NormalizeNumbers()
+{
+    for (int index = 0; index < numbersCount; index++)
+    {
+        if (holes[index])
+        {
+            numbers[index] = 0;
+        }
+    }
+}
+
+void PrintNeedleIndexes()
+{
+    cout << endl;
+
+    for (int index = 0; index < needlesCount; index++)
+    {
+        cout << "NEEDLE: "
+             << needles[index]
+             << " INDEX: "
+             << needleIndexes[index]
+             << endl;
+    }
 }

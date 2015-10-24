@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1444892216 source:c:\users\pmihaylo\c-projects\algorithms\04.dynamicprogramming\00.3.knapsackproblem\knapsackproblem.cpp
+	<iostream>
+	<limits.h>
+

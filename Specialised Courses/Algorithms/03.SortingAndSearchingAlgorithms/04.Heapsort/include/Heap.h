@@ -30,10 +30,6 @@ class Heap
                 this->HeapifyDown(index);
             }
         };
-        virtual ~Heap()
-        {
-            delete &this->heap;
-        };
         int Count();
         T ExtractMin();
         T PeekMin();

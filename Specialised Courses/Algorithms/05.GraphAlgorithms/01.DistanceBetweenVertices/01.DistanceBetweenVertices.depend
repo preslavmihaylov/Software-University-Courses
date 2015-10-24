@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1445239614 source:c:\users\pmihaylo\c-projects\algorithms\05.graphalgorithms\01.distancebetweenvertices\distancebetweenvertices.cpp
+	<stdio.h>
+	<queue>
+	<limits.h>
+
