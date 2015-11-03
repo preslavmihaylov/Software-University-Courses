@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
 <CodeBlocks_layout_file>
 	<ActiveTarget name="Debug" />
-	<File name="MST-Kruskal.cpp" open="0" top="0" tabpos="1" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+	<File name="MostReliablePath.cpp" open="0" top="0" tabpos="1" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
 		<Cursor>
-			<Cursor1 position="339" topLine="0" />
+			<Cursor1 position="0" topLine="122" />
 		</Cursor>
 		<Folding>
 			<Collapse line="0" />
 			<Collapse line="10" />
-			<Collapse line="27" />
-			<Collapse line="50" />
-			<Collapse line="64" />
+			<Collapse line="16" />
+			<Collapse line="20" />
+			<Collapse line="29" />
 		</Folding>
 	</File>
 </CodeBlocks_layout_file>
