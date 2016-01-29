@@ -1,0 +1,9 @@
+Package: perimeter-surface
+Version: 0.1
+Section: custom
+Priority: optional
+Architecture: all
+Essential: no
+Installed-Size: 1024
+Maintainer: pmihaylov95@gmail.com
+Description: Calculates perimeter and surface area of a regular polygon
