@@ -1,0 +1,9 @@
+Package: prime-numbers
+Version: 0.1
+Section: custom
+Priority: optional
+Architecture: all
+Essential: no
+Installed-Size: 1024
+Maintainer: pmihaylov95@gmail.com
+Description: Calculates the count of prime numbers for 1.8 seconds
