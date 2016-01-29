@@ -1,3 +1,0 @@
-﻿15. Какво е името на device file-а за SD карти ?
-
-device file name: mmcblk

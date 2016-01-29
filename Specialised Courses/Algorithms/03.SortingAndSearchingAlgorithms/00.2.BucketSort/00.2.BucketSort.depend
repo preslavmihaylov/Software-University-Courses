@@ -1,8 +1,0 @@
-# depslib dependency file v1.0
-1444220314 source:c:\users\pmihaylo\c-projects\algorithms\03.sortingandsearchingalgorithms\00.2.bucketsort\bucketsort.cpp
-	<iostream>
-	<limits.h>
-	<stdlib.h>
-	<vector>
-	<algorithm>
-

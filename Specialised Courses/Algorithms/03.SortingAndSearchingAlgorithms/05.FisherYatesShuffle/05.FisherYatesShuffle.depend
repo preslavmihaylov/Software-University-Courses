@@ -1,6 +1,0 @@
-# depslib dependency file v1.0
-1444228666 source:c:\users\pmihaylo\c-projects\algorithms\03.sortingandsearchingalgorithms\05.fisheryatesshuffle\fisheryatesshuffle.cpp
-	<iostream>
-	<random>
-	<time.h>
-

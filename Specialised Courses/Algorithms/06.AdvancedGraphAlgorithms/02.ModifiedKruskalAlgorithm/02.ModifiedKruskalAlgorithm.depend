@@ -1,6 +1,0 @@
-# depslib dependency file v1.0
-1445862494 source:c:\users\pmihaylo\c-projects\algorithms\06.advancedgraphalgorithms\02.modifiedkruskalalgorithm\modifiedkruskalalgorithm.cpp
-	<iostream>
-	<stdio.h>
-	<math.h>
-

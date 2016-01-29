@@ -1,6 +1,0 @@
-# depslib dependency file v1.0
-1447664358 source:c:\users\pmihaylo\cpp-projects\algorithms\08.problemsolvingmethodology\01.blocks\blocks.cpp
-	<iostream>
-	<unordered_set>
-	<sstream>
-

@@ -1,6 +1,0 @@
-# depslib dependency file v1.0
-1445592673 source:c:\users\pmihaylo\c-projects\algorithms\04.dynamicprogramming\08.symbolmultiplication\symbolmultiplication.cpp
-	<iostream>
-	<string.h>
-	<deque>
-

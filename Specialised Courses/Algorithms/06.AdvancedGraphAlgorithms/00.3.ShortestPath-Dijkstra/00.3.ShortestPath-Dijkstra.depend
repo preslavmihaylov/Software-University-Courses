@@ -1,6 +1,0 @@
-# depslib dependency file v1.0
-1445851003 source:c:\users\pmihaylo\c-projects\algorithms\06.advancedgraphalgorithms\00.3.shortestpath-dijkstra\shortestpath-dijkstra.cpp
-	<iostream>
-	<limits.h>
-	<queue>
-

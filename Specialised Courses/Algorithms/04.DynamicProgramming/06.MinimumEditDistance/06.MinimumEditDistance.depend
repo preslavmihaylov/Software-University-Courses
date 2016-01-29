@@ -1,7 +1,0 @@
-# depslib dependency file v1.0
-1445437952 source:c:\users\pmihaylo\c-projects\algorithms\04.dynamicprogramming\06.minimumeditdistance\minimumeditdistance.cpp
-	<iostream>
-	<string.h>
-	<math.h>
-	<limits.h>
-

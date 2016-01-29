@@ -1,7 +1,0 @@
-# depslib dependency file v1.0
-1444979969 source:c:\users\pmihaylo\c-projects\algorithms\04.dynamicprogramming\02.longestzigzagsubsequence\longestzigzagsubsequence.cpp
-	<iostream>
-	<sstream>
-	<string>
-	<stdlib.h>
-

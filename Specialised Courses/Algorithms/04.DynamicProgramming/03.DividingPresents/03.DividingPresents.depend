@@ -1,8 +1,0 @@
-# depslib dependency file v1.0
-1444982303 source:c:\users\pmihaylo\c-projects\algorithms\04.dynamicprogramming\03.dividingpresents\dividingpresents.cpp
-	<iostream>
-	<algorithm>
-	<sstream>
-	<string>
-	<math.h>
-

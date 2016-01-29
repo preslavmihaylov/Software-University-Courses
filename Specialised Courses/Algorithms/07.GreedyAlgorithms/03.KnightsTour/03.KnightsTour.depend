@@ -1,6 +1,0 @@
-# depslib dependency file v1.0
-1446377193 source:d:\programming\software-university-courses\specialised courses\algorithms\07.greedyalgorithms\03.knightstour\knightstour.cpp
-	<stdlib.h>
-	<iostream>
-	<iomanip>
-

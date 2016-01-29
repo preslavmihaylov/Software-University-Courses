@@ -1,7 +1,0 @@
-# depslib dependency file v1.0
-1446037439 source:c:\users\pmihaylo\c-projects\algorithms\06.advancedgraphalgorithms\05.sp-bellmanford\sp-bellmanford.cpp
-	<iostream>
-	<stdio.h>
-	<stdlib.h>
-	<limits.h>
-

@@ -1,6 +1,0 @@
-# depslib dependency file v1.0
-1446367362 source:d:\programming\software-university-courses\specialised courses\algorithms\07.greedyalgorithms\01.fractionalknapsackproblem\fractionalknapsackproblem.cpp
-	<iostream>
-	<stdio.h>
-	<stdlib.h>
-

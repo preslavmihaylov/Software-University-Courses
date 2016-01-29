@@ -1,7 +1,0 @@
-# depslib dependency file v1.0
-1446206486 source:c:\users\pmihaylo\c-projects\algorithms\06.advancedgraphalgorithms\07.biconnectedcomponents-tarjan\biconnectedcomponents-tarjan.cpp
-	<iostream>
-	<stack>
-	<stdio.h>
-	<stdlib.h>
-

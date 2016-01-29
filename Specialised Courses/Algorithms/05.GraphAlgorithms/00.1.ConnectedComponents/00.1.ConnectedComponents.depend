@@ -1,6 +1,0 @@
-# depslib dependency file v1.0
-1445510312 source:c:\users\pmihaylo\c-projects\algorithms\05.graphalgorithms\00.1.connectedcomponents\connectedcomponents.cpp
-	<iostream>
-	<sstream>
-	<stdlib.h>
-

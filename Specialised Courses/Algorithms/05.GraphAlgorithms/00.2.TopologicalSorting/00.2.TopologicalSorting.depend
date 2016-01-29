@@ -1,6 +1,0 @@
-# depslib dependency file v1.0
-1445513470 source:c:\users\pmihaylo\c-projects\algorithms\05.graphalgorithms\00.2.topologicalsorting\topologicalsorting.cpp
-	<iostream>
-	<sstream>
-	<stdlib.h>
-

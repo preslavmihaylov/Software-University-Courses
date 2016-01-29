@@ -1,4 +1,0 @@
-Hello, I am studying C# at SoftUni.
-C# is my favorite language.
-I like C# and Java.
-at at at

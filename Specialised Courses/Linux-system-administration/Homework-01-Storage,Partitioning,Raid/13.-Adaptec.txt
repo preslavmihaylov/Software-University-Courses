@@ -1,3 +1,0 @@
-﻿13. Да се намери с каква/и команда/и се контролират hardware RAID controllers на Adaptec
-
-The command: arcconf

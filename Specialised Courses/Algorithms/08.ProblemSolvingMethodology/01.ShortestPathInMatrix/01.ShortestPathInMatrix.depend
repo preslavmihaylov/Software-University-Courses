@@ -1,5 +1,0 @@
-# depslib dependency file v1.0
-1447747530 source:c:\users\pmihaylo\cpp-projects\algorithms\08.problemsolvingmethodology\01.shortestpathinmatrix\shortestpathinmatrix.cpp
-	<iostream>
-	<limits.h>
-
