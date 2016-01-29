@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1446025973 source:c:\users\pmihaylo\c-projects\algorithms\06.advancedgraphalgorithms\04.sp-floydwarshall\sp-floydwarshall.cpp
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	<limits.h>
+

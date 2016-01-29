@@ -1,0 +1,9 @@
+1. Да се опише за какво се използва командата at & daemon-а atd :)
+
+at - Command that executes a given command on a precisely scheduled time. 
+Unlike cron, it is executed only once when the time has come. 
+The syntax is as follows - at (TIME) (COMMAND). Note that the time can be in
+any regular datetime format.
+
+atd - The daemon that checks the list with the at jobs periodically and 
+executes them when the time comes.

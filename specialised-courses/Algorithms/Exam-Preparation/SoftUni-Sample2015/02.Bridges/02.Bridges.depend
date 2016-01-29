@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1447072226 source:c:\users\pmihaylo\cpp-projects\algorithms\exam-preparation\sample-exam\02.bridges\bridges.cpp
+	<iostream>
+	<sstream>
+	<vector>
+

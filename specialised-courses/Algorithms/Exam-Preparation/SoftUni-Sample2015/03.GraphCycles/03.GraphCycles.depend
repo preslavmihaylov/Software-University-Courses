@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1447080809 source:c:\users\pmihaylo\cpp-projects\algorithms\exam-preparation\sample-exam\03.graphcycles\graphcycles.cpp
+	<iostream>
+	<sstream>
+	<vector>
+	<set>
+	<stdio.h>
+
+1447095138 source:d:\programming\software-university-courses\specialised courses\algorithms\exam-preparation\sample-exam\03.graphcycles\graphcycles.cpp
+	<iostream>
+	<sstream>
+	<vector>
+	<set>
+	<stdio.h>
+

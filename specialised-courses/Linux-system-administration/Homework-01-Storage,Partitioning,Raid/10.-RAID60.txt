@@ -1,0 +1,9 @@
+﻿10. Да се напише/ат командата/ите за създаване на софтуерен RAID60 от 10 SATA диска
+
+NOTE: sd* - Съответните SATA hard disk-ове
+
+1. mdadm --create /dev/md0 -l6 -n5 /dev/sda /dev/sdb /dev/sdc /dev/sdd /dev/sde
+
+2. mdadm --create /dev/md1 -l6 -n5 /dev/sdf /dev/sdg /dev/sdh /dev/sdi /dev/sdj
+
+3. mdadm --create /dev/md2 -l0 -n2 /dev/md0 /dev/md1

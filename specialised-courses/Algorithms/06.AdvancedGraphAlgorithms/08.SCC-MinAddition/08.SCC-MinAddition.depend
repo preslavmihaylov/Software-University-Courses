@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1446564991 source:c:\users\pmihaylo\cpp-projects\algorithms\06.advancedgraphalgorithms\08.scc-minaddition\scc-minaddition.cpp
+	<iostream>
+	<stdio.h>
+

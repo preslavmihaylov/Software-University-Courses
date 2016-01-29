@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1444223378 source:c:\users\pmihaylo\c-projects\algorithms\03.sortingandsearchingalgorithms\00.3.binarysearch\binarysearch.cpp
+	<iostream>
+	<algorithm>
+

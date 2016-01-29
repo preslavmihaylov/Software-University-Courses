@@ -1,0 +1,17 @@
+﻿5. Избройте няколко (минимум 3) Linux файлови системи специално разработени за работа с памет(SD Cards, USB Drives, SSD disks)
+
+F2FS - Flash-Friendly File System is a flash file system 
+created by Kim Jaegeuk at Samsung for the Linux operating system kernel.
+The motivation for F2FS was to build a file system
+that from the start takes into account the characteristics
+of NAND flash memory-based storage devices (such as solid-state disks, eMMC, and SD cards),
+which have been widely being used in computer systems ranging from mobile devices to servers.
+
+UBIFS - UBIFS has been merged since Linux 2.6.22 in 2008. UBIFS has been actively developed from its initial merge.
+UBIFS has documentation hosted at infradead.org along with JFFS2 and MTD drivers.
+Some initial comparison show UBIFS with compression faster than F2FS
+
+JFFS / JFFS2 / YAFFS
+JFFS was the first flash-specific file system for Linux, but it was quickly superseded by JFFS2, 
+originally developed for NOR flash. Then YAFFS was released in 2002, dealing specifically with NAND flash, 
+and JFFS2 was updated to support NAND flash too.

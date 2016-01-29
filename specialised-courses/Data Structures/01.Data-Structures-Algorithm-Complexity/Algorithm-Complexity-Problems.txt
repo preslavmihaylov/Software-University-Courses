@@ -1,0 +1,150 @@
+----------------------------------------------------------
+Sample Class - StupidList
+----------------------------------------------------------
+
+public class StupidList<T>
+{
+    private T[] arr = new T[0];
+
+    public int Length
+    {
+        get
+        {
+            return this.arr.Length;
+        }
+    }
+
+    public T this[int index]
+    {
+        get
+        {
+            return this.arr[index];
+        }
+    }
+
+    public T First
+    {
+        get
+        {
+            return this.arr[0];
+        }
+    }
+
+    public T Last
+    {
+        get
+        {
+            return this.arr[this.arr.Length - 1];
+        }
+    }
+
+    public void Add(T item)
+    {
+        var newArr = new T[this.arr.Length + 1];
+        Array.Copy(this.arr, newArr, this.arr.Length);
+        newArr[newArr.Length - 1] = item;
+        this.arr = newArr;
+    }
+
+    public T Remove(int index)
+    {
+        T result = this.arr[index];
+        var newArr = new T[this.arr.Length - 1];
+        Array.Copy(this.arr, newArr, index);
+        Array.Copy(this.arr, index + 1, newArr, index, this.arr.Length - index - 1);
+        this.arr = newArr;
+        return result;
+    }
+
+    public T RemoveFirst()
+    {
+        return this.Remove(0);
+    }
+
+    public T RemoveLast()
+    {
+        return this.Remove(this.Length - 1);
+    }
+}
+
+
+----------------------------------------------------------
+Problem 1.	Add(T) Complexity
+----------------------------------------------------------
+
+We ignore the allocation process and all the assignments processes because they are not interesting as to running time and we 
+could mark them as C (Constant).
+
+However, what is interesting is this:
+Array.Copy(this.arr, index + 1, newArr, index, this.arr.Length - index - 1);
+
+We take every element from the first array and copy it to the other one. That means we have to iterate through the
+first array N times where N is the number of elements in it. Therefore we can say that the running time is:
+	N + C or simply O(N)
+	
+----------------------------------------------------------
+Problem 2.	Remove(index) Complexity – Worst Case
+----------------------------------------------------------	
+
+Again we ignore the allocation and object creation processes as they are not interesting for calculating the running time.
+
+We can see that we take the first half of the array and copy it and after that the other half without the removed index.
+That is what we are looking for. And it seems we are iterating through the array N - 1 times since we are iterating all of
+the elements without the removed index.
+
+Therefore, we could say that the running time is (N - 1) + C or again O(N).
+
+----------------------------------------------------------
+Problem 3.	Remove(index) Complexity – Best Case
+----------------------------------------------------------	
+
+In this scenario, the best case is the same as the worst case, since it doesn't matter which index we remove, 
+the array will still be iterated (N - 1) times. The only scenario in which that is not going to happen is if we
+input a wrong index and that would cause an exception.
+
+Therefore, I would say that the running time in the best case is still O(N).
+
+----------------------------------------------------------
+Problem 4.	Remove(index) Complexity – Average Case
+----------------------------------------------------------	
+
+As stated above, I think that the complexity is still O(N) in all cases.
+
+----------------------------------------------------------
+Problem 5.	RemoveFirst(T) Complexity
+----------------------------------------------------------	
+
+This method uses the method Remove(index), therefore it has the same complexity as the method - O(N)
+
+----------------------------------------------------------
+Problem 6.	RemoveLast(T) Complexity
+----------------------------------------------------------	
+
+Again, this one uses the same method as stated above, the complexity is still O(N)
+
+----------------------------------------------------------
+Problem 7.	Length Complexity
+----------------------------------------------------------
+
+This method simply returns the array length in constant time with no iteration. Therefore the complexity is O(1) or O(C).
+
+----------------------------------------------------------
+Problem 8.	This[index] Complexity
+----------------------------------------------------------
+
+This method works in a similar way as the previous way. It simply accesses the element without iterating anything.
+The complexity is O(1).
+
+----------------------------------------------------------
+Problem 9.	First Complexity
+----------------------------------------------------------
+
+This method accesses an element from the array directly and so, it has a complexity of O(1).
+
+----------------------------------------------------------
+Problem 10.	Last Complexity
+----------------------------------------------------------
+
+This one works in a similar way. The only difference is that it uses the .Length property of the array as well.
+Therefore, we could say this one is a bit slower than the previous one, but it isn't enough to make a 
+significant difference. The complexity is still O(1).

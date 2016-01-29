@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1445427314 source:c:\users\pmihaylo\c-projects\algorithms\04.dynamicprogramming\07.connectingcables\connectingcables.cpp
+	<iostream>
+	<stack>
+

@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1446120880 source:c:\users\pmihaylo\c-projects\algorithms\06.advancedgraphalgorithms\00.4.maxflow-fordfulkensson\maxflow-fordfulkensson.cpp
+	<stdio.h>
+	<stdlib.h>
+	<limits.h>
+	<iostream>
+	<sstream>
+	<iomanip>
+

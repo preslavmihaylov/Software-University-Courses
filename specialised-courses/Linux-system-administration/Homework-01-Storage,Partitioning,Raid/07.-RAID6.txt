@@ -1,0 +1,7 @@
+﻿7. Да се напише/ат командата/ите за създаване на софтуерен RAID6 от 5 SATA диска
+
+sda, sdb, sdc, sdd, sde - SATA hard disks
+
+The command:
+
+mdadm --create /dev/md0 -l6 -n5 /dev/sda /dev/sdb /dev/sdc /dev/sdd /dev/sde

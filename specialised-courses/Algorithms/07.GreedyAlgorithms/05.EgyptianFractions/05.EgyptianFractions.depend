@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1446386866 source:d:\programming\software-university-courses\specialised courses\algorithms\07.greedyalgorithms\05.egyptianfractions\egyptianfractions.cpp
+	<stdlib.h>
+	<stdio.h>
+	<iostream>
+	<string>
+	<vector>
+

@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1445860223 source:c:\users\pmihaylo\c-projects\algorithms\06.advancedgraphalgorithms\01.extendcablenetwork\extendcablenetwork.cpp
+	<iostream>
+	<stdio.h>
+	<sstream>
+	<limits.h>
+

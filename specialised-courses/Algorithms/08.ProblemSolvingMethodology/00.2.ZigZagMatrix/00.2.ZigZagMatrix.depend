@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1447672091 source:c:\users\pmihaylo\cpp-projects\algorithms\08.problemsolvingmethodology\00.2.zigzagmatrix\zigzagmatrix.cpp
+	<iostream>
+	<limits.h>
+

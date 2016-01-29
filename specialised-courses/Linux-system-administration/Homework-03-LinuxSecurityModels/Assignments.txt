@@ -1,0 +1,6 @@
+﻿1. Опишете какво представлява MAC security модела
+2. Опишете какво представлява RBAC security модела
+3. Опишете какво представлява SMACK security модела
+4. Опишете какво представлява TOMOYO security модела
+5. Опишете content-а на следните файлове от /proc файловата система: swaps, stat, schedstat
+6. Опишете content-а на следните файлове от /proc файловата система: modules, filesystems, diskstats, mounts
