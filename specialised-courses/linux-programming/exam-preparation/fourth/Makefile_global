@@ -1,0 +1,10 @@
+C_PROGRAM_DIR=sample_c_program
+KERN_MOD_DIR=kern_mod
+
+all:
+	cd $(C_PROGRAM_DIR) && make all
+	cd $(KERN_MOD_DIR) && make all
+
+clean:
+	cd $(C_PROGRAM_DIR) && make clean
+	cd $(KERN_MOD_DIR) && make clean
